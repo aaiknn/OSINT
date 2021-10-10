@@ -1,10 +1,26 @@
 ## Noteable Tools
+### Topazlabs: Gigapixel AI
+> Photo Enlargement with Gigapixel AI: Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
+
+[https://topazlabs.com/gigapixel-ai/](https://topazlabs.com/gigapixel-ai/)
+
 ### Greenwolf/social_mapper
 > This is probably one of the more impressive open source osint tools I've seen. You plug in various social network logins and passwords and it'll start building you profiles like in analyst's notebook.
 
 > warning don't use your own accounts, it'll get your ass banned. Make some blanks and run a proxy.
 
 [https://github.com/Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper)
+
+### IDCrawl.com
+> IDCrawl.com searches information in popular social networking platforms like Facebook, Twitter, Instagram and LinkedIn in addition to searching the whole web for providing image, document, news and other related results.
+
+[https://www.idcrawl.com/](https://www.idcrawl.com/)
+
+### iKy
+> Project iKy is a tool that collects information from an email and shows results in a nice visual interface.
+> Visit the Gitlab Page of the [Project](https://kennbroorg.gitlab.io/ikyweb/)
+
+[https://github.com/kennbroorg/iKy](https://github.com/kennbroorg/iKy)
 
 ## ID and Documents
 * [https://nidc.dk/en/ID-databases](https://nidc.dk/en/ID-databases)

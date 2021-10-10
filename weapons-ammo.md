@@ -1,16 +1,16 @@
 ## Lists of Resources
-* [SAS Ammunition Tracing Kit](_assets/SAS-Ammunition-Tracing-Kit.pdf)
+* [SAS AMMUNITION Tracing Kit](_assets/SAS-Ammunition-Tracing-Kit.pdf)
 * [List of websites, resources, monitoring, identifying, and tracing weapons and equipment that are used in international conflict](https://salw-guide.bicc.de/en/further-infos/other-db)
-* [Identifying firearms by country](https://www.militaryfactory.com/smallarms/guns-by-country.php)
+* [Identifying FIREARMS by country](https://www.militaryfactory.com/smallarms/guns-by-country.php)
 
 ## Databases
-* [bulletpicker.com: images, information, and pdf scans of obscure ordnance/military documents and manuals, explosives, fuses, rockts, torpedoes, and other. ~16GB](https://bulletpicker.com/index.html)
-* [municion.org: database of ammunition](https://municion.org/buscador/)
+* [Bulletpicker.com: Images, information, and pdf scans of obscure ordnance/military documents and manuals, explosives, fuses, rockts, torpedoes, and other. ~16GB](https://bulletpicker.com/index.html)
+* [Municion.org: Database of AMMUNITION](https://municion.org/buscador/)
 
 ## Encyclopedias and Collections
 * [Encyclopedia of FIREARMS and AMMUNITION](https://modernfirearms.net/en/)
-* [Military.com: Collection of descriptions, information, and high-res images of US military equipment](https://www.military.com/equipment)
-* [Ordnance.info: Hand grenade encyclopedia](https://ordnance.info/index.php)
+* [Military.com: Collection of descriptions, information, and high-res images of US MILITARY EQUIPMENT](https://www.military.com/equipment)
+* [Ordnance.info: HAND GRENADE encyclopedia](https://ordnance.info/index.php)
 
 ## Forums and Communities
 * [Forum for military surplus FIREARMS that contains images, descriptions, markings, etc.](https://www.milsurps.com/content.php)

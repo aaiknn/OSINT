@@ -12,3 +12,16 @@
 
 ## Traffic and Transportation
 See [[traffic-transportation]]
+
+## Vegetation
+* [http://opentreemap.github.io/](http://opentreemap.github.io/)
+
+### By Country
+#### Canada
+* [Vancouver's street tree map](https://opendata.vancouver.ca/explore/dataset/street-trees/)
+
+#### United Kingdom
+* [London's street trees](https://apps.london.gov.uk/street-trees/)
+
+#### USA
+* [NYC street tree map](https://tree-map.nycgovparks.org/)

@@ -17,3 +17,9 @@
 * [Rail network in Scandinavia](https://www.sj.se/content/dam/externt/bilder/ovrigt/kartor/kartaovernordiskajarnvagsnatet-2012.pdf)
 * [Railway Webcams](https://railwebcams.net/)
 * [TrainLine](https://www.thetrainline.com/)
+
+## Vehicles
+* [https://www.uk-osint.net/motorvehicle.html](https://www.uk-osint.net/motorvehicle.html)
+
+## Misc
+* [Smart meters GPS coordinates](https://twitter.com/BitBangingBytes/status/1388716726783672326?s=09)

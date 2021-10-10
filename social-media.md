@@ -2,10 +2,13 @@
 * [OSINT for INSTAGRAM and TWITTER](https://github.com/xadhrit/terra)
 * [Intelligence X tools for FACEBOOK, LINKEDIN, TELEGRAM, TWITTER, AND YOUTUBE](https://intelx.io/tools)
 * [https://github.com/MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list)
+* [EagleEye: Find social media profiles by image reverse search](https://github.com/ThoughtfulDev/EagleEye)
+* [Skylens: Location based social media intelligence](https://skylens.io/)
 
 ### Username Enumeration
 * [https://userhunt.co/](https://userhunt.co/)
 * [https://one-plus.github.io/](https://one-plus.github.io/)
+* [Usersearch.org social network search engine](https://usersearch.org/)
 
 ### Comments
 * [Export FACEBOOK, INSTAGRAM, TIKTOK, TWITTER, VIMEO, and YOUTUBE comments](https://exportcomments.com/)
@@ -18,6 +21,9 @@
 * [Trending Hashtags on FACEBOOK, INSTAGRAM, TWITTER, and PINTEREST in real time](https://www.hashatit.com/)
 * [https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/)
 
+### Articles
+* [https://www.cqcore.uk/email-to-username/](https://www.cqcore.uk/email-to-username/)
+
 ## Social Media
 ### Facebook
 #### Search
@@ -26,6 +32,9 @@
 
 #### Scraper
 * [Facebook profile data scraping](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
+
+#### Videos
+* [OSINT Curious: How to find Facebook data when a profile is private](https://www.youtube.com/watch?v=NqzvuUXkv6c)
 
 ### Instagram
 * [https://i.instagram.com/api/v1/users/lookup/id/info](https://i.instagram.com/api/v1/users/lookup/id/info)
@@ -43,10 +52,8 @@
 * [Revealin: Uncover full name of people on LinkedIn](https://github.com/mxrch/revealin)
 * [Step-by-step Guide to Deanonymise Emails on LinkedIn](https://www.gosecure.net/blog/2021/05/27/step-by-step-how-to-deanonymize-emails-on-linkedin/)
 
-#### Search
-* [Article: Hidden LinkedIn Search Operators](https://booleanstrings.com/linkedin-search-operators/)
-
 #### Articles
+* [Hidden LinkedIn Search Operators](https://booleanstrings.com/linkedin-search-operators/)
 * [https://www.cqcore.uk/are-you-linked-in/](https://www.cqcore.uk/are-you-linked-in/)
 
 ### Parler
@@ -54,6 +61,7 @@
 
 ### Reddit
 * [https://www.redditinvestigator.com/](https://www.redditinvestigator.com/)
+* [Find Subreddits by keyword](https://yasiv.com/reddit)
 
 ### Snapchat
 * [Searchable Database of Snapchat Profiles](https://www.ghostcodes.com/)
@@ -64,6 +72,7 @@
 
 ### TikTok
 * [https://www.skopenow.com/news/tiktok-investigations-and-osint-tips](https://www.skopenow.com/news/tiktok-investigations-and-osint-tips)
+* [Search from 55 million TikTok avatars](https://search4faces.com/tt00/index.html)
 
 #### Search
 * [https://www.osintcombine.com/tiktok-quick-search](https://www.osintcombine.com/tiktok-quick-search)
@@ -82,6 +91,7 @@
 * [Twitter account analysis](https://accountanalysis.app/)
 * [TweetBeaver: Twitter analytics, search / download timelines, account data, etc](https://tweetbeaver.com/)
 * [Twitter ID and username converter](https://tweeterid.com/)
+* [Trendsmap: Trending Hashtags and Topics on Twitter](https://www.trendsmap.com/map)
 
 #### Search
 * [https://github.com/igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
@@ -112,6 +122,9 @@
 #### Articles
 * [https://osintcurio.us/2021/05/06/investigating-discord-a-primer/](https://osintcurio.us/2021/05/06/investigating-discord-a-primer/)
 
+#### Collections
+* [https://github.com/Dutchosintguy/OSINT-Discord-resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
+
 ## Messengers
 ### Kik
 * [https://github.com/netkas-zz/KikToolset](https://github.com/netkas-zz/KikToolset)
@@ -128,7 +141,12 @@
 * [List of many OSINT resources for Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 * [Search public messages, channel info, and author info](https://search.buzz.im/)
 
+#### Articles
+* [https://owlspace.xyz/cybersec/tg-nearby/](https://owlspace.xyz/cybersec/tg-nearby/)
+
 ### WhatsApp
+* [Download anyone's WhatsApp profile picture](https://whatsapptools.net/download-profile-picture)
+
 #### Scraper
 * [WhatsApp group link scraper and checker](https://github.com/TheSpeedX/WhatScraper)
 
@@ -153,3 +171,9 @@
 
 ### Dating Apps and Hookup Sites
 * [https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
+
+### GitHub
+* [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
+
+### Spotify
+* [https://laptrinhx.com/osint-investigations-on-spotify-4007838654/](https://laptrinhx.com/osint-investigations-on-spotify-4007838654/)

@@ -10,17 +10,13 @@
 ## Language
 * [https://chanscan.com/](https://chanscan.com/), a knowledge base for the language used by online subcultures like 4chan
 
-## Emotion
+## Emotion and Sentiment Analysis
 * [IBM Watson Deep Learning tone analyser](https://tone-analyzer-demo.ng.bluemix.net/)
-
-## Deanonymise Tor Users Using Scheme Flooding
-* [https://fingerprintjs.com/blog/external-protocol-flooding/](https://fingerprintjs.com/blog/external-protocol-flooding/)
-* [https://www.theregister.com/2021/05/14/browser_fingerprinting_flaw/](https://www.theregister.com/2021/05/14/browser_fingerprinting_flaw/)
-demo website at [https://schemeflood.com/](https://schemeflood.com/)
+* [https://deepai.org/machine-learning-model/sentiment-analysis](https://deepai.org/machine-learning-model/sentiment-analysis)
 
 ## Misc: Needs Checking
 ### Sorted
-* [Social Links software for OSINT investigestion](https://sociallinks.io/)
+* [Social Links: software for OSINT investigestion](https://sociallinks.io/)
 * [osint.sh: Find public AWS buckets](https://osint.sh/buckets/)
 * [grayhatwarfare: Find public AWS buckets](https://buckets.grayhatwarfare.com/)
 

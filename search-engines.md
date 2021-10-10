@@ -1,10 +1,13 @@
 * [Directory of search engines from around the world](https://www.searchenginelinks.co.uk/)
 * [Million Short: remove the first N of the most popular search results](https://millionshort.com/)
+* [Yamli.com Arabic search engine](https://www.yamli.com/)
 
 ## Google
 * [http://www.googleguide.com/](http://www.googleguide.com/)
 * [https://ahrefs.com/blog/google-advanced-search-operators/](https://ahrefs.com/blog/google-advanced-search-operators/)
-* [I Search From: Customise google search request metadata?](http://isearchfrom.com/)
+* [I Search From: Customise Google search request metadata?](http://isearchfrom.com/)
+* [2lingual.com: Bilingual Google search](https://2lingual.com/)
+* [Google.com search browsing site status](https://transparencyreport.google.com/safe-browsing/search)
 
 ### Google Hacking Database
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
@@ -32,6 +35,7 @@
 ## Reverse Image Search Engines
 * [Berify: Find stolen images online](https://berify.com/)
 * [PimEyes Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)
+* [Pixsy: Find and fight image theft](https://www.pixsy.com/)
 
 ## Specialised Search Engines
 ### CameraTrace

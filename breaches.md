@@ -9,6 +9,7 @@
 ## Breaches
 ### Site Breaches
 * [https://haveibeenpwned.com/PwnedWebsites](https://haveibeenpwned.com/PwnedWebsites)
+* [https://joe.black/leakengine.html](https://joe.black/leakengine.html)
 * [https://web.archive.org/web/https://publicdbhost.dmca.gripe/](https://web.archive.org/web/https://publicdbhost.dmca.gripe/)
 * [https://nuclearleaks.com/](https://nuclearleaks.com/)
 * [https://vigilante.pw/](https://vigilante.pw/)
@@ -18,6 +19,7 @@
 * `site:pastebin.com intext:domain name`
 * [https://amibreached.com/](https://amibreached.com/)
 * [https://ashley.cynic.al/](https://ashley.cynic.al/)
+* [https://breachchecker.com/](https://breachchecker.com/)
 * ~~[https://breachdirectory.tk/](https://breachdirectory.tk/)~~ ~~has a [free API via RapidAPI](https://rapidapi.com/rohan-patra/api/breachdirectory)~~ was taken down
 * [https://breachdirectory.org/](https://breachdirectory.org/) is back up.
 * [https://burnermail.io/resources/data-breach-checker](https://burnermail.io/resources/data-breach-checker)
@@ -46,6 +48,10 @@
 * [https://weleakinfo.to/](https://weleakinfo.to/)
 
 #### Onion Sites
+* [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
+
+### Onion Breaches
+* [https://pwndb2am4tzkvold.onion.ws/](https://pwndb2am4tzkvold.onion.ws/)
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
 
 ### Paste Searches
