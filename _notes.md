@@ -21,7 +21,7 @@
 * [grayhatwarfare: Find public AWS buckets](https://buckets.grayhatwarfare.com/)
 
 ### Unsorted
-* [https://www.blockint.nl/the-osint-library/](https://www.blockint.nl/the-osint-library/)]
+* [https://www.blockint.nl/the-osint-library/](https://www.blockint.nl/the-osint-library/)
 * [https://www.inquisitiveintel.com/post/golf-social-networks](https://www.inquisitiveintel.com/post/golf-social-networks)
 * [https://technisette.com/p/tools](https://technisette.com/p/tools)
 * [https://www.uk-osint.net/](https://www.uk-osint.net/)

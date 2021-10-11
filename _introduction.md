@@ -84,8 +84,8 @@ WITPRO	- Witness Protection
 * [mcbroken: World map of Mc Donald's shops that currently have broken ice cream machines](https://mcbroken.com/)
 
 ## OSINT Attack Surface
-![ip-attack-surface.png](ip-attack-surface.png)
-![person-attack-surface.jpeg](person-attack-surface.jpeg)
+![[ip-attack-surface.png]]
+![[person-attack-surface.jpeg]]
 ![[person-centered-osint.png]]
 
 ## OSINT People
