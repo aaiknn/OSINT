@@ -55,3 +55,7 @@ An OSINT tool to get a target's phone number by having their email address: [htt
 
 ## HAM Radio
 * [https://www.qrz.com/](https://www.qrz.com/)
+
+### By Country
+#### Canada
+* [https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup](https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup)

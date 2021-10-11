@@ -5,6 +5,8 @@
 * [Ransomwhere ransomware payment tracker](https://ransomwhe.re/)
 * [Surveillance Self-Defense Tips](https://ssd.eff.org/)
 * [Portmaster: Monitor, filter, and block your network traffic](https://safing.io/portmaster/)
+* [SimeonOnSecurity: Collection on privacy related resources](https://simeononsecurity.ch/recommendations/privacy/)
+* [Awesome Incident Response: A curated list of tools for IR](https://github.com/meirwah/awesome-incident-response)
 
 ## Breaches
 ### Site Breaches

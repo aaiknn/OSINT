@@ -21,5 +21,8 @@
 ## Vehicles
 * [https://www.uk-osint.net/motorvehicle.html](https://www.uk-osint.net/motorvehicle.html)
 
+### Articles
+* [MwOsint: Where is Leonardo's Car? Using OSINT to Trace Vehicles](https://keyfindings.blog/2020/10/16/where-is-leonardos-car-using-osint-to-trace-vehicles/)
+
 ## Misc
 * [Smart meters GPS coordinates](https://twitter.com/BitBangingBytes/status/1388716726783672326?s=09)

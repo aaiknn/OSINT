@@ -1,12 +1,3 @@
-## Voluntary OSINT
-* [Trace Labs OSINT Crowdsource to Find Missing People](https://www.tracelabs.org/)
-* [https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/](https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/)
-
-## Paste Searches
-* [https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)
-* [https://pastebeen.com/](https://pastebeen.com/)
-* [https://psbdmp.ws/](https://psbdmp.ws/)
-
 ## Language
 * [https://chanscan.com/](https://chanscan.com/), a knowledge base for the language used by online subcultures like 4chan
 
@@ -19,6 +10,7 @@
 * [Social Links: software for OSINT investigestion](https://sociallinks.io/)
 * [osint.sh: Find public AWS buckets](https://osint.sh/buckets/)
 * [grayhatwarfare: Find public AWS buckets](https://buckets.grayhatwarfare.com/)
+* [Rtyler: Intentionally leaking AWS Keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
 
 ### Unsorted
 * [https://www.blockint.nl/the-osint-library/](https://www.blockint.nl/the-osint-library/)
@@ -26,10 +18,10 @@
 * [https://technisette.com/p/tools](https://technisette.com/p/tools)
 * [https://www.uk-osint.net/](https://www.uk-osint.net/)
 * [https://www.citizenclinic.io/Clinic_Curriculum/Lesson_Modules/](https://www.citizenclinic.io/Clinic_Curriculum/Lesson_Modules/)
-* [https://thecyberpost.com/open-source-intelligence-osint-tools/](https://thecyberpost.com/open-source-intelligence-osint-tools/)
 * [https://gist.github.com/routeback/a813bb40fdb7631cde8767c3a0369e29](https://gist.github.com/routeback/a813bb40fdb7631cde8767c3a0369e29)
 * [Lampyre: Data analysis and OSINT tools](https://lampyre.io/)
 * [https://www.authentic8.com/products/silo-for-research](https://www.authentic8.com/products/silo-for-research)
+* [IntelOwl, a threat intelligence data gathering API](https://www.honeynet.org/2020/07/05/intel-owl-release-v1-0-0/)
 
 #### CRXcavator
 > CRXcavator generates reports on add-ons, generate a risk assessment, and even offer you to dive into the source code by a single click of your mouse.

@@ -32,6 +32,7 @@ WITPRO	- Witness Protection
 * [Criminal Intelligence for Analysts](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
 * [Opaque OPSEC Guide](https://opaque.link/post/opsecguide/)
 * [Pentestbook: Public Info Gathering](https://pentestbook.six2dez.com/recon/public-info-gathering)
+* [Global Investigative Journalism Network: Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/)
 
 ## Articles
 ### (Missing) Persons
@@ -55,6 +56,7 @@ WITPRO	- Witness Protection
 * [x33fcon 2019: Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
 * [Ser3n1ty: Sizing Your OPSEC Threats. A Beginner's Guide for the Mildly Paranoid](https://www.youtube.com/watch?v=LnmHDFbl68w)
 * [OSINT Dojo: How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
+* [System Exploited: What is SpiderFoot OSINT Tool, and How to Set It Up?](https://youtu.be/J2S0sMTRKJY)
 
 ## Encyclopedias and Dictionaries
 * [BushidoUK CTI-related lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
@@ -72,6 +74,10 @@ WITPRO	- Witness Protection
 ## Courses
 * [https://www.inteltechniques.net/courses/open-source-intelligence](https://www.inteltechniques.net/courses/open-source-intelligence)
 
+## Voluntary OSINT
+* [Trace Labs OSINT Crowdsource to Find Missing People](https://www.tracelabs.org/)
+* [https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/](https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/)
+
 ## etc
 * [IntelliTechniques Data Removal Workbook](https://inteltechniques.com/workbook.html)
 * [JustGetMyData directory of direct links for obtaining your personal data from web services](https://justgetmydata.com/)
@@ -79,6 +85,9 @@ WITPRO	- Witness Protection
 * [ADL H.E.A.T. Map for the US](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)
 * [Parse online .DS_Store files](https://labs.internetwache.org/ds_store/)
 * [Am I FLoCed: Google FLoCing checker](https://amifloced.org/)
+
+### Articles
+* [Infosecurity Magazine: Keeping up with the Uncertainty of Shifting Global Data Protection Regulations](https://www.infosecurity-magazine.com/opinions/uncertainty-global-data-protection/)
 
 ### Uh...
 * [mcbroken: World map of Mc Donald's shops that currently have broken ice cream machines](https://mcbroken.com/)
@@ -91,6 +100,9 @@ WITPRO	- Witness Protection
 ## OSINT People
 * sinwindie, certified cyber crime investigator, [GitHub](https://github.com/sinwindie/OSINT), [Twitter](https://twitter.com/sinwindie)
 
+### Groups
+* The OSINT Curious Project, [YouTube](https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA)
+
 ## Tools
 * [SynapsInt, the unified OSINT research tool](https://synapsint.com/)
 * [AIO Information Gathering Tool](https://osint.sh/)
@@ -102,6 +114,7 @@ WITPRO	- Witness Protection
 
 ### Platforms
 * [Effect Group Open Source Research Platform](https://effectgroup.io/)
+* [https://osintframework.com/](https://osintframework.com/)
 
 ### Research Databases
 * [A large catalogue of research databases](https://id.occrp.org/databases/)
@@ -121,6 +134,7 @@ WITPRO	- Witness Protection
 
 ### Startpages
 #### OSINT
+* [https://start.me/p/DPYPMz/the-ultimate-osint-collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 * [https://start.me/p/gy0NXp/open-source-intelligence-osint](https://start.me/p/gy0NXp/open-source-intelligence-osint)
 * [https://start.me/p/L1rEYQ/osint4all](https://start.me/p/L1rEYQ/osint4all)
 * [https://start.me/p/q6QJXo/azuleonyx-osint](https://start.me/p/q6QJXo/azuleonyx-osint)
@@ -155,6 +169,7 @@ WITPRO	- Witness Protection
 * [Maintained collection of OSINT related resources](https://github.com/Ph055a/OSINT_Collection)
 * [Collection of the top 219 OSINT open source projects](https://awesomeopensource.com/projects/osint)
 * [List of OSINT tools](https://cipher387.github.io/osint_stuff_tool_collection/)
+* [https://thecyberpost.com/open-source-intelligence-osint-tools/](https://thecyberpost.com/open-source-intelligence-osint-tools/)
 * [Collections of OSINT research books, articles, papers, etc](https://www.blockint.nl/the-osint-library/)
 * [OSINT Curious: List of OSINT resources](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/)
 * [https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc)

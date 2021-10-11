@@ -69,6 +69,7 @@
 ### Reddit
 * [https://www.redditinvestigator.com/](https://www.redditinvestigator.com/)
 * [Find Subreddits by keyword](https://yasiv.com/reddit)
+* [Reddit-search: Find deleted posts and comments on Reddit](https://camas.github.io/reddit-search/)
 
 #### Data Visualisation
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
@@ -98,6 +99,10 @@
 * [Twitch earnings lookup](https://twitch.fckdmca.com/)
 
 ### Twitter
+* [All My Tweets: View all your tweets, likes, followers, or timeline on one page](https://www.allmytweets.net/connect/)
+* [Foller.me: Twitter analytics](https://foller.me/)
+* [Followerwonk: Search Twitter bios, compare Twitter accounts, get activity analytics](https://followerwonk.com/)
+* [Social Bearing: Insights and analytics for tweets and timelines](https://socialbearing.com/)
 * [SpoonBill tool for finding Twitter account change history](https://spoonbill.io/twitter/data/USERNAME/)
 * [Twitter account analysis](https://accountanalysis.app/)
 * [TweetBeaver: Twitter analytics, search / download timelines, account data, etc](https://tweetbeaver.com/)
@@ -111,6 +116,8 @@
 #### Data Visualisation
 * [Hoaxy: Visualise the spread of information on Twitter](https://hoaxy.osome.iu.edu/)
 * [https://www.omnisci.com/demos/tweetmap](https://www.omnisci.com/demos/tweetmap)
+* [Onemilliontweetmap: Visualise the last 24 hours of geolocalised tweets](https://onemilliontweetmap.com/)
+* [TwitWork: Monitor Twitter stream](https://github.com/atmoner/TwitWork)
 
 ### Yandex
 * [YaSeeker: Get information on any Yandex account using email or login](https://github.com/HowToFind-bot/YaSeeker)
@@ -187,11 +194,16 @@
 ### Dating Apps and Hookup Sites
 * [https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
 
+### Google
+* [Epieos: Online tool to retrieve sensitive Google account information](https://twitter.com/epieos/status/1296379987780603905)
+
 ### GitHub and GitLab
 * [Gitrecon: Get information from user profiles and find users' email addresses](https://github.com/GONZOsint/gitrecon)
 
 #### GitHub
 * [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
+* [Grep.app: Find code snippets across GitHub](https://grep.app/)
+* [GitHub Dorks: Find leaked secrets using GitHub search](https://github.com/techgaun/github-dorks)
 
 ### Minecraft
 * [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)

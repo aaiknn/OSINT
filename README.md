@@ -2,7 +2,7 @@
 This is both a collection of information and knowledge on OSINT, and a repository of collections, materials, tools, how-tos on OSINT with all its various disciplines. It's a maintained project: The information in here will grow and change over time.
 
 ## Note on the Markdown
-The project is maintained using [Obisidian](https://obsidian.md/), a clever and handy bit of technology that lets you just take your notes and get neither lost or distracted in doing so. Most of the markdown that is used here is standard markdown, and a few bits and pieces are inherently based on features of Obsidian itself. Which is why not everything will render as intended in any markdown reader.
+The project is maintained using [Obisidian](https://obsidian.md/), a clever and handy bit of technology that lets you just take your notes and get neither lost nor distracted in doing so. Most of the markdown that is used here is standard markdown, and a few bits and pieces are inherently based on features of Obsidian itself. Which is why not everything will render as intended in any markdown reader.
 
 ## Contents
 ### Introduction

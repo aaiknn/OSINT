@@ -9,3 +9,4 @@
 
 ### Misc
 * [RSS Feed showing fresh and new .onion sites as they come online](https://osint.party/api/rss/fresh)
+* [Garlic: A metadata based search engine for the Tor network](https://osint.party/)
