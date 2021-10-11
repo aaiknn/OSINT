@@ -10,6 +10,8 @@
 * [https://one-plus.github.io/](https://one-plus.github.io/)
 * [Usersearch.org social network search engine](https://usersearch.org/)
 
+![[Username-Workflow.png]]
+
 ### Comments
 * [Export FACEBOOK, INSTAGRAM, TIKTOK, TWITTER, VIMEO, and YOUTUBE comments](https://exportcomments.com/)
 
@@ -26,6 +28,9 @@
 
 ## Social Media
 ### Facebook
+* [FacebookToolkit: Get Facebook data](https://github.com/warifp/FacebookToolkit)
+* [OSINT.rest: Paid Facebook analysis tool](https://osint.rest/)
+
 #### Search
 * [Formulas for searching Facebook](https://plessas.net/facebookmatrix)
 * [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
@@ -46,6 +51,8 @@
 * [https://github.com/th3unkn0n/osi.ig](https://github.com/th3unkn0n/osi.ig)
 * [Aware online: List of Instagram Tools](https://www.aware-online.com/osint-tools/instagram-tools/)
 * [Instagram search and download](https://pixwox.com/)
+* [OSI.IG Instagram OSINT tool](https://github.com/th3unkn0n/osi.ig)
+* [Osintgram: Interactive shell for analysis on an Instagram account](https://github.com/Datalux/Osintgram)
 
 ### LinkedIn
 * [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
@@ -63,12 +70,16 @@
 * [https://www.redditinvestigator.com/](https://www.redditinvestigator.com/)
 * [Find Subreddits by keyword](https://yasiv.com/reddit)
 
+#### Data Visualisation
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
+
 ### Snapchat
 * [Searchable Database of Snapchat Profiles](https://www.ghostcodes.com/)
 
 ### Steam
 * [https://www.steamidfinder.com/](https://www.steamidfinder.com/)
-* [Historic steam profile information](https://steamid.uk/)
+* [Steamid.uk: Historic steam profile information](https://steamid.uk/)
+* [Steamrep: Steam account search tool](https://steamrep.com/)
 
 ### TikTok
 * [https://www.skopenow.com/news/tiktok-investigations-and-osint-tips](https://www.skopenow.com/news/tiktok-investigations-and-osint-tips)
@@ -92,6 +103,7 @@
 * [TweetBeaver: Twitter analytics, search / download timelines, account data, etc](https://tweetbeaver.com/)
 * [Twitter ID and username converter](https://tweeterid.com/)
 * [Trendsmap: Trending Hashtags and Topics on Twitter](https://www.trendsmap.com/map)
+* [twitter_geolocate: Find tweets near an address](https://github.com/davidkowalk/twitter_geolocate)
 
 #### Search
 * [https://github.com/igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
@@ -135,14 +147,17 @@
 
 ### Telegram
 * [Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
-* [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
-* [Telescan](https://github.com/pielco11/telescan)
-* [Telegram photo extraction](https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
 * [List of many OSINT resources for Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
-* [Search public messages, channel info, and author info](https://search.buzz.im/)
 
 #### Articles
+* [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
 * [https://owlspace.xyz/cybersec/tg-nearby/](https://owlspace.xyz/cybersec/tg-nearby/)
+
+#### Tools
+* [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
+* [Search public messages, channel info, and author info](https://search.buzz.im/)
+* [Telescan](https://github.com/pielco11/telescan)
+* [TgScanRobot: A bot that shows which Telegram groups a person is a member of](https://t.me/TgScanRobot/)
 
 ### WhatsApp
 * [Download anyone's WhatsApp profile picture](https://whatsapptools.net/download-profile-picture)
@@ -172,8 +187,17 @@
 ### Dating Apps and Hookup Sites
 * [https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
 
-### GitHub
+### GitHub and GitLab
+* [Gitrecon: Get information from user profiles and find users' email addresses](https://github.com/GONZOsint/gitrecon)
+
+#### GitHub
 * [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
+
+### Minecraft
+* [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)
 
 ### Spotify
 * [https://laptrinhx.com/osint-investigations-on-spotify-4007838654/](https://laptrinhx.com/osint-investigations-on-spotify-4007838654/)
+
+### Wikipedia
+* [WikiStalker: Analyse Wikipedia user activity](https://github.com/altilunium/wistalk)

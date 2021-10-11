@@ -1,3 +1,4 @@
+# Introduction
 ## Disciplines and Terms
 ```txt
 OSINT	- Open Source Intelligence
@@ -39,6 +40,8 @@ WITPRO	- Witness Protection
 * [http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
 * [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
 
+![[Real-Name-Workflow.png]]
+
 ### Other
 * [Nixintel: Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
 * [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
@@ -50,12 +53,14 @@ WITPRO	- Witness Protection
 
 ## Videos
 * [x33fcon 2019: Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
+* [Ser3n1ty: Sizing Your OPSEC Threats. A Beginner's Guide for the Mildly Paranoid](https://www.youtube.com/watch?v=LnmHDFbl68w)
 * [OSINT Dojo: How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
 
 ## Encyclopedias and Dictionaries
 * [BushidoUK CTI-related lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
 
 ## Techniques
+* [Toddington: A collection of flowcharts for various techniques and processes](https://www.toddington.com/resources/cheat-sheets/)
 * [Attention manipulation](http://www.subliminalhacking.net/2013/02/05/attention-manipulation-techniques-natural-buffer-overflows/)
 
 ### Situational Awareness
@@ -79,8 +84,9 @@ WITPRO	- Witness Protection
 * [mcbroken: World map of Mc Donald's shops that currently have broken ice cream machines](https://mcbroken.com/)
 
 ## OSINT Attack Surface
-![https://cdn.discordapp.com/attachments/607679536741613599/884677517187903538/E-koTmcVEAgDOWT.png](https://cdn.discordapp.com/attachments/607679536741613599/884677517187903538/E-koTmcVEAgDOWT.png)
-![https://cdn.discordapp.com/attachments/607679536741613599/878816008285093928/E9Sof86VcAYaHcB.jpg](https://cdn.discordapp.com/attachments/607679536741613599/878816008285093928/E9Sof86VcAYaHcB.jpg)
+![ip-attack-surface.png](ip-attack-surface.png)
+![person-attack-surface.jpeg](person-attack-surface.jpeg)
+![[person-centered-osint.png]]
 
 ## OSINT People
 * sinwindie, certified cyber crime investigator, [GitHub](https://github.com/sinwindie/OSINT), [Twitter](https://twitter.com/sinwindie)
@@ -165,6 +171,8 @@ WITPRO	- Witness Protection
 ##### Australia
 * [Collection of websites and databases helping to find missing persons in Australia](https://osint.fans/australia-osint-data-sources)
 * [OSINT repository](https://dfw1n.github.io/DFW1N-OSINT/)
+* [Australian OSINT public data sources](https://osint.fans/australia-osint-data-sources)
+* [DFW1N-OSINT: Australian OSINT gathering resources](https://dfw1n.github.io/DFW1N-OSINT/)
 
 ### Resources
 #### GEOINT
@@ -181,6 +189,8 @@ WITPRO	- Witness Protection
 * [https://www.freemaptools.com/](https://www.freemaptools.com/)
 * [https://livingatlas.arcgis.com/](https://livingatlas.arcgis.com/)
 * [Command line IP based geo-location and other IP based data](https://github.com/ipinfo/cli)
+
+![[Location-Workflow.png]]
 
 ###### Wikimapia
 A geopraphic online encyclopedia that provides an interactive web map based on Google Maps and aims at marking and describing all the geographical objects in the world. [http://wikimapia.org/](http://wikimapia.org/) 
@@ -209,6 +219,6 @@ See [[infrastructure]] and [[traffic-transportation]]
 * [Reverse image search](https://github.com/dessant/search-by-image)
 
 ### Pip Modules
-```
-install instalooter instaloader ignorant maigret holehe toutatis socialscan waybackpy internetarchive xeuledoc
+```txt
+instalooter instaloader ignorant maigret holehe toutatis socialscan waybackpy internetarchive xeuledoc
 ```

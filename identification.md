@@ -52,3 +52,5 @@ See [[weapons-ammo]]
 
 ## Misc
 * [List of BOLLARDS across the world](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)
+
+![wallsockets.png](wallsockets.png)

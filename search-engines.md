@@ -1,8 +1,16 @@
+![[search-engine-strengths.png]]
+
+## General Misc
 * [Directory of search engines from around the world](https://www.searchenginelinks.co.uk/)
 * [Million Short: remove the first N of the most popular search results](https://millionshort.com/)
 * [Yamli.com Arabic search engine](https://www.yamli.com/)
 
+## DuckDuckGo
+![[duckduckgo-cheatsheet.png]]
+
 ## Google
+![[Google-Dorking-Cheatsheet.PNG]]
+
 * [http://www.googleguide.com/](http://www.googleguide.com/)
 * [https://ahrefs.com/blog/google-advanced-search-operators/](https://ahrefs.com/blog/google-advanced-search-operators/)
 * [I Search From: Customise Google search request metadata?](http://isearchfrom.com/)
