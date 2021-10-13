@@ -6,7 +6,7 @@ The project is maintained using [Obisidian](https://obsidian.md/), a clever and 
 
 ## Contents
 ### Introduction
-* [[_introduction]]: OSINT in general. This is where to find general information on OSINT and its disciplines, and also a huge collection of resources that are great to use when launching a new OSINT-related research project.
+* [[OSINT/_introduction]]: OSINT in general. This is where to find general information on OSINT and its disciplines, and also a huge collection of resources that are great to use when launching a new OSINT-related research project.
 * [[research-management]]: Managing an OSINT-related research project.
 * [[sock-accounts]]: Building a presence with privacy in mind.
 
@@ -34,4 +34,13 @@ The project is maintained using [Obisidian](https://obsidian.md/), a clever and 
 * [[weapons-ammo]]: Gathering information on weapons and weapon equipment.
 
 ### dev/etc/
-* [[OSINT/_notes]]: A document of mere scattered random notes that are in need of being vetted and placed into the main repository.  
+* [[OSINT/_notes]]: A document of mere scattered random notes that are in need of being vetted and placed into the main repository.
+
+## Related Projects
+There are other projects that are quite similar to this one. If you like this one, then you might also like these:
+
+### OH SHINT!
+> Figured it was time to actually document some of my work. This blog is mostly going to be articles, write-ups and other ramblings about a few different intelligence and counter-intelligence subjects.
+
+[https://ohshint.gitbook.io/ohshint/](https://ohshint.gitbook.io/ohshint/)
+ 

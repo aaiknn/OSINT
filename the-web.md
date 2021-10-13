@@ -1,8 +1,10 @@
+# The Web
 ## IP Lookup
 * [ARIN](https://www.arin.net/)
 
 ## Websites
 ### Archives
+* [Intelligence X: Meta search IX, the Wayback Machine, and archive.is at once](https://intelx.io/dorks)
 * [Wayback Machine](https://wayback.archive.org/)
 * [Archive Today: Create a copy of a webpage that will always be up](https://archive.today/)
 * [Time Travel](https://timetravel.mementoweb.org/)

@@ -1,6 +1,8 @@
+# Social Media and Related Platforms 
 ## Cross-Media
 * [OSINT for INSTAGRAM and TWITTER](https://github.com/xadhrit/terra)
 * [Intelligence X tools for FACEBOOK, LINKEDIN, TELEGRAM, TWITTER, AND YOUTUBE](https://intelx.io/tools)
+* [Intelligence X dorks for GOOGLE HANGOUTS, SKYPE, TELEGRAM, WHATSAPP, and ZOOM invite URLS](https://intelx.io/dorks)
 * [https://github.com/MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list)
 * [EagleEye: Find social media profiles by image reverse search](https://github.com/ThoughtfulDev/EagleEye)
 * [Skylens: Location based social media intelligence](https://skylens.io/)
@@ -143,6 +145,7 @@
 
 #### Collections
 * [https://github.com/Dutchosintguy/OSINT-Discord-resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
+* [https://github.com/atoncehussein/DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
 
 ## Messengers
 ### Kik
@@ -204,6 +207,7 @@
 * [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
 * [Grep.app: Find code snippets across GitHub](https://grep.app/)
 * [GitHub Dorks: Find leaked secrets using GitHub search](https://github.com/techgaun/github-dorks)
+* [GitDorker: Scrape secrets from GitHub through usage of a large repository of dorks](https://github.com/obheda12/GitDorker)
 
 ### Minecraft
 * [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)

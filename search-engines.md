@@ -1,3 +1,4 @@
+# Search Engines
 ![[search-engine-strengths.png]]
 
 ## General Misc
@@ -17,6 +18,7 @@
 * [2lingual.com: Bilingual Google search](https://2lingual.com/)
 * [Google.com search browsing site status](https://transparencyreport.google.com/safe-browsing/search)
 * [Removing Content From Google: Legal Help](https://support.google.com/legal/troubleshooter/1114905)
+* [Intelligence X: List of Google Dorks](https://intelx.io/dorks)
 
 ### Google Hacking Database
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
@@ -42,9 +44,13 @@
 * [https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)
 * [https://pastebeen.com/](https://pastebeen.com/)
 * [https://psbdmp.ws/](https://psbdmp.ws/)
+* [Intelligence X: Access a deleted Pastebin document](https://intelx.io/dorks)
 
 ### Collections
 * [Meta-search of over 33 pastebin search sites](https://pastebin.ga/)
+
+## Image Searche Engines
+![[image-search-comparing-filters.jpg]]
 
 ## Reverse Image Search Engines
 * [Berify: Find stolen images online](https://berify.com/)
@@ -52,7 +58,7 @@
 * [Pixsy: Find and fight image theft](https://www.pixsy.com/)
 * [TinEye](https://tineye.com/)
 
-## Specialised Search Engines
+## Misc
 ### CameraTrace
 Allows for searching for pictures taken by the same physical camera using the serial number stored in EXIF data.
 [http://www.cameratrace.com/](http://www.cameratrace.com/)

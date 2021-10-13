@@ -1,3 +1,4 @@
+# Companies
 * [Effect International Company Search](https://effect.international/)
 * [YubNub: All details about a website relevant to a business](https://yubnub.org/)
 

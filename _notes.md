@@ -1,3 +1,4 @@
+# Scattered Notes
 ## Language
 * [https://chanscan.com/](https://chanscan.com/), a knowledge base for the language used by online subcultures like 4chan
 

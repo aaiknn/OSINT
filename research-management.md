@@ -1,4 +1,6 @@
-[DeGoogle: Huge list of alternatives to Google products](https://github.com/tycrek/degoogle)
+# Research Management
+* [DeGoogle: Huge list of alternatives to Google products](https://github.com/tycrek/degoogle)
+* [COP Security Collaboration Tool](https://github.com/psmitty7373/cop)
 
 ## Google Docs
 `https://docs.google.com/spreadsheets/d/<document ID>/export?format=<file format>` to export existing Google Docs.

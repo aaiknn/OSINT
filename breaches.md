@@ -1,5 +1,4 @@
 # Breaches
-
 ## Personal Exposure
 * [https://inteltechniques.com/blog/2021/07/23/personal-ransomware-exposure/](https://inteltechniques.com/blog/2021/07/23/personal-ransomware-exposure/)
 * [Ransomwhere ransomware payment tracker](https://ransomwhe.re/)
