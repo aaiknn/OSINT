@@ -6,6 +6,7 @@
 * [Portmaster: Monitor, filter, and block your network traffic](https://safing.io/portmaster/)
 * [SimeonOnSecurity: Collection on privacy related resources](https://simeononsecurity.ch/recommendations/privacy/)
 * [Awesome Incident Response: A curated list of tools for IR](https://github.com/meirwah/awesome-incident-response)
+* [Lissy93: A curated personal security checklist](https://github.com/Lissy93/personal-security-checklist)
 
 ## Breaches
 ### Site Breaches

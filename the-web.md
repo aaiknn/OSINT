@@ -1,6 +1,8 @@
 # The Web
 ## IP Lookup
 * [ARIN](https://www.arin.net/)
+* [ipstack: Geolocation API](https://ipstack.com/)
+* [SecurityTrails: Repository of Historical DNS Data](https://securitytrails.com/)
 
 ## Websites
 ### Archives

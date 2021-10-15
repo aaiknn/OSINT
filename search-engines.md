@@ -23,6 +23,9 @@
 ### Google Hacking Database
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
 
+### Research Papers
+* [DCN Google Data Collection, Aug 2018](https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf)
+
 ## By Country
 ### China
 * [https://www.baidu.com/](https://www.baidu.com/)

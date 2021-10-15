@@ -1,4 +1,6 @@
 # Sock Accounts
+* [Ax1al: Sockpuppets: The Make or Break of an Investigation](https://ax1al.com/blogs/sock.html)
+
 ## Generators
 * [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
 * [https://www.uk-osint.net/creatingids.html](https://www.uk-osint.net/creatingids.html)

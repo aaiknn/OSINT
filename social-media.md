@@ -33,6 +33,13 @@
 * [FacebookToolkit: Get Facebook data](https://github.com/warifp/FacebookToolkit)
 * [OSINT.rest: Paid Facebook analysis tool](https://osint.rest/)
 
+#### Articles
+* [Revealed: Facebook's Secret Blacklist of "Dangerous Individuals and Organizations"](https://theintercept.com/2021/10/12/facebook-secret-blacklist-dangerous/)
+
+#### Research
+* [The Intercept: Facebook Praise, Support, and Representation Moderation Guidelines (reproduced snapshot)](https://theintercept.com/document/2021/10/12/facebook-praise-support-and-representation-moderation-guidelines-reproduced-snapshot/), stored here: [[psr.pdf]].
+* [The Intercept: Facebook Dangerous Individuals and Organizations List (reproduced snapshot)](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/), stored here: [[facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf]].
+
 #### Search
 * [Formulas for searching Facebook](https://plessas.net/facebookmatrix)
 * [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
@@ -161,7 +168,7 @@
 
 #### Articles
 * [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
-* [https://owlspace.xyz/cybersec/tg-nearby/](https://owlspace.xyz/cybersec/tg-nearby/)
+* [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
 
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
@@ -208,6 +215,7 @@
 * [Grep.app: Find code snippets across GitHub](https://grep.app/)
 * [GitHub Dorks: Find leaked secrets using GitHub search](https://github.com/techgaun/github-dorks)
 * [GitDorker: Scrape secrets from GitHub through usage of a large repository of dorks](https://github.com/obheda12/GitDorker)
+* [dxy4481/truffleHug: Find high-entropy strings in Git repositories](https://github.com/dxa4481/truffleHog)
 
 ### Minecraft
 * [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)

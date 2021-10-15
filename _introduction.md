@@ -36,6 +36,8 @@ WITPRO	- Witness Protection
 * [Global Investigative Journalism Network: Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/)
 
 ## Articles
+* [Ax1al: OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
+
 ### (Missing) Persons
 * [https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)
 * [https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56](https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56)
@@ -51,6 +53,7 @@ WITPRO	- Witness Protection
 * [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
 
 ### Collections of Articles
+* [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)
 * [All Sector035 Week in OSINT articles](https://sector035.nl/articles/category:week-in-osint)
 
 ## Videos
