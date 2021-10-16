@@ -1,5 +1,6 @@
 # Companies
 * [Effect International Company Search](https://effect.international/)
+* [OpenCorporates API and database](https://opencorporates.com/)
 * [YubNub: All details about a website relevant to a business](https://yubnub.org/)
 
 ## AiHitdata
@@ -16,3 +17,6 @@
 
 ### South Africa
 * [South African Companies and Intellectual Property Commission search](http://eservices.cipc.co.za/Search.aspx)
+
+## Tools
+* [Rlyonheart/occli: Unofficial Open Corporates CLI](https://github.com/rlyonheart/occli)

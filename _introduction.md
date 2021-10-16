@@ -33,10 +33,13 @@ WITPRO	- Witness Protection
 * [Criminal Intelligence for Analysts](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
 * [Opaque OPSEC Guide](https://opaque.link/post/opsecguide/)
 * [Pentestbook: Public Info Gathering](https://pentestbook.six2dez.com/recon/public-info-gathering)
-* [Global Investigative Journalism Network: Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/)
+* [Global Investigative Journalism Network: Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/).
 
 ## Articles
 * [Ax1al: OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
+
+### Research Papers
+* [Journal of International Crime Justice, March 2021: New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), stored offline here: [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf]]
 
 ### (Missing) Persons
 * [https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)
@@ -166,6 +169,7 @@ WITPRO	- Witness Protection
 ##### Canada
 * [https://start.me/p/dlbyRn/canada](https://start.me/p/dlbyRn/canada)
 * [https://start.me/p/RMwN6v/canada-osint](https://start.me/p/RMwN6v/canada-osint)
+* [https://start.me/p/aLe0vp/osint-resources-in-canada](https://start.me/p/aLe0vp/osint-resources-in-canada)
 
 ##### China
 * [https://start.me/p/7kLY9R/osint-chine](https://start.me/p/7kLY9R/osint-chine)

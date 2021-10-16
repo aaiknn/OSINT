@@ -1,5 +1,6 @@
 # Scattered Notes
 ## Language
+![[4chan-who.gif]]
 * [https://chanscan.com/](https://chanscan.com/), a knowledge base for the language used by online subcultures like 4chan
 
 ## Emotion and Sentiment Analysis

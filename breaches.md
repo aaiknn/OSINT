@@ -8,8 +8,7 @@
 * [Awesome Incident Response: A curated list of tools for IR](https://github.com/meirwah/awesome-incident-response)
 * [Lissy93: A curated personal security checklist](https://github.com/Lissy93/personal-security-checklist)
 
-## Breaches
-### Site Breaches
+## Site Breaches
 * [https://haveibeenpwned.com/PwnedWebsites](https://haveibeenpwned.com/PwnedWebsites)
 * [https://joe.black/leakengine.html](https://joe.black/leakengine.html)
 * [https://web.archive.org/web/https://publicdbhost.dmca.gripe/](https://web.archive.org/web/https://publicdbhost.dmca.gripe/)
@@ -17,7 +16,10 @@
 * [https://vigilante.pw/](https://vigilante.pw/)
 * [https://en.wikipedia.org/wiki/List_of_data_breaches](https://en.wikipedia.org/wiki/List_of_data_breaches)
 
-### Data Breaches
+### Articles
+* [PRIVACY Affairs: Acer Hacked -- Private Data of Millions of Clients Sold on Hacker Forum](https://www.privacyaffairs.com/acer-data-breach/)
+
+## Data Breaches
 * `site:pastebin.com intext:domain name`
 * [https://amibreached.com/](https://amibreached.com/)
 * [https://ashley.cynic.al/](https://ashley.cynic.al/)
@@ -49,14 +51,14 @@
 * [https://snusbase.com/](https://snusbase.com/)
 * [https://weleakinfo.to/](https://weleakinfo.to/)
 
-#### Onion Sites
+### Onion Sites
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
 
-### Onion Breaches
+## Onion Breaches
 * [https://pwndb2am4tzkvold.onion.ws/](https://pwndb2am4tzkvold.onion.ws/)
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
 
-### Paste Searches
+## Paste Searches
 * [https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)
 * [https://pastebeen.com/](https://pastebeen.com/)
 * [https://psbdmp.ws/](https://psbdmp.ws/)
