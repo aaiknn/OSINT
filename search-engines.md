@@ -13,12 +13,15 @@
 ![[Google-Dorking-Cheatsheet.PNG]]
 
 * [http://www.googleguide.com/](http://www.googleguide.com/)
-* [https://ahrefs.com/blog/google-advanced-search-operators/](https://ahrefs.com/blog/google-advanced-search-operators/)
 * [I Search From: Customise Google search request metadata?](http://isearchfrom.com/)
 * [2lingual.com: Bilingual Google search](https://2lingual.com/)
 * [Google.com search browsing site status](https://transparencyreport.google.com/safe-browsing/search)
-* [Removing Content From Google: Legal Help](https://support.google.com/legal/troubleshooter/1114905)
 * [Intelligence X: List of Google Dorks](https://intelx.io/dorks)
+
+### Articles
+* [https://ahrefs.com/blog/google-advanced-search-operators/](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [Coforge: 37 Advanced Google Search Tips for Smarter Searching](https://web.archive.org/web/20210430171224/https://www.coforge.com/blog/advanced-google-search-tips)
+* [Removing Content From Google: Legal Help](https://support.google.com/legal/troubleshooter/1114905)
 
 ### Google Hacking Database
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)

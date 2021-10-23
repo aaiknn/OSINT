@@ -62,6 +62,8 @@
 * [Instagram search and download](https://pixwox.com/)
 * [OSI.IG Instagram OSINT tool](https://github.com/th3unkn0n/osi.ig)
 * [Osintgram: Interactive shell for analysis on an Instagram account](https://github.com/Datalux/Osintgram)
+* [Novitae/sterraxcyl: Export Instragram followers and details to xls or csv](https://github.com/novitae/sterraxcyl)
+* [Bellingcat/instagram-location-search: Finds Instagram location IDs near a specific latitude and longitude](https://github.com/bellingcat/instagram-location-search)
 
 ### LinkedIn
 * [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
@@ -137,6 +139,7 @@
 * [https://www.osintessentials.com/youtube](https://www.osintessentials.com/youtube)
 * [Extract comments or subtitles from YouTube videos](https://github.com/nlitsme/youtube_tool)
 * [Location search / find GEO tags](https://mattw.io/youtube-geofind/location)
+* [YouTube geo-search tool](https://youtube.github.io/geo-search-tool/search.html)
 
 #### Search
 * [YouTube comment search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en)
@@ -169,6 +172,7 @@
 #### Articles
 * [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
 * [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
+* [OS2INT: Creating visual intelligence from Telegram user group data](https://os2int.com/toolbox/creating-visual-intelligence-from-telegram-user-group-data/)
 
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)

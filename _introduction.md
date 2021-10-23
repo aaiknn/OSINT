@@ -34,9 +34,11 @@ WITPRO	- Witness Protection
 * [Opaque OPSEC Guide](https://opaque.link/post/opsecguide/)
 * [Pentestbook: Public Info Gathering](https://pentestbook.six2dez.com/recon/public-info-gathering)
 * [Global Investigative Journalism Network: Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/).
+* [Haax.fr: OSINT](https://cheatsheet.haax.fr/open-source-intelligence-osint/tools-and-methodology/methodology/)
 
 ## Articles
 * [Ax1al: OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
+* [OH SHINT: OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
 
 ### Research Papers
 * [Journal of International Crime Justice, March 2021: New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), stored offline here: [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf]]
@@ -46,6 +48,7 @@ WITPRO	- Witness Protection
 * [https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56](https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 * [http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
 * [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
+* [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
 
 ![[Real-Name-Workflow.png]]
 
@@ -58,6 +61,7 @@ WITPRO	- Witness Protection
 ### Collections of Articles
 * [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)
 * [All Sector035 Week in OSINT articles](https://sector035.nl/articles/category:week-in-osint)
+* [OSINT.org: Workflow category](https://osint.org/category/workflow/)
 
 ## Videos
 * [x33fcon 2019: Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
@@ -161,6 +165,7 @@ WITPRO	- Witness Protection
 
 #### GEOINT
 * [https://start.me/p/W1kDAj/geoint](https://start.me/p/W1kDAj/geoint)
+* [https://start.me/p/8ykwnj/mappy](https://start.me/p/8ykwnj/mappy)
 
 #### By Country
 ##### Australia
@@ -192,6 +197,8 @@ WITPRO	- Witness Protection
 * [SANS _must have_ free resources for OSINT](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
 * [SANS list of resources from OSINT Summit 2021](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 * [Sector035 link collection](https://sector035.nl/links)
+* [Reuser: The OSINT resource discovery toolkit](https://rr.reuser.biz/)
+* [ResearchClinic: Online Investigation and Training](http://researchclinic.net/index.htm)
 
 #### By Country
 ##### Australia
@@ -226,7 +233,7 @@ A huge collection of various scientific data.
 [https://data.nasa.gov/data_visualizations.html](https://data.nasa.gov/data_visualizations.html)
 
 ##### Infrastructure
-See [[infrastructure]] and [[traffic-transportation]]
+See [[infrastructure]] and [[traffic-transportation]].
 
 ##### By Country
 ###### India
@@ -242,11 +249,16 @@ See [[infrastructure]] and [[traffic-transportation]]
 * [https://tradint.io/](https://tradint.io/)
 
 ### Browser Extensions
-* [Sputnik OSINT](https://github.com/cthulhusec/sputnik)
-* [List of 30 best OSINT Chrome Extensions](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
-* [Firefox webextension for FACEBOOK and INSTAGRAM OSINT](https://twitter.com/Geluchat/status/1405081455483568136)
-* [View archived and cached versions of web pages](https://github.com/dessant/web-archives)
-* [Reverse image search](https://github.com/dessant/search-by-image)
+* [Cthulhusec/sputnik: OSINT utility for searching IPs, domains, file hashes, and URLs](https://github.com/cthulhusec/sputnik)
+* [Firefox webextension for Facebook and Instagram OSINT](https://twitter.com/Geluchat/status/1405081455483568136)
+* [Dessant/web-archives: View archived and cached versions of web pages](https://github.com/dessant/web-archives)
+* [Dessant/search-by-image: Reverse image search](https://github.com/dessant/search-by-image)
+* [Raindrop.io: Bookmark Manager](https://raindrop.io/)
+* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+
+#### Collections
+* [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
+* [NullByteWht: Top 10 Browser Extensions for Hackers & OSINT Researchers](https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158)
 
 ### Pip Modules
 ```txt
