@@ -49,6 +49,7 @@ WITPRO	- Witness Protection
 * [http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
 * [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
 * [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
+* [Go FindWho search engine](https://gofindwho.com/)
 
 ![[Real-Name-Workflow.png]]
 
@@ -255,6 +256,7 @@ See [[infrastructure]] and [[traffic-transportation]].
 * [Dessant/search-by-image: Reverse image search](https://github.com/dessant/search-by-image)
 * [Raindrop.io: Bookmark Manager](https://raindrop.io/)
 * [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 
 #### Collections
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)

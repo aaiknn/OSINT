@@ -173,6 +173,7 @@
 * [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
 * [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
 * [OS2INT: Creating visual intelligence from Telegram user group data](https://os2int.com/toolbox/creating-visual-intelligence-from-telegram-user-group-data/)
+* [How to find the owner and administrator of a Telegram channel](https://te.legra.ph/How-to-find-the-owner-and-administrator-of-a-Telegram-channel-11-02)
 
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
