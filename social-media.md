@@ -6,6 +6,7 @@
 * [https://github.com/MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list)
 * [EagleEye: Find social media profiles by image reverse search](https://github.com/ThoughtfulDev/EagleEye)
 * [Skylens: Location based social media intelligence](https://skylens.io/)
+* [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned)
 
 ### Username Enumeration
 * [https://userhunt.co/](https://userhunt.co/)
@@ -65,6 +66,8 @@
 * [Novitae/sterraxcyl: Export Instragram followers and details to xls or csv](https://github.com/novitae/sterraxcyl)
 * [Bellingcat/instagram-location-search: Finds Instagram location IDs near a specific latitude and longitude](https://github.com/bellingcat/instagram-location-search)
 
+![[Instagram-login-bypass.jpg]]
+
 ### LinkedIn
 * [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
 * [Revealin: Uncover full name of people on LinkedIn](https://github.com/mxrch/revealin)
@@ -87,6 +90,7 @@
 
 ### Snapchat
 * [Searchable Database of Snapchat Profiles](https://www.ghostcodes.com/)
+* [Rhematt/Snap-Scraper: Download media uploaded to Snapchat' Snap Map](https://rhematt.github.io/Snap-Scraper/)
 
 ### Steam
 * [https://www.steamidfinder.com/](https://www.steamidfinder.com/)

@@ -50,6 +50,7 @@ WITPRO	- Witness Protection
 * [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
 * [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
 * [Go FindWho search engine](https://gofindwho.com/)
+* [Steve Morse: One-Step Webpages](https://stevemorse.org/index.html)
 
 ![[Real-Name-Workflow.png]]
 
@@ -261,6 +262,7 @@ See [[infrastructure]] and [[traffic-transportation]].
 #### Collections
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
 * [NullByteWht: Top 10 Browser Extensions for Hackers & OSINT Researchers](https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158)
+* [geohack.toolforge.org: Returns a list of OSINT resources by a given latitude and longitude](https://geohack.toolforge.org/)
 
 ### Pip Modules
 ```txt
