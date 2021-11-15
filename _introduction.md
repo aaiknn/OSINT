@@ -77,6 +77,7 @@ WITPRO	- Witness Protection
 ## Techniques
 * [Toddington: A collection of flowcharts for various techniques and processes](https://www.toddington.com/resources/cheat-sheets/)
 * [Attention manipulation](http://www.subliminalhacking.net/2013/02/05/attention-manipulation-techniques-natural-buffer-overflows/)
+* [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808)
 
 ### Situational Awareness
 * [Advanced Situational Awareness: US Army, 2021](https://fas.org/irp/doddir/army/tc3-22-69.pdf)
@@ -121,6 +122,7 @@ WITPRO	- Witness Protection
 * [AIO Information Gathering Tool](https://osint.sh/)
 * [Effect Group: All in one intel data](https://www.effect.group/)
 * [Osintcombine: all available tools](https://www.osintcombine.com/tools)
+* [Colorize.toolpie.com: Colorises black and white photos](https://colorize.toolpie.com/)
 
 ### Frameworks
 * [https://github.com/IRIS-Team/IRIS](https://github.com/IRIS-Team/IRIS)
@@ -138,6 +140,10 @@ WITPRO	- Witness Protection
 * [https://www.osintcombine.com/data-visualization-tool](https://www.osintcombine.com/data-visualization-tool)
 * [https://osintcombine.tools/](https://osintcombine.tools/) (from CSV files)
 * [https://yoga.osint.ninja/](https://yoga.osint.ninja/)
+
+### Open Data Collections
+* [https://dataportals.org/search](https://dataportals.org/search)
+* [http://www.davidmckie.com/open-data-portals/](http://www.davidmckie.com/open-data-portals/)
 
 ### Relationships
 * [LittleSis database of who-knows-who in business and government](https://littlesis.org/)
@@ -224,6 +230,7 @@ WITPRO	- Witness Protection
 * [https://www.freemaptools.com/](https://www.freemaptools.com/)
 * [https://livingatlas.arcgis.com/](https://livingatlas.arcgis.com/)
 * [Command line IP based geo-location and other IP based data](https://github.com/ipinfo/cli)
+* [geohack.toolforge.org: Returns a list of OSINT resources by a given latitude and longitude](https://geohack.toolforge.org/)
 
 ![[Location-Workflow.png]]
 
@@ -262,7 +269,6 @@ See [[infrastructure]] and [[traffic-transportation]].
 #### Collections
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
 * [NullByteWht: Top 10 Browser Extensions for Hackers & OSINT Researchers](https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158)
-* [geohack.toolforge.org: Returns a list of OSINT resources by a given latitude and longitude](https://geohack.toolforge.org/)
 
 ### Pip Modules
 ```txt

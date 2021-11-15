@@ -4,6 +4,9 @@
 * [MARITIME related resources startpage](https://start.me/p/m6mLBk/18-maritime)
 * [ROAD TRANSPORTATION related resources startpage](https://start.me/p/q6mmMA/17-road-transportation)
 
+## Metros
+* [Mic-ro.com: Metro logos across cities in the world](https://mic-ro.com/metro/metrologos.html)
+
 ## Railways
 * [ACW Railway Maps](http://www.acwr.com/economic-development/rail-maps)
 * [Associaion of American Railroads](https://www.aar.org/)
@@ -21,6 +24,7 @@
 
 ## Vehicles
 * [https://www.uk-osint.net/motorvehicle.html](https://www.uk-osint.net/motorvehicle.html)
+* [carmodel.toolpie.com: Identifies vehicle models](https://carmodel.toolpie.com/)
 
 ### Articles
 * [MwOsint: Where is Leonardo's Car? Using OSINT to Trace Vehicles](https://keyfindings.blog/2020/10/16/where-is-leonardos-car-using-osint-to-trace-vehicles/)

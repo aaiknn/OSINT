@@ -8,6 +8,9 @@
 
 [https://www.aihitdata.com/](https://www.aihitdata.com/)
 
+## Brand Identification
+* [https://logo.toolpie.com/](https://logo.toolpie.com/)
+
 ## By country
 ### Canada
 * [https://beta.canadasbusinessregistries.ca/search](https://beta.canadasbusinessregistries.ca/search)

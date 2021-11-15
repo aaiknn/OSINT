@@ -1,4 +1,4 @@
-# Social Media and Related Platforms 
+# Social Media and Related Platforms
 ## Cross-Media
 * [OSINT for INSTAGRAM and TWITTER](https://github.com/xadhrit/terra)
 * [Intelligence X tools for FACEBOOK, LINKEDIN, TELEGRAM, TWITTER, AND YOUTUBE](https://intelx.io/tools)
@@ -7,6 +7,8 @@
 * [EagleEye: Find social media profiles by image reverse search](https://github.com/ThoughtfulDev/EagleEye)
 * [Skylens: Location based social media intelligence](https://skylens.io/)
 * [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned)
+
+Also see [[identification]].
 
 ### Username Enumeration
 * [https://userhunt.co/](https://userhunt.co/)
@@ -66,7 +68,7 @@
 * [Novitae/sterraxcyl: Export Instragram followers and details to xls or csv](https://github.com/novitae/sterraxcyl)
 * [Bellingcat/instagram-location-search: Finds Instagram location IDs near a specific latitude and longitude](https://github.com/bellingcat/instagram-location-search)
 
-![[Instagram-login-bypass.jpg]]
+![[instagram-login-bypass.png]]
 
 ### LinkedIn
 * [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)

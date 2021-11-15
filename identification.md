@@ -23,6 +23,9 @@
 
 [https://github.com/kennbroorg/iKy](https://github.com/kennbroorg/iKy)
 
+## Animals
+* [https://animal.toolpie.com/](https://animal.toolpie.com/)
+
 ## ID and Documents
 * [https://nidc.dk/en/ID-databases](https://nidc.dk/en/ID-databases)
 * [List of entry and exit PASSPORT STAMPS across the world](https://www.wikiwand.com/en/Passport_stamp)
@@ -33,14 +36,22 @@
 * [Open Buildings: Information on BUILDING GEOMETRY](https://sites.research.google/open-buildings/#explore)
 
 ## Companies
-See [[companies]]
+See [[companies]].
 
 ## Faces
 * [3D face reconstruction from a single image](https://vrn.aaronsplace.co.uk/)
+* [Age.toolpie.com: Age detection](https://age.toolpie.com/)
+* [Facecomparison.toolpie.com: Compares two faces from two different pictures](https://facecomparison.toolpie.com/)
+
+## Landmarks
+* [https://landmark.toolpie.com/](https://landmark.toolpie.com/)
 
 ## License Plates
 * [Platesmania: photos of vehicles and license plates](https://platesmania.com/)
 * [http://www.worldlicenseplates.com/](http://www.worldlicenseplates.com/)
+
+## Plants
+* [https://plant.toolpie.com/](https://plant.toolpie.com/)
 
 ## Social Media
 See [[social-media]]
@@ -48,8 +59,11 @@ See [[social-media]]
 ## Symbols
 * [Hate on Display: Hate Symbols Database](https://www.adl.org/hate-symbols)
 
+## Vehicles
+See [[traffic-transportation]].
+
 ## Weapons and Ammo
-See [[weapons-ammo]]
+See [[weapons-ammo]].
 
 ## Misc
 * [List of BOLLARDS across the world](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)
