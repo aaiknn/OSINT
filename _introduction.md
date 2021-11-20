@@ -54,6 +54,8 @@ WITPRO	- Witness Protection
 
 ![[Real-Name-Workflow.png]]
 
+![[Stus_OSINT_-_People_Uncover_Identity.png]]
+
 ### Other
 * [Nixintel: Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
 * [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
@@ -123,6 +125,7 @@ WITPRO	- Witness Protection
 * [Effect Group: All in one intel data](https://www.effect.group/)
 * [Osintcombine: all available tools](https://www.osintcombine.com/tools)
 * [Colorize.toolpie.com: Colorises black and white photos](https://colorize.toolpie.com/)
+* [Smicallef/spiderfoot: OSINT automation for Treat Intelligence and Attack Surface Mapping](https://github.com/smicallef/spiderfoot)
 
 ### Frameworks
 * [https://github.com/IRIS-Team/IRIS](https://github.com/IRIS-Team/IRIS)

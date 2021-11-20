@@ -70,6 +70,9 @@ Also see [[identification]].
 
 ![[instagram-login-bypass.png]]
 
+#### Videos
+* [Richie Rich: Instagram Video Selfie Verification Bypass Method](https://www.youtube.com/watch?v=eis1F10H0KI)
+
 ### LinkedIn
 * [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
 * [Revealin: Uncover full name of people on LinkedIn](https://github.com/mxrch/revealin)
