@@ -56,6 +56,8 @@ WITPRO	- Witness Protection
 
 ![[Stus_OSINT_-_People_Uncover_Identity.png]]
 
+![[person-social-workflow.png]]
+
 ### Other
 * [Nixintel: Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
 * [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
