@@ -14,6 +14,10 @@
 * [https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/)
 * [https://www.uscellular.com/tower-locator](https://www.uscellular.com/tower-locator)
 
+## Public Toilets
+* [Toiletmap.gov.au: Map of public toilets in Australia](https://toiletmap.gov.au/)
+* [Torontotoilets: Public toikets in Toronto](https://torontotoilets.org/)
+
 ## Traffic and Transportation
 See [[traffic-transportation]]
 

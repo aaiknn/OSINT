@@ -3,7 +3,10 @@
 
 ## Tools
 ### Collections
-* [Collection of CTI sources](https://github.com/fastfire/deepdarkCTI)
+* [Fastfire/deepdarkCTI: Collection of CTI sources](https://github.com/fastfire/deepdarkCTI)
+
+#### Ransomware Group Sites
+* [Fastfire/deepdarkCTI: ransomware_gang.md](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
 
 ### Darktracer
 [https://www.darktracer.com/](https://www.darktracer.com/) This isn't just a paid tool. It's pretty expensive. But apparently it's also very well made.

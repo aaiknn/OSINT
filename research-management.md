@@ -9,4 +9,6 @@
 * [https://tompatrickjarvis.medium.com/useful-google-sheets-functions-for-osint-research-71337f1b5407](https://tompatrickjarvis.medium.com/useful-google-sheets-functions-for-osint-research-71337f1b5407)
 
 ## Notes
+* [https://typora.io/](Typora Markdown Editor)
+* [https://obsidian.md/](Obsidian Markdown Editor)
 * [Joplin: Markdown note-taking](https://joplinapp.org/)

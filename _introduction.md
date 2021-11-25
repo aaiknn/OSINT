@@ -261,6 +261,7 @@ See [[infrastructure]] and [[traffic-transportation]].
 
 #### TRADINT
 * [https://tradint.io/](https://tradint.io/)
+* [Trade Map: Trade statistics for international business development](https://www.trademap.org/Index.aspx)
 
 ### Browser Extensions
 * [Cthulhusec/sputnik: OSINT utility for searching IPs, domains, file hashes, and URLs](https://github.com/cthulhusec/sputnik)

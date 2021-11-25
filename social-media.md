@@ -117,6 +117,7 @@ Also see [[identification]].
 
 ### Twitch
 * [Twitch earnings lookup](https://twitch.fckdmca.com/)
+* [Twitch-tools: Search streams, filter results by title, game, language, viewer count](https://twitch-tools.rootonline.de/channel_previews.php)
 
 ### Twitter
 * [All My Tweets: View all your tweets, likes, followers, or timeline on one page](https://www.allmytweets.net/connect/)
