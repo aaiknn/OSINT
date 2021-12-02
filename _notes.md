@@ -8,13 +8,11 @@
 * [https://deepai.org/machine-learning-model/sentiment-analysis](https://deepai.org/machine-learning-model/sentiment-analysis)
 
 ## Misc: Needs Checking
-### Sorted
 * [Social Links: software for OSINT investigestion](https://sociallinks.io/)
 * [osint.sh: Find public AWS buckets](https://osint.sh/buckets/)
 * [grayhatwarfare: Find public AWS buckets](https://buckets.grayhatwarfare.com/)
 * [Rtyler: Intentionally leaking AWS Keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
 
-### Unsorted
 * [https://www.blockint.nl/the-osint-library/](https://www.blockint.nl/the-osint-library/)
 * [https://www.inquisitiveintel.com/post/golf-social-networks](https://www.inquisitiveintel.com/post/golf-social-networks)
 * [https://technisette.com/p/tools](https://technisette.com/p/tools)
@@ -24,6 +22,7 @@
 * [Lampyre: Data analysis and OSINT tools](https://lampyre.io/)
 * [https://www.authentic8.com/products/silo-for-research](https://www.authentic8.com/products/silo-for-research)
 * [IntelOwl, a threat intelligence data gathering API](https://www.honeynet.org/2020/07/05/intel-owl-release-v1-0-0/)
+* [InfoSecSherpa: Investigating Charities](https://infosecsherpa.medium.com/investigating-charities-c3950eb6dc7)
 
 #### CRXcavator
 > CRXcavator generates reports on add-ons, generate a risk assessment, and even offer you to dive into the source code by a single click of your mouse.
@@ -35,7 +34,7 @@
 
 ### Shodan Alternatives
 1. fofa.so
-2. zoomeye.org
+2. [zoomeye.org](https://www.zoomeye.org/)
 3. viz.greynoise.io
 4. leakix.net
 5. censys.io

@@ -40,34 +40,17 @@ WITPRO	- Witness Protection
 * [Ax1al: OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
 * [OH SHINT: OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
 
-### Research Papers
-* [Journal of International Crime Justice, March 2021: New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), stored offline here: [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf]]
-
-### (Missing) Persons
-* [https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)
-* [https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56](https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56)
-* [http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
-* [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
-* [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
-* [Go FindWho search engine](https://gofindwho.com/)
-* [Steve Morse: One-Step Webpages](https://stevemorse.org/index.html)
-
-![[Real-Name-Workflow.png]]
-
-![[Stus_OSINT_-_People_Uncover_Identity.png]]
-
-![[person-social-workflow.png]]
-
-### Other
-* [Nixintel: Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
-* [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
-* [https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af](https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af)
-* [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
-
 ### Collections of Articles
 * [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)
 * [All Sector035 Week in OSINT articles](https://sector035.nl/articles/category:week-in-osint)
 * [OSINT.org: Workflow category](https://osint.org/category/workflow/)
+
+### Research Papers
+* [Journal of International Crime Justice, March 2021: New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), stored offline here: [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf]]
+* [Nixintel: Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
+* [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
+* [https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af](https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af)
+* [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
 
 ## Videos
 * [x33fcon 2019: Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
@@ -77,6 +60,10 @@ WITPRO	- Witness Protection
 
 ## Encyclopedias and Dictionaries
 * [BushidoUK CTI-related lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
+
+## Frameworks
+* [OSINT Framework](https://osintframework.com/)
+* [Lanmaster53/recon-ng: OSINT gathering tool](https://github.com/lanmaster53/recon-ng)
 
 ## Techniques
 * [Toddington: A collection of flowcharts for various techniques and processes](https://www.toddington.com/resources/cheat-sheets/)
@@ -121,6 +108,22 @@ WITPRO	- Witness Protection
 ### Groups
 * The OSINT Curious Project, [YouTube](https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA)
 
+## (Missing) Persons
+* [https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)
+* [https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56](https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56)
+* [http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
+* [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
+* [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
+* [Go FindWho search engine](https://gofindwho.com/)
+* [Steve Morse: One-Step Webpages](https://stevemorse.org/index.html)
+* [CheckUsernames: Meta search across social network platforms](https://checkusernames.com/)
+
+![[Real-Name-Workflow.png]]
+
+![[Stus_OSINT_-_People_Uncover_Identity.png]]
+
+![[person-social-workflow.png]]
+
 ## Tools
 * [SynapsInt, the unified OSINT research tool](https://synapsint.com/)
 * [AIO Information Gathering Tool](https://osint.sh/)
@@ -128,6 +131,7 @@ WITPRO	- Witness Protection
 * [Osintcombine: all available tools](https://www.osintcombine.com/tools)
 * [Colorize.toolpie.com: Colorises black and white photos](https://colorize.toolpie.com/)
 * [Smicallef/spiderfoot: OSINT automation for Treat Intelligence and Attack Surface Mapping](https://github.com/smicallef/spiderfoot)
+* [Creepy: Geolocation OSINT](https://www.geocreepy.com/)
 
 ### Frameworks
 * [https://github.com/IRIS-Team/IRIS](https://github.com/IRIS-Team/IRIS)
@@ -275,6 +279,7 @@ See [[infrastructure]] and [[traffic-transportation]].
 #### Collections
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
 * [NullByteWht: Top 10 Browser Extensions for Hackers & OSINT Researchers](https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158)
+* [SecurityTrails: Top 25 OSINT tools for penetration testing](https://securitytrails.com/blog/osint-tools)
 
 ### Pip Modules
 ```txt

@@ -6,6 +6,9 @@
 * [Million Short: remove the first N of the most popular search results](https://millionshort.com/)
 * [Yamli.com Arabic search engine](https://www.yamli.com/)
 
+## Super Search
+* [Laramies/theHarvester: Email address, subdomain, and name harvester](https://github.com/laramies/theHarvester)
+
 ## DuckDuckGo
 ![[duckduckgo-cheatsheet.png]]
 
@@ -22,6 +25,7 @@
 * [https://ahrefs.com/blog/google-advanced-search-operators/](https://ahrefs.com/blog/google-advanced-search-operators/)
 * [Coforge: 37 Advanced Google Search Tips for Smarter Searching](https://web.archive.org/web/20210430171224/https://www.coforge.com/blog/advanced-google-search-tips)
 * [Removing Content From Google: Legal Help](https://support.google.com/legal/troubleshooter/1114905)
+* [SecurityTrails: Most popular Google Hacking Techniques - Top Google Dorks and Hacks](https://securitytrails.com/blog/google-hacking-techniques)
 
 ### Google Hacking Database
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
