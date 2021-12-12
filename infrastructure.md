@@ -14,6 +14,9 @@
 * [https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/)
 * [https://www.uscellular.com/tower-locator](https://www.uscellular.com/tower-locator)
 
+## Military Bases
+* [Umap: Military bases around the world](https://umap.openstreetmap.fr/en/map/military-bases-around-the-world_510207#3/27.84/59.41)
+
 ## Public Toilets
 * [Toiletmap.gov.au: Map of public toilets in Australia](https://toiletmap.gov.au/)
 * [Torontotoilets: Public toikets in Toronto](https://torontotoilets.org/)

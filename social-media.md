@@ -1,5 +1,17 @@
-# Social Media and Related Platforms
-## Cross-Media
+# Social Media and Related Public Platforms
+## Contents
+1. [[#Operation Security]]
+2. [[#Cross-Media OSINT]]
+3. [[#Social Media OSINT]]
+4. [[#Chats]]
+5. [[#Messengers]]
+6. [[#Other]]
+
+## Operation Security
+### Signal
+* [Freedom.press: Locking Down Signal](https://freedom.press/training/locking-down-signal/)
+
+## Cross-Media OSINT
 * [OSINT for INSTAGRAM and TWITTER](https://github.com/xadhrit/terra)
 * [Intelligence X tools for FACEBOOK, LINKEDIN, TELEGRAM, TWITTER, AND YOUTUBE](https://intelx.io/tools)
 * [Intelligence X dorks for GOOGLE HANGOUTS, SKYPE, TELEGRAM, WHATSAPP, and ZOOM invite URLS](https://intelx.io/dorks)
@@ -31,7 +43,7 @@ Also see [[identification]].
 ### Articles
 * [https://www.cqcore.uk/email-to-username/](https://www.cqcore.uk/email-to-username/)
 
-## Social Media
+## Social Media OSINT
 ### Facebook
 * [FacebookToolkit: Get Facebook data](https://github.com/warifp/FacebookToolkit)
 * [OSINT.rest: Paid Facebook analysis tool](https://osint.rest/)

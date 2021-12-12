@@ -49,6 +49,7 @@
 
 ## Source Code Search Engines
 * [https://publicwww.com/](https://publicwww.com/)
+* [https://grep.app](https://grep.app)
 
 ## Paste Searches
 * [https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)
@@ -67,6 +68,12 @@
 * [PimEyes Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)
 * [Pixsy: Find and fight image theft](https://www.pixsy.com/)
 * [TinEye](https://tineye.com/)
+
+## Translations
+* [https://translate.google.com](https://translate.google.com)
+* [https://www.deepl.com/en/translator](https://www.deepl.com/en/translator)
+* [https://translate.yandex.com/](https://translate.yandex.com/)
+* [https://translation2.paralink.com/](https://translation2.paralink.com/)
 
 ## Misc
 ### CameraTrace
