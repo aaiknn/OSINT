@@ -55,6 +55,8 @@ WITPRO	- Witness Protection
 ## Articles
 * [Ax1al: OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
 * [OH SHINT: OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
+* [OSINTCurious: Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/)
+* [Sector035.nl: Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media)
 
 ### Collections of Articles
 * [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)

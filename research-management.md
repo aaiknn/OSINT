@@ -9,6 +9,11 @@
 * [https://tompatrickjarvis.medium.com/useful-google-sheets-functions-for-osint-research-71337f1b5407](https://tompatrickjarvis.medium.com/useful-google-sheets-functions-for-osint-research-71337f1b5407)
 
 ## Notes
-* [https://typora.io/](Typora Markdown Editor)
-* [https://obsidian.md/](Obsidian Markdown Editor)
+### Markdown
+* [Typora](https://typora.io)
+* [Obsidian](https://obsidian.md/)
 * [Joplin: Markdown note-taking](https://joplinapp.org/)
+* [Mark Text](https://marktext.app)
+
+## PDF Handling
+* [PDF Maker Map: Web-based PDF map layouting for download/print](https://pdfmapmaker.com/)

@@ -4,6 +4,9 @@
 ## Articles
 * [What is the largest country in the world based on the most suitable land area for human habitation?](https://vividmaps.com/largest-country-world/)
 
+## Airfields
+* [UlForum: List of airfields in Germany](https://www.ulforum.de/flugplatzliste)
+
 ## Cell-Tower Maps
 ### Canada
 * [https://www.comparecellular.ca/coverage-maps/](https://www.comparecellular.ca/coverage-maps/)

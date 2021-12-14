@@ -142,6 +142,7 @@ Also see [[identification]].
 * [Twitter ID and username converter](https://tweeterid.com/)
 * [Trendsmap: Trending Hashtags and Topics on Twitter](https://www.trendsmap.com/map)
 * [twitter_geolocate: Find tweets near an address](https://github.com/davidkowalk/twitter_geolocate)
+* [Sleeping Time: Find a Twitter user's potential sleeping schedule](http://sleepingtime.org/), requires logging in.
 
 #### Search
 * [https://github.com/igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
