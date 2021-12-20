@@ -70,5 +70,6 @@ See [[weapons-ammo]].
 
 ## Misc
 * [List of BOLLARDS across the world](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)
+* [Collection of crypto currency-related logos](https://cryptologos.cc/)
 
 ![wallsockets.png](wallsockets.png)

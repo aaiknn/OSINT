@@ -181,6 +181,8 @@ Also see [[identification]].
 * [https://github.com/atoncehussein/DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
 
 ## Messengers
+* [Securemessagingapps.com: Messager feature comparison table](https://www.securemessagingapps.com/)
+
 ### Kik
 * [https://github.com/netkas-zz/KikToolset](https://github.com/netkas-zz/KikToolset)
 
@@ -239,6 +241,8 @@ Also see [[identification]].
 * [Gitrecon: Get information from user profiles and find users' email addresses](https://github.com/GONZOsint/gitrecon)
 
 #### GitHub
+![[GitHub-Dorks.png]]
+
 * [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
 * [Grep.app: Find code snippets across GitHub](https://grep.app/)
 * [GitHub Dorks: Find leaked secrets using GitHub search](https://github.com/techgaun/github-dorks)

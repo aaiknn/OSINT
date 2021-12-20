@@ -11,6 +11,7 @@
 
 ## Temporary Phone Number Providers
 * [https://temporary-phone-number.com/](https://temporary-phone-number.com/)
+* [https://silent.link/](https://silent.link/)
 
 ## Other
 * [Prepaid Data SIM Card Wiki](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country)

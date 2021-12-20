@@ -135,6 +135,7 @@ WITPRO	- Witness Protection
 * [Go FindWho search engine](https://gofindwho.com/)
 * [Steve Morse: One-Step Webpages](https://stevemorse.org/index.html)
 * [CheckUsernames: Meta search across social network platforms](https://checkusernames.com/)
+* [F3dai/OSINT-Resources: Resources for OSINT, particularly related to people](https://github.com/F3dai/OSINT-Resources)
 
 ![[Real-Name-Workflow.png]]
 
