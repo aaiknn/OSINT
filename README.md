@@ -27,13 +27,16 @@ The project is maintained using [Obisidian](https://obsidian.md/), a clever and 
 * [[law]]: Identifying what is and isn't lawful.
 
 #### Murky Waters
-* [[breaches]]: Site, domain, and data breaches: Breach status querying, searching breach data archives, and handling personal exposure in a breach.
 * [[deanonymisation]]: Uncovering what wasn't intended to.
 * [[deep-web-dark-web]]: OSINT below sea level.
 * [[deepfakes]]: Identifying and dealing with deception using deepfake techniques.
 
 #### Things
 * [[weapons-ammo]]: Gathering information on weapons and weapon equipment.
+
+#### Threats
+* [[apt-groups]]: Investigating Advanced Persistent Threat.
+* [[breaches]]: Site, domain, and data breaches: Breach status querying, searching breach data archives, and handling personal exposure in a breach.
 
 ### dev/etc/
 * [[OSINT/_notes]]: A document of mere scattered random notes that are in need of being vetted and placed into the main repository.

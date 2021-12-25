@@ -189,6 +189,7 @@ WITPRO	- Witness Protection
 * [https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
 * [https://start.me/p/rxeRqr/aml-toolbox](https://start.me/p/rxeRqr/aml-toolbox)
 * [https://start.me/p/ZME8nR/osint](https://start.me/p/ZME8nR/osint)
+* [https://start.me/p/b5ynOQ/sprp77-search-engines](https://start.me/p/b5ynOQ/sprp77-search-engines)
 
 #### ASINT
 * [https://start.me/p/b5Aow7/asint_collection](https://start.me/p/b5Aow7/asint_collection)
