@@ -19,6 +19,8 @@
 
 ## Military Bases
 * [Umap: Military bases around the world](https://umap.openstreetmap.fr/en/map/military-bases-around-the-world_510207#3/27.84/59.41)
+* Lebanese organisation [Intelsky](https://twitter.com/Intel_sky) has [collected and offered](https://twitter.com/Intel_sky/status/1475548598968401925) locations of Turkish facilities: [[Turkey.kml]]
+* [Covert Cabal team](https://twitter.com/CovertCabal) has pinpointed military installations all over the world: [[Military.kmz]]
 
 ## Public Toilets
 * [Toiletmap.gov.au: Map of public toilets in Australia](https://toiletmap.gov.au/)

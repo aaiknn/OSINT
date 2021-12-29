@@ -12,7 +12,6 @@
 * [osint.sh: Find public AWS buckets](https://osint.sh/buckets/)
 * [grayhatwarfare: Find public AWS buckets](https://buckets.grayhatwarfare.com/)
 * [Rtyler: Intentionally leaking AWS Keys](https://brokenco.de/2021/01/15/leaking-aws-keys.html)
-
 * [https://www.blockint.nl/the-osint-library/](https://www.blockint.nl/the-osint-library/)
 * [https://www.inquisitiveintel.com/post/golf-social-networks](https://www.inquisitiveintel.com/post/golf-social-networks)
 * [https://technisette.com/p/tools](https://technisette.com/p/tools)
