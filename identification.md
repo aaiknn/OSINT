@@ -31,6 +31,7 @@
 * [List of entry and exit PASSPORT STAMPS across the world](https://www.wikiwand.com/en/Passport_stamp)
 * [Database of TRAVEL DOCUMENTS for most countries](http://www.edisontd.net/)
 * [[List_of_passports.pdf]]
+* [List of Malta Golden Passport buyers](https://docs.google.com/spreadsheets/u/0/d/11EcfcCp8Pe8d83b5TBijG74ZF1jxz5Crk1tbks8lN9c/htmlview) as announced [on Twitter](https://twitter.com/bugdavem/status/1475844215062077447), stored here: [[Malta_Citizenship_List_2014-2020.xlsx]].
 
 ## Buildings
 * [Open Buildings: Information on BUILDING GEOMETRY](https://sites.research.google/open-buildings/#explore)

@@ -44,6 +44,21 @@ Also see [[identification]].
 * [https://www.cqcore.uk/email-to-username/](https://www.cqcore.uk/email-to-username/)
 
 ## Social Media OSINT
+
+1. [[#Facebook]]
+2. [[#Instagram]]
+3. [[#LinkedIn]]
+4. [[#Parler]]
+5. [[#Reddit]]
+6. [[#Snapchat]]
+7. [[#Steam]]
+8. [[#TikTok]]
+9. [[#Tumblr]]
+10. [[#Twitch]]
+11. [[#Twitter]]
+12. [[#Yandex]]
+13. [[#YouTube]]
+
 ### Facebook
 * [FacebookToolkit: Get Facebook data](https://github.com/warifp/FacebookToolkit)
 * [OSINT.rest: Paid Facebook analysis tool](https://osint.rest/)
@@ -79,6 +94,7 @@ Also see [[identification]].
 * [Osintgram: Interactive shell for analysis on an Instagram account](https://github.com/Datalux/Osintgram)
 * [Novitae/sterraxcyl: Export Instragram followers and details to xls or csv](https://github.com/novitae/sterraxcyl)
 * [Bellingcat/instagram-location-search: Finds Instagram location IDs near a specific latitude and longitude](https://github.com/bellingcat/instagram-location-search)
+* [Blackeki/yesitsme: Simple OSINT script to find Instagram profiles by name and email / phone](https://github.com/blackeko/yesitsme)
 
 ![[instagram-login-bypass.png]]
 

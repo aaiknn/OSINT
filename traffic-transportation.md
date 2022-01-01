@@ -4,6 +4,9 @@
 * [MARITIME related resources startpage](https://start.me/p/m6mLBk/18-maritime)
 * [ROAD TRANSPORTATION related resources startpage](https://start.me/p/q6mmMA/17-road-transportation)
 
+## Flights
+* [Notam Map: Filter notams for a given flight](http://notammap.net/Notam.aspx)
+
 ## Metros
 * [Mic-ro.com: Metro logos across cities in the world](https://mic-ro.com/metro/metrologos.html)
 
