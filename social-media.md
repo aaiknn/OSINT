@@ -199,12 +199,18 @@ Also see [[identification]].
 ## Messengers
 * [Securemessagingapps.com: Messager feature comparison table](https://www.securemessagingapps.com/)
 
+1. [[#Kik]]
+2. [[#Skype]]
+3. [[#Telegram]]
+4. [[#WhatsApp]]
+
 ### Kik
 * [https://github.com/netkas-zz/KikToolset](https://github.com/netkas-zz/KikToolset)
 
 ### Skype
 * [Technique for getting the best possible picture of any Skype account](https://twitter.com/henkvaness/status/1399291128244015104)
 * [https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html)
+* [Epieos: Skype Lookup of Skype users](https://tools.epieos.com/skype.php)
 
 ### Telegram
 * [Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
@@ -229,6 +235,15 @@ Also see [[identification]].
 * [WhatsApp group link scraper and checker](https://github.com/TheSpeedX/WhatScraper)
 
 ## Other
+
+1. [[#4Chan]]
+2. [[#Dating Apps and Hookup Sites]]
+3. [[#Google]]
+4. [[#GitHub and GitLab]]
+5. [[#Minecraft]]
+6. [[#Spotify]]
+7. [[#Wikipedia]]
+
 ### 4Chan
 #### Archives
 * [https://4chanarchives.com/](https://4chanarchives.com/)

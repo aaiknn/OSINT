@@ -4,6 +4,7 @@
 ## Tools
 ### Collections
 * [Fastfire/deepdarkCTI: Collection of CTI sources](https://github.com/fastfire/deepdarkCTI)
+* [Tor.taxi: An index of selected places on the darknet](https://tor.taxi/)
 
 #### Ransomware Group Sites
 * [Fastfire/deepdarkCTI: ransomware_gang.md](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
