@@ -18,3 +18,4 @@
 
 ## Articles
 * [https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/](https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/)
+* [Armament Research Services: Introduction to Photogrammetry. Using perspective analysis to infer the trajectory of incoming munitions](https://armamentresearch.com/wp-content/uploads/2014/01/ARES-Field-Guide-No.-2-Introduction-to-Photogrammetry.pdf)
