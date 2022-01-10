@@ -37,6 +37,9 @@ See [[traffic-transportation]]
 #### Canada
 * [Vancouver's street tree map](https://opendata.vancouver.ca/explore/dataset/street-trees/)
 
+#### North Korea
+* [AccessDPRK Map: Monuments, military installations, and domestic infrastructure](https://mynorthkorea.blogspot.com/2021/01/accessdprk-2021-map-free-version.html)
+
 #### United Kingdom
 * [London's street trees](https://apps.london.gov.uk/street-trees/)
 

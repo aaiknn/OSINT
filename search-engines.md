@@ -20,6 +20,7 @@
 * [2lingual.com: Bilingual Google search](https://2lingual.com/)
 * [Google.com search browsing site status](https://transparencyreport.google.com/safe-browsing/search)
 * [Intelligence X: List of Google Dorks](https://intelx.io/dorks)
+* [Google dataset search](https://datasetsearch.research.google.com/)
 
 ### Articles
 * [https://ahrefs.com/blog/google-advanced-search-operators/](https://ahrefs.com/blog/google-advanced-search-operators/)

@@ -2,6 +2,7 @@
 * [Effect International Company Search](https://effect.international/)
 * [OpenCorporates API and database](https://opencorporates.com/)
 * [YubNub: All details about a website relevant to a business](https://yubnub.org/)
+* [Baumgartner Research: Business Registers of business registries and chamber of commerce for most countries](https://en.baumgartner-research.com/unternehmensregister)
 
 ## AiHitdata
 > A unique source of company information (that) stores and continually updates huge amounts of company data. Much of this data ... will not be found in any other database available on the Internet.

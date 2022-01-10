@@ -236,6 +236,8 @@ WITPRO	- Witness Protection
 * [Sector035 link collection](https://sector035.nl/links)
 * [Reuser: The OSINT resource discovery toolkit](https://rr.reuser.biz/)
 * [ResearchClinic: Online Investigation and Training](http://researchclinic.net/index.htm)
+* [GIJC21: List of resources](https://gijn.org/gijc21-resources/)
+* [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview)
 
 #### By Country
 ##### Australia
@@ -295,6 +297,7 @@ See [[infrastructure]] and [[traffic-transportation]].
 * [Raindrop.io: Bookmark Manager](https://raindrop.io/)
 * [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
 * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+* [CopyFish: OCR, PDF, image and video tools](https://ocr.space/copyfish)
 
 #### Collections
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
