@@ -26,6 +26,7 @@ Also see [[identification]].
 * [https://userhunt.co/](https://userhunt.co/)
 * [https://one-plus.github.io/](https://one-plus.github.io/)
 * [Usersearch.org social network search engine](https://usersearch.org/)
+* [Iojw/socialscan: Python lib and CLI for querying username and email usage on online platforms](https://github.com/iojw/socialscan)
 
 ![[Username-Workflow.png]]
 
@@ -91,7 +92,7 @@ Also see [[identification]].
 * [Aware online: List of Instagram Tools](https://www.aware-online.com/osint-tools/instagram-tools/)
 * [Instagram search and download](https://pixwox.com/)
 * [OSI.IG Instagram OSINT tool](https://github.com/th3unkn0n/osi.ig)
-* [Osintgram: Interactive shell for analysis on an Instagram account](https://github.com/Datalux/Osintgram)
+* [Datalux/Osintgram: Interactive shell for analysis on an Instagram account](https://github.com/Datalux/Osintgram)
 * [Novitae/sterraxcyl: Export Instragram followers and details to xls or csv](https://github.com/novitae/sterraxcyl)
 * [Bellingcat/instagram-location-search: Finds Instagram location IDs near a specific latitude and longitude](https://github.com/bellingcat/instagram-location-search)
 * [Blackeki/yesitsme: Simple OSINT script to find Instagram profiles by name and email / phone](https://github.com/blackeko/yesitsme)
@@ -279,6 +280,7 @@ Also see [[identification]].
 * [GitHub Dorks: Find leaked secrets using GitHub search](https://github.com/techgaun/github-dorks)
 * [GitDorker: Scrape secrets from GitHub through usage of a large repository of dorks](https://github.com/obheda12/GitDorker)
 * [dxy4481/truffleHug: Find high-entropy strings in Git repositories](https://github.com/dxa4481/truffleHog)
+* [H51un6/email2github: Identify GitHub accounts associated with email address](https://github.com/h51un6/email2github)
 
 ### Minecraft
 * [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)
