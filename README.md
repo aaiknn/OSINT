@@ -10,7 +10,7 @@ The project is maintained using [Obisidian](https://obsidian.md/), a clever and 
 ### Introduction
 * [[OSINT/_introduction]]: OSINT in general. This is where to find general information on OSINT and its disciplines, and also a huge collection of resources that are great to use when launching a new OSINT-related research project.
 * [[research-management]]: Managing an OSINT-related research project.
-* [[sock-accounts]]: Building a presence with privacy in mind.
+* [[sock-accounts]] and [[surveillance]]: Building a presence with privacy in mind.
 
 ### Research and Data
 * [[OSINT/search-engines]]: Narrowing down what's already been found.

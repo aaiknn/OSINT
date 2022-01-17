@@ -6,6 +6,8 @@
 * [Million Short: remove the first N of the most popular search results](https://millionshort.com/)
 * [Yamli.com Arabic search engine](https://www.yamli.com/)
 
+![[Search-Operators-Cheatsheet-IntelTechniques.jpg]]
+
 ## Super Search
 * [Laramies/theHarvester: Email address, subdomain, and name harvester](https://github.com/laramies/theHarvester)
 
@@ -77,6 +79,8 @@
 * [https://translation2.paralink.com/](https://translation2.paralink.com/)
 
 ## Misc
+* [370rokas/anonscraper: Scrapes files uploaded to AnonFile by Google Dorking](https://github.com/370rokas/anonscraper)
+
 ### CameraTrace
 Allows for searching for pictures taken by the same physical camera using the serial number stored in EXIF data.
 [http://www.cameratrace.com/](http://www.cameratrace.com/)

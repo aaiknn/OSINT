@@ -5,6 +5,7 @@
 * [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
 * [https://www.uk-osint.net/creatingids.html](https://www.uk-osint.net/creatingids.html)
 * [https://backgroundchecks.org/justdeleteme/fake-identity-generator/](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)
+* [Martin Vigo: Phonerator, a valid phone number generator](https://www.martinvigo.com/tools/phonerator/)
 
 ## Spoofing and Mimicking
 * [https://multilogin.com/why-mimicking-a-device-is-almost-impossible/](https://multilogin.com/why-mimicking-a-device-is-almost-impossible/)
