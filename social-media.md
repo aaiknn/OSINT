@@ -276,7 +276,7 @@ Also see [[identification]].
 * [Gitrecon: Get information from user profiles and find users' email addresses](https://github.com/GONZOsint/gitrecon)
 
 #### GitHub
-![[GitHub-OSINT-Attack-Surface.jpg]]
+![[GitHub-OSINT-Attack-Surface-v2.jpg]]
 ![[GitHub-Dorks.png]]
 
 * [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
