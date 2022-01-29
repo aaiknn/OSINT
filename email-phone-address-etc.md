@@ -20,12 +20,14 @@
 * [Address and property directory for the USA](https://homemetry.com/)
 
 ## Email Addresses
-![[Email-Workflow.png]]
-
 * [Simple email searches](https://emailrep.io/)
 * [Zen: Find GitHub user email addresses](https://github.com/s0md3v/Zen)
 * [Email permutator](http://metricsparrow.com/toolkit/email-permutator/)
 * [Check whether a domain is protected against email impersonation attacks](https://domain-checker.valimail.com/dmarc/)
+
+![[Email-Workflow.png]]
+
+![[OSINT-Email-Address-Investigation.png]]
 
 ### Gmail
 `curl -v 'https://mail.google.com/mail/gxlu?email=email@gmail.com` -- if the address exists, then there should be a cookie in the response

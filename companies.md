@@ -5,6 +5,8 @@
 * [Baumgartner Research: Business Registers of business registries and chamber of commerce for most countries](https://en.baumgartner-research.com/unternehmensregister)
 * [Tech Inquiry: Influence Explorer: Search daily updated curated procurement and lobbying feeds across 38 countries](https://techinquiry.org/explorer)
 
+![[OSINT-Business-Investigation.png]]
+
 ## AiHitdata
 > A unique source of company information (that) stores and continually updates huge amounts of company data. Much of this data ... will not be found in any other database available on the Internet.
 

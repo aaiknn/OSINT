@@ -56,12 +56,13 @@ Also see [[identification]].
 5. [[#Reddit]]
 6. [[#Snapchat]]
 7. [[#Steam]]
-8. [[#TikTok]]
-9. [[#Tumblr]]
-10. [[#Twitch]]
-11. [[#Twitter]]
-12. [[#Yandex]]
-13. [[#YouTube]]
+8. [[#Strava]]
+9. [[#TikTok]]
+10. [[#Tumblr]]
+11. [[#Twitch]]
+12. [[#Twitter]]
+13. [[#Yandex]]
+14. [[#YouTube]]
 
 ### Facebook
 * [FacebookToolkit: Get Facebook data](https://github.com/warifp/FacebookToolkit)
@@ -133,6 +134,9 @@ Also see [[identification]].
 * [https://www.steamidfinder.com/](https://www.steamidfinder.com/)
 * [Steamid.uk: Historic steam profile information](https://steamid.uk/)
 * [Steamrep: Steam account search tool](https://steamrep.com/)
+
+### Strava
+* [Osintcurio.us: You Can Run, But You Can't Hide](https://osintcurio.us/2022/01/24/you-can-run-but-you-cant-hide/)
 
 ### TikTok
 * [https://www.skopenow.com/news/tiktok-investigations-and-osint-tips](https://www.skopenow.com/news/tiktok-investigations-and-osint-tips)
@@ -225,6 +229,7 @@ Also see [[identification]].
 * [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
 * [OS2INT: Creating visual intelligence from Telegram user group data](https://os2int.com/toolbox/creating-visual-intelligence-from-telegram-user-group-data/)
 * [How to find the owner and administrator of a Telegram channel](https://te.legra.ph/How-to-find-the-owner-and-administrator-of-a-Telegram-channel-11-02)
+* [Cqcore: Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
 
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
