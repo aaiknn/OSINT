@@ -15,5 +15,8 @@
 * [Joplin: Markdown note-taking](https://joplinapp.org/)
 * [Mark Text](https://marktext.app)
 
+#### Articles
+* [TrustedSec: Obsidian, Taming a Collective Consciousness](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness/)
+
 ## PDF Handling
 * [PDF Maker Map: Web-based PDF map layouting for download/print](https://pdfmapmaker.com/)

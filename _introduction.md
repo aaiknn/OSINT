@@ -244,6 +244,9 @@ WITPRO	- Witness Protection
 * [GIJC21: List of resources](https://gijn.org/gijc21-resources/)
 * [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview)
 
+#### GEOINT
+* [Cartographia/geospacial-intelligence-library: a curated list of open source intelligence tools and resources focused on geolocation and chronolocation](https://github.com/cartographia/geospatial-intelligence-library)
+
 #### By Country
 ##### Australia
 * [Collection of websites and databases helping to find missing persons in Australia](https://osint.fans/australia-osint-data-sources)

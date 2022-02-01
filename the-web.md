@@ -7,6 +7,10 @@
 * [Networking.ringofsaturn.com: Web-based probing tool for whois data, DNS records, port scan, and traceroute](https://networking.ringofsaturn.com/Tools/probe.php)
 * [Domain Codex: Gain various information about domains of over 315 million indexed entries](https://www.domaincodex.com/index.php)
 
+![[Short-Links-Verification-Cheatsheet.PNG]]
+
+* [Seintpl/osint/...: Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
+
 ## Websites
 ### Archives
 * [Intelligence X: Meta search IX, the Wayback Machine, and archive.is at once](https://intelx.io/dorks)

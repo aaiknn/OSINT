@@ -1,4 +1,7 @@
 # Identification
+## General
+* [Positive Security: Recovering redacted information from pixelated videos](https://positive.security/blog/video-depixelation)
+
 ## Noteable Tools
 ### Topazlabs: Gigapixel AI
 > Photo Enlargement with Gigapixel AI: Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
@@ -50,6 +53,9 @@ See [[companies]].
 ## License Plates
 * [Platesmania: photos of vehicles and license plates](https://platesmania.com/)
 * [http://www.worldlicenseplates.com/](http://www.worldlicenseplates.com/)
+
+## Names
+* [Seintlpl.github.io: name mashup tool](https://seintpl.github.io/NAMINT/)
 
 ## Plants
 * [https://plant.toolpie.com/](https://plant.toolpie.com/)

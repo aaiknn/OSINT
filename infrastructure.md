@@ -1,6 +1,7 @@
 # Infrastructure
 * [Open Infrastructure Map](https://openinframap.org/)
 * [Baker Institute: Map of Critical Infrastructure in the US](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)
+* [GlobalIncidentMap.com: A global display of terrorism and other suspicious events](https://www.globalincidentmap.com/)
 
 ## Articles
 * [What is the largest country in the world based on the most suitable land area for human habitation?](https://vividmaps.com/largest-country-world/)
