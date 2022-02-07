@@ -72,6 +72,11 @@ See [[social-media]]
 ## Vehicles
 See [[traffic-transportation]].
 
+### Marine Vehicles
+![[Periscopes-and-Optronic-Masts-of-North-and-South-American-Submarines.jpg]]
+![[Periscopes-and-Optronic-Masts-of-Russian-African-and-Middle-Eastern-Submarines.jpg]]
+![[Periscopes-and-Optronic-Masts-of-European-Submarines.jpg]]
+
 ## Weapons and Ammo
 See [[weapons-ammo]].
 

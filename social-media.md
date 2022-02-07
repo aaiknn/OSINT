@@ -223,6 +223,7 @@ Also see [[identification]].
 ### Telegram
 * [Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 * [List of many OSINT resources for Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+* [Tejado/telegram-nearby-map: Discover the location of nearby Telegram users](https://github.com/tejado/telegram-nearby-map)
 
 #### Articles
 * [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
