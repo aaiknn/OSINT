@@ -250,9 +250,10 @@ Also see [[identification]].
 2. [[#Dating Apps and Hookup Sites]]
 3. [[#Google]]
 4. [[#GitHub and GitLab]]
-5. [[#Minecraft]]
-6. [[#Spotify]]
-7. [[#Wikipedia]]
+5. [[#Gravatar]]
+6. [[#Minecraft]]
+7. [[#Spotify]]
+8. [[#Wikipedia]]
 
 ### 4Chan
 #### Archives
@@ -291,6 +292,9 @@ Also see [[identification]].
 * [GitDorker: Scrape secrets from GitHub through usage of a large repository of dorks](https://github.com/obheda12/GitDorker)
 * [dxy4481/truffleHug: Find high-entropy strings in Git repositories](https://github.com/dxa4481/truffleHog)
 * [H51un6/email2github: Identify GitHub accounts associated with email address](https://github.com/h51un6/email2github)
+
+### Gravatar
+* [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808)
 
 ### Minecraft
 * [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)

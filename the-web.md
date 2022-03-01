@@ -32,7 +32,7 @@
 
 ### Scanners
 #### Blacklight
-[https://themarkup.org/blacklight](https://themarkup.org/blacklight): A free online tool that checks web pages for any privacy invading scripts, apps, session tackers, ads, etc.
+[https://themarkup.org/blacklight](https://themarkup.org/blacklight): A free online tool that checks web pages for any privacy invading scripts, apps, session trackers, ads, etc.
 
 ## Social Media
 See [[social-media]].
