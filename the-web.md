@@ -6,6 +6,7 @@
 * [Whoxy: Domain Search Engine](https://www.whoxy.com)
 * [Networking.ringofsaturn.com: Web-based probing tool for whois data, DNS records, port scan, and traceroute](https://networking.ringofsaturn.com/Tools/probe.php)
 * [Domain Codex: Gain various information about domains of over 315 million indexed entries](https://www.domaincodex.com/index.php)
+* [Google Safe Browsing Lookup API](https://developers.google.com/safe-browsing/v4/lookup-api)
 
 ![[Short-Links-Verification-Cheatsheet.PNG]]
 

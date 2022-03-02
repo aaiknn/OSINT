@@ -14,6 +14,7 @@
 * [Obsidian](https://obsidian.md/)
 * [Joplin: Markdown note-taking](https://joplinapp.org/)
 * [Mark Text](https://marktext.app)
+* [BlueHatbRit/mdpdf: Markdown to PDF command line app with support for stylesheets](https://github.com/BlueHatbRit/mdpdf)
 
 #### Articles
 * [TrustedSec: Obsidian, Taming a Collective Consciousness](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness/)

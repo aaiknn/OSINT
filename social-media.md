@@ -204,6 +204,9 @@ Also see [[identification]].
 * [https://github.com/Dutchosintguy/OSINT-Discord-resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
 * [https://github.com/atoncehussein/DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
 
+#### Tools
+* [Serverse: Search for Discord servers by keyword](https://extraction.team/serverse.html)
+
 ## Messengers
 * [Securemessagingapps.com: Messager feature comparison table](https://www.securemessagingapps.com/)
 
@@ -224,6 +227,7 @@ Also see [[identification]].
 * [Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 * [List of many OSINT resources for Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 * [Tejado/telegram-nearby-map: Discover the location of nearby Telegram users](https://github.com/tejado/telegram-nearby-map)
+* [Jordanwildon/Telepathy: An OSINT toolkit for investigating Telegram chats](https://github.com/jordanwildon/Telepathy)
 
 #### Articles
 * [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
@@ -292,6 +296,7 @@ Also see [[identification]].
 * [GitDorker: Scrape secrets from GitHub through usage of a large repository of dorks](https://github.com/obheda12/GitDorker)
 * [dxy4481/truffleHug: Find high-entropy strings in Git repositories](https://github.com/dxa4481/truffleHog)
 * [H51un6/email2github: Identify GitHub accounts associated with email address](https://github.com/h51un6/email2github)
+* [Rly0nheart/octosuite: Advanced GitHub OSINT framework](https://github.com/rly0nheart/octosuite)
 
 ### Gravatar
 * [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808)

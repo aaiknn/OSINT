@@ -57,6 +57,7 @@ WITPRO	- Witness Protection
 * [OH SHINT: OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
 * [OSINTCurious: Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/)
 * [Sector035.nl: Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media)
+* [Dutchosintguy: Why OSINT doesn't need your feelings](https://dutchosintguy.com/why-osint-doesnt-need-your-feelings/)
 
 ### Collections of Articles
 * [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)
@@ -151,6 +152,7 @@ WITPRO	- Witness Protection
 * [Osintcombine: all available tools](https://www.osintcombine.com/tools)
 * [Colorize.toolpie.com: Colorises black and white photos](https://colorize.toolpie.com/)
 * [Smicallef/spiderfoot: OSINT automation for Treat Intelligence and Attack Surface Mapping](https://github.com/smicallef/spiderfoot)
+* [Meta OSINT: A list of over 4,000 resources and their associated citation counts](https://metaosint.github.io/table/)
 
 ![[Search-Engines-and-Tools-Cheatsheet-IntelTechniques.jpg]]
 
