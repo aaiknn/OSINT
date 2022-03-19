@@ -44,6 +44,9 @@ See [[infrastructure]] and [[traffic-transportation]].
 #### India
 * [Bhuvan Indian Geo-Platform: IMS-1, Cartosat, OceanSat, and ResourceSat](https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/bhuvan2d.php)
 
+#### Ukraine
+* [Nagix.github.io: A large collection of live real-time webcams in Ukraine plotted on a 3D map](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45)
+
 #### US: Coastline
 * [Digital Coast: US coastline high-res imagery in radar, infrared, and true colour](https://coast.noaa.gov/dataviewer/#/landcover/search/)
 

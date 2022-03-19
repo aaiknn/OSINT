@@ -82,6 +82,7 @@ WITPRO	- Witness Protection
 
 ## Frameworks
 * [OSINT Framework](https://osintframework.com/)
+* [Map.malfrats.industries: an interactive tree of OSINT tools and resources similar to the OSINT Framework](https://map.malfrats.industries/)
 * [Lanmaster53/recon-ng: OSINT gathering tool](https://github.com/lanmaster53/recon-ng)
 
 ## Techniques
