@@ -48,6 +48,7 @@ Also see [[identification]].
 * [https://www.cqcore.uk/email-to-username/](https://www.cqcore.uk/email-to-username/)
 
 ## Social Media OSINT
+![[Social-Media-What-Can-We-Find.jpg]]
 
 1. [[#Facebook]]
 2. [[#Instagram]]
@@ -206,6 +207,7 @@ Also see [[identification]].
 
 #### Tools
 * [Serverse: Search for Discord servers by keyword](https://extraction.team/serverse.html)
+* [V3ntus/darvester: PoC OSINT Discord user and guild information harvester](https://github.com/V3ntus/darvester)
 
 ## Messengers
 * [Securemessagingapps.com: Messager feature comparison table](https://www.securemessagingapps.com/)

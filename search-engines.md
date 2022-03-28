@@ -14,6 +14,8 @@
 ## DuckDuckGo
 ![[duckduckgo-cheatsheet.png]]
 
+* [Duckduckbang: Catalog of duckduckgo search operators](https://mosermichael.github.io/duckduckbang/html/main.html)
+
 ## Google
 ![[Google-Dorking-Cheatsheet.PNG]]
 
