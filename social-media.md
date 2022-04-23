@@ -101,6 +101,7 @@ Also see [[identification]].
 * [Novitae/sterraxcyl: Export Instragram followers and details to xls or csv](https://github.com/novitae/sterraxcyl)
 * [Bellingcat/instagram-location-search: Finds Instagram location IDs near a specific latitude and longitude](https://github.com/bellingcat/instagram-location-search)
 * [Blackeki/yesitsme: Simple OSINT script to find Instagram profiles by name and email / phone](https://github.com/blackeko/yesitsme)
+* [Novitae/Tenai: Partly reveals mutual followers of private Instagram accounts](https://github.com/novitae/Tenai)
 
 ![[instagram-login-bypass.png]]
 
@@ -237,6 +238,7 @@ Also see [[identification]].
 * [OS2INT: Creating visual intelligence from Telegram user group data](https://os2int.com/toolbox/creating-visual-intelligence-from-telegram-user-group-data/)
 * [How to find the owner and administrator of a Telegram channel](https://te.legra.ph/How-to-find-the-owner-and-administrator-of-a-Telegram-channel-11-02)
 * [Cqcore: Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
+* [Medium: Telegram OSINT: Generating a Data "Backbone" for Investigation](https://tompatrickjarvis.medium.com/telegram-osint-generating-a-data-backbone-for-investigation-23111b9493ac)
 
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)

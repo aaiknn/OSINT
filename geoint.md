@@ -2,6 +2,7 @@
 ## Collections
 * [Cartographia/geospacial-intelligence-library: a curated list of open source intelligence tools and resources focused on geolocation and chronolocation](https://github.com/cartographia/geospatial-intelligence-library)
 * [Sacridini/Awesome-Geospatial: Geospatial tools and resources](https://github.com/sacridini/Awesome-Geospatial)
+* [Rawsec CyberSecurity tool collection: OSINT section](https://inventory.raw.pm/tools.html#title-tools-osint)
 
 ### Startpages
 * [https://start.me/p/W1kDAj/geoint](https://start.me/p/W1kDAj/geoint)
@@ -28,6 +29,7 @@
 * [Plus Codes Grid Service: Adds plus code grids to online maps and GIS applications](https://grid.plus.codes/)
 * [What3Words: Word based location coordination system](https://what3words.com/)
 * [GONZOsint/geowifi: Search Wi-Fi geolocation data by BSSID and SSID on different public databases](https://github.com/GONZOsint/geowifi)
+* [Hoodmaps: Crowdsourced neighbourhood maps of information about an area](https://hoodmaps.com/)
 
 ![[Location-Workflow.png]]
 
