@@ -2,7 +2,6 @@
 ## Collections
 * [Cartographia/geospacial-intelligence-library: a curated list of open source intelligence tools and resources focused on geolocation and chronolocation](https://github.com/cartographia/geospatial-intelligence-library)
 * [Sacridini/Awesome-Geospatial: Geospatial tools and resources](https://github.com/sacridini/Awesome-Geospatial)
-* [Rawsec CyberSecurity tool collection: OSINT section](https://inventory.raw.pm/tools.html#title-tools-osint)
 
 ### Startpages
 * [https://start.me/p/W1kDAj/geoint](https://start.me/p/W1kDAj/geoint)

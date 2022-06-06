@@ -30,6 +30,7 @@ Also see [[identification]].
 * [https://one-plus.github.io/](https://one-plus.github.io/)
 * [Usersearch.org social network search engine](https://usersearch.org/)
 * [Iojw/socialscan: Python lib and CLI for querying username and email usage on online platforms](https://github.com/iojw/socialscan)
+* [Sherlock-project/sherlock: Cross-network username-based discovery](https://github.com/sherlock-project/sherlock)
 
 ![[Username-Workflow.png]]
 
@@ -123,12 +124,16 @@ Also see [[identification]].
 ### Reddit
 * [https://www.redditinvestigator.com/](https://www.redditinvestigator.com/)
 * [Find Subreddits by keyword](https://yasiv.com/reddit)
-* [Reddit-search: Find deleted posts and comments on Reddit](https://camas.github.io/reddit-search/)
+~~* [Reddit-search: Find deleted posts and comments on Reddit](https://camas.github.io/reddit-search/)~~
+* [Reddit-search_ Find deleted posts an comments on Reddit](https://camas.unddit.com/)
+* [Bmai.dev: Reddit search for posts and comments](https://bmai.dev/reddit/)
 
 #### Data Visualisation
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
 
 ### Snapchat
+![[Snapchat_OSINT_Attack_Surface.jpg]]
+
 * [Searchable Database of Snapchat Profiles](https://www.ghostcodes.com/)
 * [Rhematt/Snap-Scraper: Download media uploaded to Snapchat' Snap Map](https://rhematt.github.io/Snap-Scraper/)
 

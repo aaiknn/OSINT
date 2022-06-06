@@ -58,6 +58,7 @@ WITPRO	- Witness Protection
 * [OSINTCurious: Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/)
 * [Sector035.nl: Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media)
 * [Dutchosintguy: Why OSINT doesn't need your feelings](https://dutchosintguy.com/why-osint-doesnt-need-your-feelings/)
+* [Hatless1der: Advanced OSINT: The Art of Pivoting](https://hatless1der.com/advanced-osint-the-art-of-pivoting/)
 
 ### Collections of Articles
 * [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)
@@ -70,6 +71,9 @@ WITPRO	- Witness Protection
 * [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
 * [https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af](https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af)
 * [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
+
+## Magazines
+* [Unredacted: Privacy, security, & OSINT magazine](https://unredactedmagazine.com/download.html)
 
 ## Videos
 * [x33fcon 2019: Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
@@ -244,6 +248,7 @@ See [[geoint]].
 * [ResearchClinic: Online Investigation and Training](http://researchclinic.net/index.htm)
 * [GIJC21: List of resources](https://gijn.org/gijc21-resources/)
 * [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview)
+* [Rawsec CyberSecurity tool collection: OSINT section](https://inventory.raw.pm/tools.html#title-tools-osint)
 
 #### By Country
 ##### Australia

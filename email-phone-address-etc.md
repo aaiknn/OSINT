@@ -29,6 +29,8 @@
 
 ![[OSINT-Email-Address-Investigation.png]]
 
+![[full-email-flowchart-hatless1der.png]]
+
 ### Gmail
 `curl -v 'https://mail.google.com/mail/gxlu?email=email@gmail.com` -- if the address exists, then there should be a cookie in the response
 
