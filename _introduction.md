@@ -13,7 +13,7 @@
 11. [[#OSINT Attack Surface]]
 12. [[#OSINT People]]
 13. [[#Missing Persons]]
-14. [[#Tools]]
+14. [[#OSINT Tools]]
 
 ## Disciplines and Terms
 ```txt
@@ -61,9 +61,10 @@ WITPRO	- Witness Protection
 * [Hatless1der: Advanced OSINT: The Art of Pivoting](https://hatless1der.com/advanced-osint-the-art-of-pivoting/)
 
 ### Collections of Articles
-* [The OSINT Library: Maintained collection of academic and professional books, articles, and papers](https://www.blockint.nl/the-osint-library/)
+* [Blockint.nl: The OSINT Library](https://www.blockint.nl/the-osint-library/): maintained collection of academic and professional books, articles, and papers
 * [All Sector035 Week in OSINT articles](https://sector035.nl/articles/category:week-in-osint)
 * [OSINT.org: Workflow category](https://osint.org/category/workflow/)
+* [ResearchBuzz Search Gizmos](https://searchgizmos.com/) 
 
 ### Research Papers
 * [Journal of International Crime Justice, March 2021: New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), stored offline here: [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf]]
@@ -88,6 +89,7 @@ WITPRO	- Witness Protection
 * [OSINT Framework](https://osintframework.com/)
 * [Map.malfrats.industries: an interactive tree of OSINT tools and resources similar to the OSINT Framework](https://map.malfrats.industries/)
 * [Lanmaster53/recon-ng: OSINT gathering tool](https://github.com/lanmaster53/recon-ng)
+* [IRIS-Team/IRIS](https://github.com/IRIS-Team/IRIS)
 
 ## Techniques
 * [Toddington: A collection of flowcharts for various techniques and processes](https://www.toddington.com/resources/cheat-sheets/)
@@ -124,6 +126,7 @@ WITPRO	- Witness Protection
 ![[ip-attack-surface.png]]
 ![[person-attack-surface.jpeg]]
 ![[person-centered-osint.png]]
+![[OpenSea_OSINT_Attack_Surface.jpeg]]
 
 ## OSINT People
 * sinwindie, certified cyber crime investigator, [GitHub](https://github.com/sinwindie/OSINT), [Twitter](https://twitter.com/sinwindie)
@@ -132,15 +135,20 @@ WITPRO	- Witness Protection
 * The OSINT Curious Project, [YouTube](https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA)
 
 ## (Missing) Persons
-* [https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)
-* [https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56](https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56)
-* [http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
-* [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
+### Tools
+* [Go FindWho](https://gofindwho.com/) search engine
+* [Steve Morse: One-Step Webpages](https://stevemorse.org/index.html): a collection of tools for finding immigration records, census records, vital records, and for dealing with calendars, maps, foreign alphabets, and numerous other applications
+* [CheckUsernames: Meta search across social network platforms](https://checkusernames.com/) for brands and usernames
+* [F3dai/OSINT-Resources](https://github.com/F3dai/OSINT-Resources): resources for OSINT, particularly related to people
+* [Wizardsourcer.com/tools](https://wizardsourcer.com/tools/): a comprehensive list of talent sourcing tools
+
+### Articles
 * [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
-* [Go FindWho search engine](https://gofindwho.com/)
-* [Steve Morse: One-Step Webpages](https://stevemorse.org/index.html)
-* [CheckUsernames: Meta search across social network platforms](https://checkusernames.com/)
-* [F3dai/OSINT-Resources: Resources for OSINT, particularly related to people](https://github.com/F3dai/OSINT-Resources)
+* [Whitehatinspector: Using OSINT to find missing persons](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)
+* [Consumer-sos: Sleuthing for people online](http://consumer-sos.com/Georgia/People_Search/sleuthing_for_people_online_step.htm)
+* [Medium: The first digit: How to find information on anyone](https://medium.com/the-first-digit/osint-how-to-find-information-on-anyone-5029a3c7fd56)
+* [Geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
+* [Maltego: How to Conduct Person of Interest Investigations Using OSINT and Maltego](https://www.maltego.com/blog/how-to-conduct-person-of-interest-investigations-using-osint-and-maltego/)
 
 ![[Real-Name-Workflow.png]]
 
@@ -150,7 +158,20 @@ WITPRO	- Witness Protection
 
 ![[person-social-workflow.png]]
 
-## Tools
+## OSINT Tools
+1. [[#General]]
+2. [[#Platforms]]
+3. [[#Research Databases]]
+4. [[#Data Visualisation]]
+5. [[#Open Data Collections]]
+6. [[#Relationships]]
+7. [[#Tracking and Profiling]]
+8. [[#Startpages]]
+9. [[#OSINT Collections]]
+10. [[#Resources]]
+11. [[#Browser Extensions]]
+
+### General
 * [SynapsInt, the unified OSINT research tool](https://synapsint.com/)
 * [AIO Information Gathering Tool](https://osint.sh/)
 * [Effect Group: All in one intel data](https://www.effect.group/)
@@ -160,9 +181,6 @@ WITPRO	- Witness Protection
 * [Meta OSINT: A list of over 4,000 resources and their associated citation counts](https://metaosint.github.io/table/)
 
 ![[Search-Engines-and-Tools-Cheatsheet-IntelTechniques.jpg]]
-
-### Frameworks
-* [https://github.com/IRIS-Team/IRIS](https://github.com/IRIS-Team/IRIS)
 
 ### Platforms
 * [Effect Group Open Source Research Platform](https://effectgroup.io/)
@@ -201,6 +219,7 @@ WITPRO	- Witness Protection
 * [https://start.me/p/b5ynOQ/sprp77-search-engines](https://start.me/p/b5ynOQ/sprp77-search-engines)
 * [https://start.me/p/8yx1o0/main-tools](https://start.me/p/8yx1o0/main-tools)
 * [https://start.me/p/jj2XEr/osint-global-non-us](https://start.me/p/jj2XEr/osint-global-non-us)
+* [https://start.me/p/0PwOGl/osint-all]
 
 #### ASINT
 * [https://start.me/p/b5Aow7/asint_collection](https://start.me/p/b5Aow7/asint_collection)
@@ -226,29 +245,32 @@ See [[geoint]].
 ##### China
 * [https://start.me/p/7kLY9R/osint-chine](https://start.me/p/7kLY9R/osint-chine)
 
-### Collections
+### OSINT Collections
 #### OSINT
-* [OSINT Map: Collections of OSINT data by location](https://cipher387.github.io/osintmap/)
-* [Maintained collection of OSINT related resources](https://github.com/Ph055a/OSINT_Collection)
-* [Collection of the top 219 OSINT open source projects](https://awesomeopensource.com/projects/osint)
-* [List of OSINT tools](https://cipher387.github.io/osint_stuff_tool_collection/)
+* [Cipher387.github.io/osintmap](https://cipher387.github.io/osintmap/):  collections of OSINT data by location
+* [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection): maintained collection of OSINT related resources
+* [Awesomeopensource.com/projects/osint](https://awesomeopensource.com/projects/osint): collection of the top 219 OSINT open source projects
+* [Cipher387.github.io/...](https://cipher387.github.io/osint_stuff_tool_collection/): list of OSINT tools
 * [https://thecyberpost.com/open-source-intelligence-osint-tools/](https://thecyberpost.com/open-source-intelligence-osint-tools/)
-* [Collections of OSINT research books, articles, papers, etc](https://www.blockint.nl/the-osint-library/)
-* [OSINT Curious: List of OSINT resources](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/)
+* [Blockint.nl/the-osint-library](https://www.blockint.nl/the-osint-library/): collections of OSINT research books, articles, papers, etc
+* [OSINT Curious' Google Docs](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/) list of OSINT resources
 * [https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc)
 * [https://sector035.nl/articles/2021-17](https://sector035.nl/articles/2021-17)
-* [https://github.com/sinwindie/OSINT](https://github.com/sinwindie/OSINT)
+* [Sinwindie/OSINT](https://github.com/sinwindie/OSINT): collections of OSINT resources
 * [https://git.hopain.cyou/OSINT-Search-Tools/index.html](https://git.hopain.cyou/OSINT-Search-Tools/index.html)
 * [https://i-sight.com/resources/101-osint-resources-for-investigators/](https://i-sight.com/resources/101-osint-resources-for-investigators/)
-* [Bellincat's maintained Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview)
-* [SANS _must have_ free resources for OSINT](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
-* [SANS list of resources from OSINT Summit 2021](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
+* [Bellincat's Google Docs](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview) maintained Online Investigation Toolkit
+* [SANS: _must have_ free resources for OSINT](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
+* [SANS: list of resources from OSINT Summit 2021](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 * [Sector035 link collection](https://sector035.nl/links)
 * [Reuser: The OSINT resource discovery toolkit](https://rr.reuser.biz/)
 * [ResearchClinic: Online Investigation and Training](http://researchclinic.net/index.htm)
 * [GIJC21: List of resources](https://gijn.org/gijc21-resources/)
-* [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview)
+* [Swiss Online Investigation Toolkit Google Docs](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview)
 * [Rawsec CyberSecurity tool collection: OSINT section](https://inventory.raw.pm/tools.html#title-tools-osint)
+* [Inteltechniques.com/tools](https://inteltechniques.com/tools/): OSINT online search tool
+* [Airtable.com: "Grouped by activity, data type, and domain" view](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op) collection of resources
+* [CScorza/OSINT-FORENSICS-MOBILE](https://github.com/CScorza/OSINT-FORENSICS-MOBILE): collections for mobile forensics OSINT
 
 #### By Country
 ##### Australia
@@ -283,8 +305,3 @@ See [[geoint]].
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
 * [NullByteWht: Top 10 Browser Extensions for Hackers & OSINT Researchers](https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158)
 * [SecurityTrails: Top 25 OSINT tools for penetration testing](https://securitytrails.com/blog/osint-tools)
-
-### Pip Modules
-```txt
-instalooter instaloader ignorant maigret holehe toutatis socialscan waybackpy internetarchive xeuledoc
-```

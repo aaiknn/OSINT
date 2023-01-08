@@ -1,10 +1,23 @@
 # Search Engines
 ![[search-engine-strengths.png]]
 
+1. [[#General Misc]]
+2. [[#Super Search]]
+3. [[#DuckDuckGo]]
+4. [[#Google]]
+5. [[#By Country]]
+6. [[#Source Code Search Engines]]
+7. [[#Paste Searches]]
+8. [[#Image Searche Engines]]
+9. [[#Reverse Image Search Engines]]
+10. [[#Translations]]
+11. [[#Other Misc]]
+
 ## General Misc
-* [Directory of search engines from around the world](https://www.searchenginelinks.co.uk/)
-* [Million Short: remove the first N of the most popular search results](https://millionshort.com/)
-* [Yamli.com Arabic search engine](https://www.yamli.com/)
+* [Searchenginelinks.co.uk](https://www.searchenginelinks.co.uk/)Directory of search engines from around the world
+* [Million Short](https://millionshort.com/): remove the first N of the most popular search results
+* [Yamli.com](https://www.yamli.com/):  Arabic search engine
+* [Criminal IP](https://www.criminalip.io): Cybersecurity Search Engine
 
 ![[Search-Operators-Cheatsheet-IntelTechniques.jpg]]
 
@@ -32,6 +45,7 @@
 * [Coforge: 37 Advanced Google Search Tips for Smarter Searching](https://web.archive.org/web/20210430171224/https://www.coforge.com/blog/advanced-google-search-tips)
 * [Removing Content From Google: Legal Help](https://support.google.com/legal/troubleshooter/1114905)
 * [SecurityTrails: Most popular Google Hacking Techniques - Top Google Dorks and Hacks](https://securitytrails.com/blog/google-hacking-techniques)
+* [Google Blog: New options for removing your personally identifiable information from search](https://blog.google/products/search/new-options-for-removing-your-personally-identifiable-information-from-search/)
 
 ### Google Hacking Database
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
@@ -81,7 +95,7 @@
 * [https://translate.yandex.com/](https://translate.yandex.com/)
 * [https://translation2.paralink.com/](https://translation2.paralink.com/)
 
-## Misc
+## Other Misc
 * [370rokas/anonscraper: Scrapes files uploaded to AnonFile by Google Dorking](https://github.com/370rokas/anonscraper)
 
 ### CameraTrace

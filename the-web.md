@@ -1,13 +1,14 @@
 # The Web
 ## Domain and IP Intel
 * [ARIN](https://www.arin.net/)
-* [ipstack: Geolocation API](https://ipstack.com/)
-* [SecurityTrails: Repository of Historical DNS Data](https://securitytrails.com/)
-* [Whoxy: Domain Search Engine](https://www.whoxy.com)
+* [Ipstack.com](https://ipstack.com/): geolocation API
+* [SecurityTrails](https://securitytrails.com/): repository of historical DNS Data
+* [Whoxy.com](https://www.whoxy.com): domain-based searches
 * [Networking.ringofsaturn.com: Web-based probing tool for whois data, DNS records, port scan, and traceroute](https://networking.ringofsaturn.com/Tools/probe.php)
 * [Domain Codex: Gain various information about domains of over 315 million indexed entries](https://www.domaincodex.com/index.php)
 * [Google Safe Browsing Lookup API](https://developers.google.com/safe-browsing/v4/lookup-api)
-* [CriminalIP: Cybersecurity search](https://www.criminalip.io/)
+* [CriminalIP.io](https://www.criminalip.io/): Cybersecurity search
+* [Abhijithb200.github.io/investigator/](https://abhijithb200.github.io/investigator/): meta search to check and gather information about the target domain name
 
 ![[Short-Links-Verification-Cheatsheet.PNG]]
 

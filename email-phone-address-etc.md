@@ -41,7 +41,7 @@ Find existing email addresses by nickname: [https://github.com/sharsil/mailcat](
 
 ## Phone
 ![[Telephone-Workflow.png]]
-
+![[telephone-no-attack-surface.png]]
 * [List of phone directories for different parts of the world](https://translate.google.com/translate?sl=auto&tl=en&u=https://om.1881.no/nyttige-sider/kataloger-i-utlandet) -- stored offline here: [[_assets/List_of_worldwide_phone_directories.html]]
 * [Spy Dialer: find unknown phone numbers](https://www.spydialer.com/)
 * [PhoneInfoga: Information gathering and OSINT framework for phones](https://github.com/sundowndev/PhoneInfoga) -- needs Firefox installed.
@@ -59,7 +59,8 @@ An OSINT tool to get a target's phone number by having their email address: [htt
 * [Check if a domain is using Office365](https://github.com/nixintel/o365chk/)
 
 ## HAM Radio
-* [https://www.qrz.com/](https://www.qrz.com/)
+* [QRZ](https://www.qrz.com/)
+* [Levinecentral.com/ham](https://levinecentral.com/ham/): HAM radio tools
 
 ### By Country
 #### Canada
