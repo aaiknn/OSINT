@@ -20,7 +20,7 @@
 * [PRIVACY Affairs: Acer Hacked -- Private Data of Millions of Clients Sold on Hacker Forum](https://www.privacyaffairs.com/acer-data-breach/)
 
 ## Data Breaches
-* `site:pastebin.com intext:domain name`
+* ~~`site:pastebin.com intext:domain name`~~
 * [https://amibreached.com/](https://amibreached.com/)
 * [https://ashley.cynic.al/](https://ashley.cynic.al/)
 * [https://breachchecker.com/](https://breachchecker.com/)
@@ -62,9 +62,10 @@
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
 
 ## Paste Searches
-* [https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)
-* [https://pastebeen.com/](https://pastebeen.com/)
+* ~~[https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)~~
+* ~~[https://pastebeen.com/](https://pastebeen.com/)~~
 * [https://psbdmp.ws/](https://psbdmp.ws/)
+* [https://grep.app/](https://grep.app/)
 
 ## Breach Data Scraping
 * [Hookshot: Automated email scraping from HaveIBeenPwned API](https://github.com/andrew-vii/hookshot/)

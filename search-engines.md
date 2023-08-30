@@ -72,8 +72,8 @@
 * [https://grep.app](https://grep.app)
 
 ## Paste Searches
-* [https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)
-* [https://pastebeen.com/](https://pastebeen.com/)
+* ~~[https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)~~
+* ~~[https://pastebeen.com/](https://pastebeen.com/)~~
 * [https://psbdmp.ws/](https://psbdmp.ws/)
 * [Intelligence X: Access a deleted Pastebin document](https://intelx.io/dorks)
 
