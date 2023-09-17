@@ -64,8 +64,11 @@
 ## Paste Searches
 * ~~[https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)~~
 * ~~[https://pastebeen.com/](https://pastebeen.com/)~~
-* [https://psbdmp.ws/](https://psbdmp.ws/)
-* [https://grep.app/](https://grep.app/)
+* ~~[https://pastebin.ga](https://pastebin.ga)~~
+* [RedHuntLabs: Code Leak Search Engine](https://redhuntlabs.com/online-ide-search/)
+* [Psbdmp.ws](https://psbdmp.ws/)
+* [Doxbin.org](https://doxbin.org)
+* [Leaked.wiki](https://leaked.wiki/home)
 
 ## Breach Data Scraping
 * [Hookshot: Automated email scraping from HaveIBeenPwned API](https://github.com/andrew-vii/hookshot/)

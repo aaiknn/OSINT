@@ -68,13 +68,16 @@
 * [https://darksearch.io/](https://darksearch.io/)
 
 ## Source Code Search Engines
-* [https://publicwww.com/](https://publicwww.com/)
-* [https://grep.app](https://grep.app)
+* [Grep.app](https://grep.app)
+* [Publicwww](https://publicwww.com/)
+* [Searchcode](https://searchcode.com)
+* [Sourcegraph search](https://sourcegraph.com/search)
 
 ## Paste Searches
-* ~~[https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)~~
-* ~~[https://pastebeen.com/](https://pastebeen.com/)~~
-* [https://psbdmp.ws/](https://psbdmp.ws/)
+* [RedHuntLabs: Code Leak Search Engine](https://redhuntlabs.com/online-ide-search/)
+* [Psbdmp.ws](https://psbdmp.ws/)
+* [Doxbin.org](https://doxbin.org)
+* [Leaked.wiki](https://leaked.wiki/home)
 * [Intelligence X: Access a deleted Pastebin document](https://intelx.io/dorks)
 
 ### Collections
