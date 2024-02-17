@@ -3,13 +3,10 @@
 * [AVIATION related resources startpage](https://start.me/p/q6mmMA/17-road-transportation)
 * [MARITIME related resources startpage](https://start.me/p/m6mLBk/18-maritime)
 * [ROAD TRANSPORTATION related resources startpage](https://start.me/p/q6mmMA/17-road-transportation)
-
 ## Flights
 * [Notam Map: Filter notams for a given flight](http://notammap.net/Notam.aspx)
-
 ## Metros
 * [Mic-ro.com: Metro logos across cities in the world](https://mic-ro.com/metro/metrologos.html)
-
 ## Railways
 * [ACW Railway Maps](http://www.acwr.com/economic-development/rail-maps)
 * [Associaion of American Railroads](https://www.aar.org/)
@@ -24,13 +21,10 @@
 * [Rail network in Scandinavia](https://www.sj.se/content/dam/externt/bilder/ovrigt/kartor/kartaovernordiskajarnvagsnatet-2012.pdf)
 * [Railway Webcams](https://railwebcams.net/)
 * [TrainLine](https://www.thetrainline.com/)
-
 ## Vehicles
 * [https://www.uk-osint.net/motorvehicle.html](https://www.uk-osint.net/motorvehicle.html)
 * [carmodel.toolpie.com: Identifies vehicle models](https://carmodel.toolpie.com/)
-
 ### Articles
 * [MwOsint: Where is Leonardo's Car? Using OSINT to Trace Vehicles](https://keyfindings.blog/2020/10/16/where-is-leonardos-car-using-osint-to-trace-vehicles/)
-
 ## Misc
 * [Smart meters GPS coordinates](https://twitter.com/BitBangingBytes/status/1388716726783672326?s=09)

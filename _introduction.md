@@ -41,73 +41,60 @@ SE		- Social Engineering
 WITPRO	- Witness Protection
 ```
 
- * [Wikipedia: List of intelligence gathering disciplines](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines)
- * [Wikipedia: Information security (series)](https://en.wikipedia.org/wiki/Information_security)
-
+ * Wikipedia: [List of intelligence gathering disciplines](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines)
+ * Wikipedia: [Information security (series)](https://en.wikipedia.org/wiki/Information_security
 ## Handbooks
-* [https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
-* [Criminal Intelligence for Analysts](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
+* I-intelligence.eu: [OSINT Handbook 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf) (PDF)
+* United Nations Office on Drugs and Crime: [Criminal Intelligence for Analysts](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf) (PDF)
 * [Opaque OPSEC Guide](https://opaque.link/post/opsecguide/)
-* [Pentestbook: Public Info Gathering](https://pentestbook.six2dez.com/recon/public-info-gathering)
-* [Global Investigative Journalism Network: Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/).
-* [Haax.fr: OSINT](https://cheatsheet.haax.fr/open-source-intelligence-osint/tools-and-methodology/methodology/)
-
+* Pentestbook: [Public Info Gathering](https://pentestbook.six2dez.com/recon/public-info-gathering)
+* Global Investigative Journalism Network: [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/).
+* Haax.fr: [OSINT methodology](https://cheatsheet.haax.fr/open-source-intelligence-osint/tools-and-methodology/methodology/)
 ## Articles
-* [Ax1al: OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
-* [OH SHINT: OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
-* [OSINTCurious: Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/)
-* [Sector035.nl: Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media)
-* [Dutchosintguy: Why OSINT doesn't need your feelings](https://dutchosintguy.com/why-osint-doesnt-need-your-feelings/)
-* [Hatless1der: Advanced OSINT: The Art of Pivoting](https://hatless1der.com/advanced-osint-the-art-of-pivoting/)
-
+* Ax1al: [OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
+* OH SHINT: [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
+* OSINTCurious: [Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/)
+* Sector035.nl: [Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media)
+* Dutchosintguy: [Why OSINT doesn't need your feelings](https://dutchosintguy.com/why-osint-doesnt-need-your-feelings/)
+* Hatless1der: [Advanced OSINT: The Art of Pivoting](https://hatless1der.com/advanced-osint-the-art-of-pivoting/)
 ### Collections of Articles
-* [Blockint.nl: The OSINT Library](https://www.blockint.nl/the-osint-library/): maintained collection of academic and professional books, articles, and papers
+* Blockint.nl: [The OSINT Library](https://www.blockint.nl/the-osint-library/): maintained collection of academic and professional books, articles, and papers
 * [All Sector035 Week in OSINT articles](https://sector035.nl/articles/category:week-in-osint)
-* [OSINT.org: Workflow category](https://osint.org/category/workflow/)
-* [ResearchBuzz Search Gizmos](https://searchgizmos.com/) 
-
+* OSINT.org: [Workflow](https://osint.org/category/workflow/)
+* ResearchBuzz: [Search Gizmos](https://searchgizmos.com/) 
 ### Research Papers
-* [Journal of International Crime Justice, March 2021: New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), stored offline here: [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf]]
-* [Nixintel: Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
-* [Nixintel: Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
-* [https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af](https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af)
-* [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
-
+* Journal of International Crime Justice: [New Technologies and the Investigation of International Crimes: An Introduction](https://academic.oup.com/jicj/article/19/1/1/6314899), March 2021, stored offline [[New_Technologies_and_the_Investigation_of_International_Crimes.pdf|here]].
+* Nixintel: [Using PGP Keys for OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
+* Nixintel: [Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
+* Tech Journalism: [How new satellite data sources enhance investigative journalism](https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af)
+* Mrrickdiesel: [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
 ## Magazines
-* [Unredacted: Privacy, security, & OSINT magazine](https://unredactedmagazine.com/download.html)
-
+* Unredacted: [Privacy, security, & OSINT magazine](https://unredactedmagazine.com/download.html)
 ## Videos
-* [x33fcon 2019: Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
-* [Ser3n1ty: Sizing Your OPSEC Threats. A Beginner's Guide for the Mildly Paranoid](https://www.youtube.com/watch?v=LnmHDFbl68w)
-* [OSINT Dojo: How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
-* [System Exploited: What is SpiderFoot OSINT Tool, and How to Set It Up?](https://youtu.be/J2S0sMTRKJY)
-
+* x33fcon 2019: [Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
+* Ser3n1ty: [Sizing Your OPSEC Threats. A Beginner's Guide for the Mildly Paranoid](https://www.youtube.com/watch?v=LnmHDFbl68w)
+* OSINT Dojo: [How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
+* System Exploited: [What is SpiderFoot OSINT Tool, and How to Set It Up?](https://youtu.be/J2S0sMTRKJY)
 ## Encyclopedias and Dictionaries
 * [BushidoUK CTI-related lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
-
 ## Frameworks
 * [OSINT Framework](https://osintframework.com/)
-* [Map.malfrats.industries: an interactive tree of OSINT tools and resources similar to the OSINT Framework](https://map.malfrats.industries/)
-* [Lanmaster53/recon-ng: OSINT gathering tool](https://github.com/lanmaster53/recon-ng)
-* [IRIS-Team/IRIS](https://github.com/IRIS-Team/IRIS)
-
+* [Map.malfrats.industries](https://map.malfrats.industries/): an interactive tree of OSINT tools and resources similar to the OSINT Framework
+* [Lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng): OSINT gathering tool
+* [~~IRIS-Team/IRIS~~](https://github.com/IRIS-Team/IRIS)
 ## Techniques
-* [Toddington: A collection of flowcharts for various techniques and processes](https://www.toddington.com/resources/cheat-sheets/)
-* [Attention manipulation](http://www.subliminalhacking.net/2013/02/05/attention-manipulation-techniques-natural-buffer-overflows/)
-
+* Toddington: [Cheat sheets](https://www.toddington.com/resources/cheat-sheets/): acollection of flowcharts for various techniques and processes
+* Subliminal hacking: [Attention manipulation techniques](http://www.subliminalhacking.net/2013/02/05/attention-manipulation-techniques-natural-buffer-overflows/)
 ### Situational Awareness
-* [Advanced Situational Awareness: US Army, 2021](https://fas.org/irp/doddir/army/tc3-22-69.pdf)
-* [Bourne Awareness](https://www.artofmanliness.com/articles/how-to-develop-the-situational-awareness-of-jason-bourne/)
-* [https://christina-lekati.medium.com/you-see-but-do-you-observe-7de959e5d1fa](https://christina-lekati.medium.com/you-see-but-do-you-observe-7de959e5d1fa)
-* [OODA Loop](https://www.artofmanliness.com/articles/ooda-loop/)
-
+* US Army: [Advanced Situational Awareness](https://fas.org/irp/doddir/army/tc3-22-69.pdf) (PDF), April 2021
+* Artofmanliness: [How to develop the situational awareness of Jason Bourne](https://www.artofmanliness.com/articles/how-to-develop-the-situational-awareness-of-jason-bourne/), Febuary 2015
+* Christina Lekati: [You see, but what do you observe?](https://christina-lekati.medium.com/you-see-but-do-you-observe-7de959e5d1fa), 30th July, 2021
+* Artofmanliness: [The Tao of Boyd: How to Master the OODA Loop](https://www.artofmanliness.com/articles/ooda-loop/), July 2023
 ## Courses
-* [https://www.inteltechniques.net/courses/open-source-intelligence](https://www.inteltechniques.net/courses/open-source-intelligence)
-
+* Inteltechniques: [Open Source Intelligence](https://www.inteltechniques.net/courses/open-source-intelligence)
 ## Voluntary OSINT
-* [Trace Labs OSINT Crowdsource to Find Missing People](https://www.tracelabs.org/)
-* [https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/](https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/)
-
+* Trace Labs: [OSINT Crowdsource to Find Missing People](https://www.tracelabs.org/)
+* Bellingcat: [Help Bellingcat Build Tools for Open Source Investigators](https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/), July 2021
 ## etc
 * [IntelliTechniques Data Removal Workbook](https://inteltechniques.com/workbook.html)
 * [JustGetMyData directory of direct links for obtaining your personal data from web services](https://justgetmydata.com/)
@@ -115,13 +102,10 @@ WITPRO	- Witness Protection
 * [ADL H.E.A.T. Map for the US](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)
 * [Parse online .DS_Store files](https://labs.internetwache.org/ds_store/)
 * [Am I FLoCed: Google FLoCing checker](https://amifloced.org/)
-
 ### Articles
 * [Infosecurity Magazine: Keeping up with the Uncertainty of Shifting Global Data Protection Regulations](https://www.infosecurity-magazine.com/opinions/uncertainty-global-data-protection/)
-
 ### Uh...
 * [mcbroken: World map of Mc Donald's shops that currently have broken ice cream machines](https://mcbroken.com/)
-
 ## OSINT Attack Surface
 ![[ip-attack-surface.png]]
 ![[person-attack-surface.jpeg]]
@@ -181,31 +165,24 @@ WITPRO	- Witness Protection
 * [Meta OSINT: A list of over 4,000 resources and their associated citation counts](https://metaosint.github.io/table/)
 
 ![[Search-Engines-and-Tools-Cheatsheet-IntelTechniques.jpg]]
-
 ### Platforms
 * [Effect Group Open Source Research Platform](https://effectgroup.io/)
 * [https://osintframework.com/](https://osintframework.com/)
-
 ### Research Databases
 * [A large catalogue of research databases](https://id.occrp.org/databases/)
-
 ### Data Visualisation
 * [https://metaosint.github.io/](https://metaosint.github.io/)
 * [https://metaosint.github.io/chart/](https://metaosint.github.io/chart/)
 * [https://www.osintcombine.com/data-visualization-tool](https://www.osintcombine.com/data-visualization-tool)
 * [https://osintcombine.tools/](https://osintcombine.tools/) (from CSV files)
 * [https://yoga.osint.ninja/](https://yoga.osint.ninja/)
-
 ### Open Data Collections
 * [https://dataportals.org/search](https://dataportals.org/search)
 * [http://www.davidmckie.com/open-data-portals/](http://www.davidmckie.com/open-data-portals/)
-
 ### Relationships
-* [LittleSis database of who-knows-who in business and government](https://littlesis.org/)
-
+* [LittleSis](https://littlesis.org/): a database of who-knows-who in business and government
 ### Tracking and Profiling
 * [How people profiles are made](https://twitter.com/RobertGReeve/status/1397032784703655938)
-
 ### Startpages
 #### OSINT
 * [https://start.me/p/DPYPMz/the-ultimate-osint-collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
@@ -220,31 +197,23 @@ WITPRO	- Witness Protection
 * [https://start.me/p/8yx1o0/main-tools](https://start.me/p/8yx1o0/main-tools)
 * [https://start.me/p/jj2XEr/osint-global-non-us](https://start.me/p/jj2XEr/osint-global-non-us)
 * [https://start.me/p/0PwOGl/osint-all]
-
 #### ASINT
 * [https://start.me/p/b5Aow7/asint_collection](https://start.me/p/b5Aow7/asint_collection)
-
 #### IMINT
 * [https://start.me/p/ZMXLlA/imint-vi](https://start.me/p/ZMXLlA/imint-vi)
-
 #### FININT
 * [https://start.me/p/onEm1Y/07-finint-cryptocurrency](https://start.me/p/onEm1Y/07-finint-cryptocurrency)
-
 #### GEOINT
 See [[geoint]].
-
 #### By Country
 ##### Australia
 * [http://start.me/p/L10kJ6/australian-osint](http://start.me/p/L10kJ6/australian-osint)
-
 ##### Canada
 * [https://start.me/p/dlbyRn/canada](https://start.me/p/dlbyRn/canada)
 * [https://start.me/p/RMwN6v/canada-osint](https://start.me/p/RMwN6v/canada-osint)
 * [https://start.me/p/aLe0vp/osint-resources-in-canada](https://start.me/p/aLe0vp/osint-resources-in-canada)
-
 ##### China
 * [https://start.me/p/7kLY9R/osint-chine](https://start.me/p/7kLY9R/osint-chine)
-
 ### OSINT Collections
 #### OSINT
 * [Cipher387.github.io/osintmap](https://cipher387.github.io/osintmap/):  collections of OSINT data by location
@@ -271,25 +240,20 @@ See [[geoint]].
 * [Inteltechniques.com/tools](https://inteltechniques.com/tools/): OSINT online search tool
 * [Airtable.com: "Grouped by activity, data type, and domain" view](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op) collection of resources
 * [CScorza/OSINT-FORENSICS-MOBILE](https://github.com/CScorza/OSINT-FORENSICS-MOBILE): collections for mobile forensics OSINT
-
 #### By Country
 ##### Australia
 * [Collection of websites and databases helping to find missing persons in Australia](https://osint.fans/australia-osint-data-sources)
 * [OSINT repository](https://dfw1n.github.io/DFW1N-OSINT/)
 * [Australian OSINT public data sources](https://osint.fans/australia-osint-data-sources)
 * [DFW1N-OSINT: Australian OSINT gathering resources](https://dfw1n.github.io/DFW1N-OSINT/)
-
 ### Resources
 #### GEOINT
 See [[geoint]].
-
 #### FININT
 * [Blockpath Crypto Accounting Tools](https://blockpath.com/)
-
 #### TRADINT
 * [https://tradint.io/](https://tradint.io/)
 * [Trade Map: Trade statistics for international business development](https://www.trademap.org/Index.aspx)
-
 ### Browser Extensions
 * [Cthulhusec/sputnik: OSINT utility for searching IPs, domains, file hashes, and URLs](https://github.com/cthulhusec/sputnik)
 * [Firefox webextension for Facebook and Instagram OSINT](https://twitter.com/Geluchat/status/1405081455483568136)
@@ -300,7 +264,6 @@ See [[geoint]].
 * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [CopyFish: OCR, PDF, image and video tools](https://ocr.space/copyfish)
 * [OSINT Combine: Collection of OSINT bookmarks (with download)](https://www.osintcombine.com/osint-bookmarks)
-
 #### Collections
 * [OSINT ME: List of 30 best OSINT Extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
 * [NullByteWht: Top 10 Browser Extensions for Hackers & OSINT Researchers](https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158)

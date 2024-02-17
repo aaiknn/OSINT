@@ -10,7 +10,6 @@
 ## Operation Security
 ### Signal
 * [Freedom.press: Locking Down Signal](https://freedom.press/training/locking-down-signal/)
-
 ## Cross-Media OSINT
 * [Xadhrit/terra](https://github.com/xadhrit/terra): OSINT for INSTAGRAM and TWITTER
 * [Intelligence X social media tools](https://intelx.io/tools) for FACEBOOK, LINKEDIN, TELEGRAM, TWITTER, AND YOUTUBE
@@ -21,7 +20,6 @@
 * [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned)
 * [Travisbrown/memory.lol](https://github.com/travisbrown/memory.lol): a web service that provides historical information about social media accounts. Look up 542 million historical screen names for 443 million TWITTER accounts.
 * [OSINT Combine: Alt-Tech Social Search](https://www.osintcombine.com/alt-tech-social-search), a custom Google search-engine for non-mainstream social media platforms and several paste sites
-
 ### Handbooks
 * Maltego Handbook for Social Media Investigations, stored here: [[maltego-handbook-for-social-media-investigations.pdf]].
 
@@ -40,7 +38,6 @@ Also see [[identification]].
 
 ### Comments
 * [Export FACEBOOK, INSTAGRAM, TIKTOK, TWITTER, VIMEO, and YOUTUBE comments](https://exportcomments.com/)
-
 ### Browser Extensions
 * [Firefox webextension for FACEBOOK and INSTAGRAM OSINT](https://twitter.com/Geluchat/status/1405081455483568136)
 
@@ -48,7 +45,6 @@ Also see [[identification]].
 ![Hashtags Doctor Who animated gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FFLUkjdQ1u6COY%2Fgiphy.gif&f=1&nofb=1)
 * [Trending Hashtags on FACEBOOK, INSTAGRAM, TWITTER, and PINTEREST in real time](https://www.hashatit.com/)
 * [https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/)
-
 ### Articles
 * [https://www.cqcore.uk/email-to-username/](https://www.cqcore.uk/email-to-username/)
 
@@ -75,22 +71,17 @@ Also see [[identification]].
 ### Facebook
 * [FacebookToolkit: Get Facebook data](https://github.com/warifp/FacebookToolkit)
 * [OSINT.rest: Paid Facebook analysis tool](https://osint.rest/)
-
 #### Articles
 * [Revealed: Facebook's Secret Blacklist of "Dangerous Individuals and Organizations"](https://theintercept.com/2021/10/12/facebook-secret-blacklist-dangerous/)
 * [Osintcurio.us: Saving Facebook](https://osintcurio.us/2022/06/14/saving-facebook): tips and tricks on how to document Facebook-related evidence
-
 #### Research
 * [The Intercept: Facebook Praise, Support, and Representation Moderation Guidelines (reproduced snapshot)](https://theintercept.com/document/2021/10/12/facebook-praise-support-and-representation-moderation-guidelines-reproduced-snapshot/), stored here: [[psr.pdf]].
 * [The Intercept: Facebook Dangerous Individuals and Organizations List (reproduced snapshot)](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/), stored here: [[facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf]].
-
 #### Search
 * [Formulas for searching Facebook](https://plessas.net/facebookmatrix)
 * [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
-
 #### Scraper
 * [Facebook profile data scraping](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
-
 #### Videos
 * [OSINT Curious: How to find Facebook data when a profile is private](https://www.youtube.com/watch?v=NqzvuUXkv6c)
 
@@ -115,22 +106,17 @@ Also see [[identification]].
 
 #### Videos
 * [Richie Rich: Instagram Video Selfie Verification Bypass Method](https://www.youtube.com/watch?v=eis1F10H0KI)
-
 ### LinkedIn
 * [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
 * [Revealin: Uncover full name of people on LinkedIn](https://github.com/mxrch/revealin)
 * [Step-by-step Guide to Deanonymise Emails on LinkedIn](https://www.gosecure.net/blog/2021/05/27/step-by-step-how-to-deanonymize-emails-on-linkedin/)
-
 #### Articles
 * [Hidden LinkedIn Search Operators](https://booleanstrings.com/linkedin-search-operators/)
 * [https://www.cqcore.uk/are-you-linked-in/](https://www.cqcore.uk/are-you-linked-in/)
-
 ### Mastodon
 ![[Mastodon-OSINT-Attack-Surface.jpg]]
-
 ### Parler
 * [Parler.adatascienti.st](https://parler.adatascienti.st/): a searchable copy of the Parler breach
-
 ### Reddit
 ~~* [https://www.redditinvestigator.com/](https://www.redditinvestigator.com/)~~
 ~~* [Reddit-search: Find deleted posts and comments on Reddit](https://camas.github.io/reddit-search/)~~
@@ -138,44 +124,34 @@ Also see [[identification]].
 * [Camas.unddit.com](https://camas.unddit.com/): Search reddit using the pushshift.io API.
 * [Bmai.dev](https://bmai.dev/reddit/): Reddit search for posts and comments
 * [Betterredditsearch.web.app](https://betterredditsearch.web.app): Reddit search tool
-
 #### Data Visualisation
 * [Anvaka.github.io/map-of-reddit](https://anvaka.github.io/map-of-reddit/)
-
 ### Snapchat
 ![[Snapchat_OSINT_Attack_Surface.jpg]]
 
 * [Searchable Database of Snapchat Profiles](https://www.ghostcodes.com/)
 * [Rhematt/Snap-Scraper: Download media uploaded to Snapchat' Snap Map](https://rhematt.github.io/Snap-Scraper/)
-
 ### Steam
 * [https://www.steamidfinder.com/](https://www.steamidfinder.com/)
 * [Steamid.uk: Historic steam profile information](https://steamid.uk/)
 * [Steamrep: Steam account search tool](https://steamrep.com/)
-
 ### Strava
 * [Osintcurio.us: You Can Run, But You Can't Hide](https://osintcurio.us/2022/01/24/you-can-run-but-you-cant-hide/)
 * [Aware-online.com](https://www.aware-online.com/finding-witnesses-via-strava/): Finding witnesses via Strava
-
 ### TikTok
 * [https://www.skopenow.com/news/tiktok-investigations-and-osint-tips](https://www.skopenow.com/news/tiktok-investigations-and-osint-tips)
 * [Pablouser1/ProxiTok/wiki/Public-instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances): a ist with all the known public instances of ProxiTok
 * [Dfreelon/pyktok](https://github.com/dfreelon/pyktok): a module to collect video, text, and metadata from Tiktok
-
 #### Search
 * [Search4faces.com/tt00](https://search4faces.com/tt00/index.html): Search from 55 million TikTok avatars
 * [https://www.osintcombine.com/tiktok-quick-search](https://www.osintcombine.com/tiktok-quick-search)
-
 #### Scraper
-* [https://github.com/drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-
+* [https://github.com/drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper
 ### Tumblr
 * [Tumblr original post search by Tumblr user](https://jetblackcode.com/TumblrOriginalPostFinder)
-
 ### Twitch
 * [Twitch earnings lookup](https://twitch.fckdmca.com/)
 * [Twitch-tools: Search streams, filter results by title, game, language, viewer count](https://twitch-tools.rootonline.de/channel_previews.php)
-
 ### Twitter
 * [All My Tweets: View all your tweets, likes, followers, or timeline on one page](https://www.allmytweets.net/connect/)
 * [Foller.me: Twitter analytics](https://foller.me/)
@@ -189,22 +165,17 @@ Also see [[identification]].
 * [twitter_geolocate: Find tweets near an address](https://github.com/davidkowalk/twitter_geolocate)
 * [Sleeping Time: Find a Twitter user's potential sleeping schedule](http://sleepingtime.org/), requires logging in
 * [Observatory on Social Media: Network Tool](https://osome.iu.edu/tools/networks): interactive visualisation to explore how information spreads across Twitter
-
 #### Search
 * [https://github.com/igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
-
 #### Data Visualisation
 * [Hoaxy: Visualise the spread of information on Twitter](https://hoaxy.osome.iu.edu/)
 * [https://www.omnisci.com/demos/tweetmap](https://www.omnisci.com/demos/tweetmap)
 * [Onemilliontweetmap: Visualise the last 24 hours of geolocalised tweets](https://onemilliontweetmap.com/)
 * [TwitWork: Monitor Twitter stream](https://github.com/atmoner/TwitWork)
-
 ### VK
 * [Spevktator.io](https://spevktator.io/): OSINT analysis tool for VK
-
 ### Yandex
 * [YaSeeker: Get information on any Yandex account using email or login](https://github.com/HowToFind-bot/YaSeeker)
-
 ### YouTube
 `https://www.youtube.com/feeds/videos.xml?channel_id=Channel_ID` -> Search a YouTuber's video descriptions
 
@@ -215,24 +186,19 @@ Also see [[identification]].
 
 #### Search
 * [YouTube comment search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en)
-
 ## Chats
 ### Clubhouse
 #### Databases
 * [https://clubhousedb.com/](https://clubhousedb.com/)
-
 ### Discord
 #### Articles
 * [https://osintcurio.us/2021/05/06/investigating-discord-a-primer/](https://osintcurio.us/2021/05/06/investigating-discord-a-primer/)
-
 #### Collections
 * [Dutchosintguy/OSINT-Discord-resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
 * [Atoncehussein/DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
-
 #### Tools
 * [Serverse: Search for Discord servers by keyword](https://extraction.team/serverse.html)
 * [V3ntus/darvester: PoC OSINT Discord user and guild information harvester](https://github.com/V3ntus/darvester)
-
 ## Messengers
 * [Securemessagingapps.com: Messager feature comparison table](https://www.securemessagingapps.com/)
 
@@ -243,18 +209,15 @@ Also see [[identification]].
 
 ### Kik
 * [https://github.com/netkas-zz/KikToolset](https://github.com/netkas-zz/KikToolset)
-
 ### Skype
 * [Henkvaness Twitter thread](https://twitter.com/henkvaness/status/1399291128244015104) describing a technique for getting the best possible picture of any Skype account
 * [https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html)
 * [Epieos: Skype Lookup of Skype users](https://tools.epieos.com/skype.php)
-
 ### Telegram
 * [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 * [Tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map): discover the location of nearby Telegram users
 * [Jordanwildon/Telepathy](https://github.com/jordanwildon/Telepathy): an OSINT toolkit for investigating Telegram chats
 * [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint): an OSINT geolocalization tool for Telegram to find nearby users and groups
-
 #### Articles
 * [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
 * [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
@@ -263,19 +226,15 @@ Also see [[identification]].
 * [Cqcore: Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
 * [Medium: Telegram OSINT: Generating a Data "Backbone" for Investigation](https://tompatrickjarvis.medium.com/telegram-osint-generating-a-data-backbone-for-investigation-23111b9493ac)
 * [Hatless1der: Telegram OSINT Basics: 5 Tips Anyone Can Do Right Now](https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/)
-
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
 * [Search public messages, channel info, and author info](https://search.buzz.im/)
 * [Telescan](https://github.com/pielco11/telescan)
 * [TgScanRobot: A bot that shows which Telegram groups a person is a member of](https://t.me/TgScanRobot/)
-
 ### WhatsApp
 * [Download anyone's WhatsApp profile picture](https://whatsapptools.net/download-profile-picture)
-
 #### Scraper
 * [WhatsApp group link scraper and checker](https://github.com/TheSpeedX/WhatScraper)
-
 ## Other
 
 1. [[#4Chan]]
@@ -307,13 +266,10 @@ Also see [[identification]].
 
 ### Dating Apps and Hookup Sites
 * [https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
-
 ### Google
 * [Epieos: Online tool to retrieve sensitive Google account information](https://twitter.com/epieos/status/1296379987780603905)
-
 ### GitHub and GitLab
 * [Gitrecon: Get information from user profiles and find users' email addresses](https://github.com/GONZOsint/gitrecon)
-
 #### GitHub
 ![[GitHub-OSINT-Attack-Surface-v2.jpg]]
 ![[GitHub-Dorks.png]]
@@ -328,12 +284,9 @@ Also see [[identification]].
 
 ### Gravatar
 * [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808)
-
 ### Minecraft
 * [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)
-
 ### Spotify
 * [https://laptrinhx.com/osint-investigations-on-spotify-4007838654/](https://laptrinhx.com/osint-investigations-on-spotify-4007838654/)
-
 ### Wikipedia
 * [WikiStalker: Analyse Wikipedia user activity](https://github.com/altilunium/wistalk)
