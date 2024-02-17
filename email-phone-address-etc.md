@@ -7,18 +7,14 @@
 ### By Country
 #### Belgium
 * [Database of addresses, landlines, and names](https://www.wittegids.be/)
-
 #### USA
 * [Datatree: Paid tool on property records and other information](https://web.datatree.com/)
-
 ## Whois
 * [whois.com](https://whois.com)
 * [DomainBigData reverse whois](http://domainbigdata.com/)
 * [http://securitytrails.com/](http://securitytrails.com/)
-
 ## Addresses
 * [Address and property directory for the USA](https://homemetry.com/)
-
 ## Email Addresses
 * [Simple email searches](https://emailrep.io/)
 * [Zen: Find GitHub user email addresses](https://github.com/s0md3v/Zen)
@@ -30,7 +26,8 @@
 ![[OSINT-Email-Address-Investigation.png]]
 
 ![[full-email-flowchart-hatless1der.png]]
-
+### Articles
+* Authentic8: [Leveraging OSINT techniques for email investigations](https://www.authentic8.com/blog/osint-techniques-email-investigations), February 2024.
 ### Gmail
 `curl -v 'https://mail.google.com/mail/gxlu?email=email@gmail.com` -- if the address exists, then there should be a cookie in the response
 

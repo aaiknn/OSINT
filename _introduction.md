@@ -51,15 +51,17 @@ WITPRO	- Witness Protection
 * Global Investigative Journalism Network: [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/).
 * Haax.fr: [OSINT methodology](https://cheatsheet.haax.fr/open-source-intelligence-osint/tools-and-methodology/methodology/)
 ## Articles
-* Ax1al: [OSINT: The What, The Why, and The How](https://ax1al.com/blogs/osint.html)
-* OH SHINT: [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), [[ohshint-OSINT-WTF-Article.pdf]]
-* OSINTCurious: [Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/)
-* Sector035.nl: [Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media)
-* Dutchosintguy: [Why OSINT doesn't need your feelings](https://dutchosintguy.com/why-osint-doesnt-need-your-feelings/)
-* Hatless1der: [Advanced OSINT: The Art of Pivoting](https://hatless1der.com/advanced-osint-the-art-of-pivoting/)
+* Ax1al: [OSINT: The What, The Why, and The How](http://web.archive.org/web/20210508193301/https://ax1al.com/blogs/osint.html)
+* OH SHINT: [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), stored locally [[ohshint-OSINT-WTF-Article.pdf|here]].
+* OSINTCurious: [Staying Up to Date with OSINT Content](https://osintcurio.us/2021/11/29/staying-up-to-date-with-osint-content/), November 2021
+* Sector035.nl: [Chronolocation of Media](https://sector035.nl/articles/chronolocation-of-media), November 2021
+* Dutchosintguy: [Why OSINT doesn't need your feelings](https://www.dutchosintguy.com/post/why-osint-doesn-t-need-your-feelings), February 2022
+* Hatless1der: [Advanced OSINT: The Art of Pivoting](https://hatless1der.com/advanced-osint-the-art-of-pivoting/), April 2022
+* Intelligence Fusion: [ChatGPT for OSINT? Integrating AI Chatbots in the Open Source Intelligence Cycle](https://www.intelligencefusion.co.uk/insights/resources/article/chatgpt-for-osint-integrating-ai-chatbots-in-the-open-source-intelligence-cycle/), June 2023
+* OSINT TEAM: [AI, ChatGPT & Choosing a Path to Follow](https://osintteam.blog/osint-lesson-3-ai-chatgpt-choosing-a-pathway-to-follow-6f582eb420a0), October 2023
 ### Collections of Articles
 * Blockint.nl: [The OSINT Library](https://www.blockint.nl/the-osint-library/): maintained collection of academic and professional books, articles, and papers
-* [All Sector035 Week in OSINT articles](https://sector035.nl/articles/category:week-in-osint)
+* Sector035: [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
 * OSINT.org: [Workflow](https://osint.org/category/workflow/)
 * ResearchBuzz: [Search Gizmos](https://searchgizmos.com/) 
 ### Research Papers
@@ -68,8 +70,9 @@ WITPRO	- Witness Protection
 * Nixintel: [Chronolocation](https://nixintel.info/osint/chronolocation-clues-quiztime-11th-may-2020/)
 * Tech Journalism: [How new satellite data sources enhance investigative journalism](https://techjournalism.medium.com/how-new-satellite-data-sources-enhance-investigative-journalism-f6f9ea71f4af)
 * Mrrickdiesel: [PERSINT. A Social Engineering Spin on Your Everyday OSINT](https://mrrickdiesel10-6.medium.com/persint-a-social-engineering-spin-on-your-everyday-osint-4bfa1b9a56c1)
-## Magazines
+## Magazines and such
 * Unredacted: [Privacy, security, & OSINT magazine](https://unredactedmagazine.com/download.html)
+* [The OSINT Newsletter](https://osintnewsletter.com/)
 ## Videos
 * x33fcon 2019: [Robert Sell: Techniques and Tools for Becoming an Intelligence Operator](https://www.youtube.com/watch?v=dU6KG221MaM)
 * Ser3n1ty: [Sizing Your OPSEC Threats. A Beginner's Guide for the Mildly Paranoid](https://www.youtube.com/watch?v=LnmHDFbl68w)
@@ -96,16 +99,16 @@ WITPRO	- Witness Protection
 * Trace Labs: [OSINT Crowdsource to Find Missing People](https://www.tracelabs.org/)
 * Bellingcat: [Help Bellingcat Build Tools for Open Source Investigators](https://www.bellingcat.com/resources/2021/07/06/help-bellingcat-build-tools-for-open-source-investigators/), July 2021
 ## etc
-* [IntelliTechniques Data Removal Workbook](https://inteltechniques.com/workbook.html)
-* [JustGetMyData directory of direct links for obtaining your personal data from web services](https://justgetmydata.com/)
-* [JustDeleteMe directory of direct links to delete your account from web services](https://justdeleteme.xyz/)
-* [ADL H.E.A.T. Map for the US](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)
-* [Parse online .DS_Store files](https://labs.internetwache.org/ds_store/)
-* [Am I FLoCed: Google FLoCing checker](https://amifloced.org/)
+* IntelTechniques: [Data Removal Workbook](https://inteltechniques.com/workbook.html)
+* [JustGetMyData](https://justgetmydata.com/): directory of direct links for obtaining your personal data from web services
+* [JustDeleteMe](https://justdeleteme.xyz/): directory of direct links to delete your account from web services
+* ADL: [H.E.A.T. Map for the US](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)
+* Internetwache: [Parse online .DS_Store files](https://labs.internetwache.org/ds_store/)
+* [Am I FLoCed](https://amifloced.org/): Google FLoCing checker
 ### Articles
-* [Infosecurity Magazine: Keeping up with the Uncertainty of Shifting Global Data Protection Regulations](https://www.infosecurity-magazine.com/opinions/uncertainty-global-data-protection/)
+* Infosecurity Magazine: [Keeping up with the Uncertainty of Shifting Global Data Protection Regulations](https://www.infosecurity-magazine.com/opinions/uncertainty-global-data-protection/), December 2020
 ### Uh...
-* [mcbroken: World map of Mc Donald's shops that currently have broken ice cream machines](https://mcbroken.com/)
+* [Mcbroken](https://mcbroken.com/): World map of Mc Donald's shops that currently have broken ice cream machines
 ## OSINT Attack Surface
 ![[ip-attack-surface.png]]
 ![[person-attack-surface.jpeg]]
@@ -114,10 +117,8 @@ WITPRO	- Witness Protection
 
 ## OSINT People
 * sinwindie, certified cyber crime investigator, [GitHub](https://github.com/sinwindie/OSINT), [Twitter](https://twitter.com/sinwindie)
-
 ### Groups
 * The OSINT Curious Project, [YouTube](https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA)
-
 ## (Missing) Persons
 ### Tools
 * [Go FindWho](https://gofindwho.com/) search engine
@@ -125,7 +126,6 @@ WITPRO	- Witness Protection
 * [CheckUsernames: Meta search across social network platforms](https://checkusernames.com/) for brands and usernames
 * [F3dai/OSINT-Resources](https://github.com/F3dai/OSINT-Resources): resources for OSINT, particularly related to people
 * [Wizardsourcer.com/tools](https://wizardsourcer.com/tools/): a comprehensive list of talent sourcing tools
-
 ### Articles
 * [Global Investigative Journalism Network: Finding People Online: A Tipsheet from Paul Myers](https://gijn.org/2019/06/05/finding-people-online-a-tipsheet-from-paul-myers/)
 * [Whitehatinspector: Using OSINT to find missing persons](https://whitehatinspector.blogspot.com/2021/02/using-osint-to-find-missing-persons.html)

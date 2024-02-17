@@ -7,7 +7,6 @@
 * [SimeonOnSecurity: Collection on privacy related resources](https://simeononsecurity.ch/recommendations/privacy/)
 * [Awesome Incident Response: A curated list of tools for IR](https://github.com/meirwah/awesome-incident-response)
 * [Lissy93: A curated personal security checklist](https://github.com/Lissy93/personal-security-checklist)
-
 ## Site Breaches
 * [https://haveibeenpwned.com/PwnedWebsites](https://haveibeenpwned.com/PwnedWebsites)
 * [https://joe.black/leakengine.html](https://joe.black/leakengine.html)
@@ -15,12 +14,11 @@
 * [https://nuclearleaks.com/](https://nuclearleaks.com/)
 * [https://vigilante.pw/](https://vigilante.pw/)
 * [https://en.wikipedia.org/wiki/List_of_data_breaches](https://en.wikipedia.org/wiki/List_of_data_breaches)
-
 ### Articles
 * [PRIVACY Affairs: Acer Hacked -- Private Data of Millions of Clients Sold on Hacker Forum](https://www.privacyaffairs.com/acer-data-breach/)
 
 ## Data Breaches
-* ~~`site:pastebin.com intext:domain name`~~
+* `site:pastebin.com intext:domain name`
 * [https://amibreached.com/](https://amibreached.com/)
 * [https://ashley.cynic.al/](https://ashley.cynic.al/)
 * [https://breachchecker.com/](https://breachchecker.com/)
@@ -50,17 +48,21 @@
 * [https://skidsearch.net/](https://skidsearch.net/)
 * [https://snusbase.com/](https://snusbase.com/)
 * [https://weleakinfo.to/](https://weleakinfo.to/)
-
 ### Onion Sites
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
-
 ### Visualisation
 * [LeakIX: Graph tool: edu example](https://leakix.net/graph/c7f087d1-aad0-49d4-b93d-c7d019b295a8)
-
 ## Onion Breaches
 * [https://pwndb2am4tzkvold.onion.ws/](https://pwndb2am4tzkvold.onion.ws/)
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
-
+## Paste Sites
+*Remember these can be dorked.*
+* [Codepen](https://codepen.io/)
+* [Doxbin](https://doxbin.com/)
+* [JSFiddle](https://jsfiddle.net/)
+* [Justpaste.it](https://justpaste.it/)
+* [Mozilla Community Pastebin](https://paste.mozilla.org/)
+* [Pastebin.com](https://pastebin.com/)
 ## Paste Searches
 * ~~[https://netbootcamp.org/pastesearch.html](https://netbootcamp.org/pastesearch.html)~~
 * ~~[https://pastebeen.com/](https://pastebeen.com/)~~
@@ -69,6 +71,5 @@
 * [Psbdmp.ws](https://psbdmp.ws/)
 * [Doxbin.org](https://doxbin.org)
 * [Leaked.wiki](https://leaked.wiki/home)
-
 ## Breach Data Scraping
 * [Hookshot: Automated email scraping from HaveIBeenPwned API](https://github.com/andrew-vii/hookshot/)

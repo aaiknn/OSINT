@@ -6,7 +6,6 @@
 ## Emotion and Sentiment Analysis
 * [IBM Watson Deep Learning tone analyser](https://tone-analyzer-demo.ng.bluemix.net/)
 * [https://deepai.org/machine-learning-model/sentiment-analysis](https://deepai.org/machine-learning-model/sentiment-analysis)
-
 ## Misc: Needs Checking
 * [Social Links: software for OSINT investigestion](https://sociallinks.io/)
 * [osint.sh: Find public AWS buckets](https://osint.sh/buckets/)

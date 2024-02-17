@@ -183,7 +183,7 @@ Also see [[identification]].
 * [Extract comments or subtitles from YouTube videos](https://github.com/nlitsme/youtube_tool)
 * [Location search / find GEO tags](https://mattw.io/youtube-geofind/location)
 * [YouTube geo-search tool](https://youtube.github.io/geo-search-tool/search.html)
-
+* [Explore AI](https://exploreai.vercel.app) AI-based, searches across YouTube videos
 #### Search
 * [YouTube comment search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en)
 ## Chats
@@ -281,6 +281,7 @@ Also see [[identification]].
 * [dxy4481/truffleHug: Find high-entropy strings in Git repositories](https://github.com/dxa4481/truffleHog)
 * [H51un6/email2github: Identify GitHub accounts associated with email address](https://github.com/h51un6/email2github)
 * [Rly0nheart/octosuite: Advanced GitHub OSINT framework](https://github.com/rly0nheart/octosuite)
+* OSS Insight: [GitHub Data Explorer](https://ossinsight.io/explore/), AI-based, searches GitHub event data
 
 ### Gravatar
 * [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808)
