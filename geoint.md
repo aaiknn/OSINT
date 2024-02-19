@@ -2,11 +2,9 @@
 ## Collections
 * [Cartographia/geospacial-intelligence-library: a curated list of open source intelligence tools and resources focused on geolocation and chronolocation](https://github.com/cartographia/geospatial-intelligence-library)
 * [Sacridini/Awesome-Geospatial: Geospatial tools and resources](https://github.com/sacridini/Awesome-Geospatial)
-
 ### Startpages
 * [https://start.me/p/W1kDAj/geoint](https://start.me/p/W1kDAj/geoint)
 * [https://start.me/p/8ykwnj/mappy](https://start.me/p/8ykwnj/mappy)
-
 ## Tools
 * [Geocreepy.com](https://www.geocreepy.com/): a geolocation OSINT tool offering geolocation information gathering through social networking platforms
 * [EOS Landviewer](https://eos.com/landviewer/)
@@ -37,23 +35,17 @@
 
 ### Wikimapia
 A geopraphic online encyclopedia that provides an interactive web map based on Google Maps and aims at marking and describing all the geographical objects in the world. [http://wikimapia.org/](http://wikimapia.org/)
-
 ### NASA Open Data
 A huge collection of various scientific data.
-[https://data.nasa.gov/data_visualizations.html](https://data.nasa.gov/data_visualizations.html)
-
+[https://data.nasa.gov/data_visualizations.html](https://data.nasa.gov/data_visualizations.html
 ### Infrastructure
 See [[infrastructure]] and [[traffic-transportation]].
-
 ### By Country
 #### India
 * [Bhuvan Indian Geo-Platform: IMS-1, Cartosat, OceanSat, and ResourceSat](https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/bhuvan2d.php)
-
 #### Ukraine
 * [Nagix.github.io: A large collection of live real-time webcams in Ukraine plotted on a 3D map](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45)
-
 #### US: Coastline
 * [Digital Coast: US coastline high-res imagery in radar, infrared, and true colour](https://coast.noaa.gov/dataviewer/#/landcover/search/)
-
 ### SATINT
 * [Sentinel-1 SAR time series analysis for OSINT](https://share.streamlit.io/mjcruickshank/sarveillance/streamlit-webapp/webapp.py)

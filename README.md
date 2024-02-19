@@ -36,7 +36,7 @@ The project is maintained using [Obisidian](https://obsidian.md/), a clever and 
 ## Related Projects
 There are other projects that are quite similar to this one. If you like this one, then you might also like these:
 ### OH SHINT!
-*Who, as of this moment, seems to have been gone AWOL.*
+*Who, as of this moment, seems to have gone AWOL.*
 
 > Figured it was time to actually document some of my work. This blog is mostly going to be articles, write-ups and other ramblings about a few different intelligence and counter-intelligence subjects.
 

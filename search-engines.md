@@ -1,11 +1,13 @@
 # Search Engines
 ![[search-engine-strengths.png]]
 ## General Misc
-* [Searchenginelinks](https://www.searchenginelinks.co.uk/): Directory of search engines from around the world
+* [Searchenginelinks](https://www.searchenginelinks.co.uk/): a directory of search engines from around the world
+* Edoardottt: [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): a curated list of search engines
 * [Million Short](https://millionshort.com/): remove the first N of the most popular search results
-* [Yamli.com](https://www.yamli.com/): Arabic search engine
-* [DorkGenius](https://dorkgenius.com/): AI-based, generates custom search queries for Google, Bing and DuckDuckgo.
-* [Explore AI](https://exploreai.vercel.app) AI-based, searches for answers across YouTube videos.
+* [Yamli.com](https://www.yamli.com/): an Arabic search engine
+* Cipher387: [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
+* [DorkGenius](https://dorkgenius.com/): an AI-based, generates custom search queries for Google, Bing and DuckDuckgo.
+* [Explore AI](https://exploreai.vercel.app): an AI-based, searches for answers across YouTube videos.
 
 ![[Search-Operators-Cheatsheet-IntelTechniques.jpg]]
 ## Super Search
@@ -24,7 +26,8 @@
 * Intelligence X: [List of Google Dorks](https://intelx.io/dorks)
 * [Google dataset search](https://datasetsearch.research.google.com/)
 * [DorkSearch.com](https://dorksearch.com/): _Faster Google Dorking_
-* [DorkGPT](https://dorkgpt.com/), a tool for creating Google Dorks queries
+* [DorkGPT](https://dorkgpt.com/): a GPT-based tool for creating Google Dorks queries
+* Mxrch: [GHunt](https://github.com/mxrch/GHunt): an *offensive Google framework*
 ### Articles
 * Ahrefs.com: [Google Advanced Search Operators/](https://ahrefs.com/blog/google-advanced-search-operators/)
 * Coforge: [37 Advanced Google Search Tips for Smarter Searching](https://web.archive.org/web/20210430171224/https://www.coforge.com/blog/advanced-google-search-tips)

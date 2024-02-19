@@ -80,10 +80,12 @@ WITPRO	- Witness Protection
 * System Exploited: [What is SpiderFoot OSINT Tool, and How to Set It Up?](https://youtu.be/J2S0sMTRKJY)
 ## Encyclopedias and Dictionaries
 * [BushidoUK CTI-related lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
-## Frameworks
+## Frameworks and Platforms
 * [OSINT Framework](https://osintframework.com/)
 * [Map.malfrats.industries](https://map.malfrats.industries/): an interactive tree of OSINT tools and resources similar to the OSINT Framework
 * [Lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng): OSINT gathering tool
+* [Maltego](https://www.maltego.com/) cyber investigation platform
+* Lucksi: [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes): a *complete OSINT tool*
 * [~~IRIS-Team/IRIS~~](https://github.com/IRIS-Team/IRIS)
 ## Techniques
 * Toddington: [Cheat sheets](https://www.toddington.com/resources/cheat-sheets/): acollection of flowcharts for various techniques and processes
@@ -156,13 +158,15 @@ WITPRO	- Witness Protection
 11. [[#Browser Extensions]]
 
 ### General
-* [SynapsInt, the unified OSINT research tool](https://synapsint.com/)
+* [SynapsInt](https://synapsint.com/): an OSINT research tool
 * [AIO Information Gathering Tool](https://osint.sh/)
-* [Effect Group: All in one intel data](https://www.effect.group/)
-* [Osintcombine: all available tools](https://www.osintcombine.com/tools)
-* [Colorize.toolpie.com: Colorises black and white photos](https://colorize.toolpie.com/)
-* [Smicallef/spiderfoot: OSINT automation for Treat Intelligence and Attack Surface Mapping](https://github.com/smicallef/spiderfoot)
-* [Meta OSINT: A list of over 4,000 resources and their associated citation counts](https://metaosint.github.io/table/)
+* Cipher387: [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT): a list of APIs for gathering information
+* Effect Group: [All in one intel data](https://www.effect.group/)
+* Osintcombine: [all available tools](https://www.osintcombine.com/tools)
+* [Colorize.toolpie.com](https://colorize.toolpie.com/): Colorises black and white photos
+* Smicallef: [spiderfoot](https://github.com/smicallef/spiderfoot): OSINT automation for Threat Intelligence and attack surface mapping
+* [Meta OSINT](https://metaosint.github.io/table/): A list of over 4,000 resources and their associated citation counts
+* [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence): a collaboratively curated list of OSINT resources
 
 ![[Search-Engines-and-Tools-Cheatsheet-IntelTechniques.jpg]]
 ### Platforms
@@ -217,10 +221,10 @@ See [[geoint]].
 ### OSINT Collections
 #### OSINT
 * [Cipher387.github.io/osintmap](https://cipher387.github.io/osintmap/):  collections of OSINT data by location
+* [Cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): a grown-up collection of OSINT online tools
 * [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection): maintained collection of OSINT related resources
 * [Awesomeopensource.com/projects/osint](https://awesomeopensource.com/projects/osint): collection of the top 219 OSINT open source projects
-* [Cipher387.github.io/...](https://cipher387.github.io/osint_stuff_tool_collection/): list of OSINT tools
-* [https://thecyberpost.com/open-source-intelligence-osint-tools/](https://thecyberpost.com/open-source-intelligence-osint-tools/)
+* Thecyberpost: [Open Source Intelligence OSINT Tools/](https://thecyberpost.com/open-source-intelligence-osint-tools/)
 * [Blockint.nl/the-osint-library](https://www.blockint.nl/the-osint-library/): collections of OSINT research books, articles, papers, etc
 * [OSINT Curious' Google Docs](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/) list of OSINT resources
 * [https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc)

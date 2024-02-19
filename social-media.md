@@ -107,9 +107,10 @@ Also see [[identification]].
 #### Videos
 * [Richie Rich: Instagram Video Selfie Verification Bypass Method](https://www.youtube.com/watch?v=eis1F10H0KI)
 ### LinkedIn
-* [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
-* [Revealin: Uncover full name of people on LinkedIn](https://github.com/mxrch/revealin)
-* [Step-by-step Guide to Deanonymise Emails on LinkedIn](https://www.gosecure.net/blog/2021/05/27/step-by-step-how-to-deanonymize-emails-on-linkedin/)
+* Haax.fr: [LinkedIn cheatsheet](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/linkedin/)
+* Mxrch: [Revealin](https://github.com/mxrch/revealin): uncover full name of people on LinkedIn
+* Gosecure.net: [Step-by-step Guide to Deanonymise Emails on LinkedIn](https://www.gosecure.net/blog/2021/05/27/step-by-step-how-to-deanonymize-emails-on-linkedin/)
+* M8sec: [CrossLinked](https://github.com/m8sec/CrossLinked): LinkedIn enumeration tool to extract valid employee names from an organisation
 #### Articles
 * [Hidden LinkedIn Search Operators](https://booleanstrings.com/linkedin-search-operators/)
 * [https://www.cqcore.uk/are-you-linked-in/](https://www.cqcore.uk/are-you-linked-in/)
@@ -153,20 +154,20 @@ Also see [[identification]].
 * [Twitch earnings lookup](https://twitch.fckdmca.com/)
 * [Twitch-tools: Search streams, filter results by title, game, language, viewer count](https://twitch-tools.rootonline.de/channel_previews.php)
 ### Twitter
-* [All My Tweets: View all your tweets, likes, followers, or timeline on one page](https://www.allmytweets.net/connect/)
-* [Foller.me: Twitter analytics](https://foller.me/)
-* [Followerwonk: Search Twitter bios, compare Twitter accounts, get activity analytics](https://followerwonk.com/)
-* [Social Bearing: Insights and analytics for tweets and timelines](https://socialbearing.com/)
-* [SpoonBill tool for finding Twitter account change history](https://spoonbill.io/twitter/data/USERNAME/)
+* [All My Tweets](https://www.allmytweets.net/connect/): View all your tweets, likes, followers, or timeline on one page
+* [Foller.me](https://foller.me/): Twitter analytics
+* [Followerwonk](https://followerwonk.com/): Search Twitter bios, compare Twitter accounts, get activity analytics
+* [Social Bearing](https://socialbearing.com/): Insights and analytics for tweets and timelines
+* [SpoonBill](https://spoonbill.io/twitter/data/USERNAME/): a tool for finding Twitter account change history
 * [Twitter account analysis](https://accountanalysis.app/)
-* [TweetBeaver: Twitter analytics, search / download timelines, account data, etc](https://tweetbeaver.com/)
-* [Twitter ID and username converter](https://tweeterid.com/)
-* [Trendsmap: Trending Hashtags and Topics on Twitter](https://www.trendsmap.com/map)
-* [twitter_geolocate: Find tweets near an address](https://github.com/davidkowalk/twitter_geolocate)
-* [Sleeping Time: Find a Twitter user's potential sleeping schedule](http://sleepingtime.org/), requires logging in
+* [TweetBeaver](https://tweetbeaver.com/): Twitter analytics, search / download timelines, account data, etc
+* [Tweeterid](https://tweeterid.com/): Twitter ID and username converter
+* [Trendsmap](https://www.trendsmap.com/map): Trending Hashtags and Topics on Twitter
+* Davidkowalk: [twitter_geolocate](https://github.com/davidkowalk/twitter_geolocate): Find tweets near an address
+* [Sleeping Time](http://sleepingtime.org/): find a Twitter user's potential sleeping schedule. Requires logging in.
 * [Observatory on Social Media: Network Tool](https://osome.iu.edu/tools/networks): interactive visualisation to explore how information spreads across Twitter
 #### Search
-* [https://github.com/igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
+* Igorbrigadir: [twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
 #### Data Visualisation
 * [Hoaxy: Visualise the spread of information on Twitter](https://hoaxy.osome.iu.edu/)
 * [https://www.omnisci.com/demos/tweetmap](https://www.omnisci.com/demos/tweetmap)
@@ -183,9 +184,9 @@ Also see [[identification]].
 * [Extract comments or subtitles from YouTube videos](https://github.com/nlitsme/youtube_tool)
 * [Location search / find GEO tags](https://mattw.io/youtube-geofind/location)
 * [YouTube geo-search tool](https://youtube.github.io/geo-search-tool/search.html)
-* [Explore AI](https://exploreai.vercel.app) AI-based, searches across YouTube videos
 #### Search
-* [YouTube comment search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en)
+* [Explore AI](https://exploreai.vercel.app) AI-based, searches across YouTube videos
+* [ycs-youtube-comment-searc](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en)
 ## Chats
 ### Clubhouse
 #### Databases
@@ -214,18 +215,18 @@ Also see [[identification]].
 * [https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html)
 * [Epieos: Skype Lookup of Skype users](https://tools.epieos.com/skype.php)
 ### Telegram
-* [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+* [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT): a curated list of Telegram OSINT resources
 * [Tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map): discover the location of nearby Telegram users
 * [Jordanwildon/Telepathy](https://github.com/jordanwildon/Telepathy): an OSINT toolkit for investigating Telegram chats
 * [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint): an OSINT geolocalization tool for Telegram to find nearby users and groups
 #### Articles
-* [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
-* [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
-* [OS2INT: Creating visual intelligence from Telegram user group data](https://os2int.com/toolbox/creating-visual-intelligence-from-telegram-user-group-data/)
-* [How to find the owner and administrator of a Telegram channel](https://te.legra.ph/How-to-find-the-owner-and-administrator-of-a-Telegram-channel-11-02)
-* [Cqcore: Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
-* [Medium: Telegram OSINT: Generating a Data "Backbone" for Investigation](https://tompatrickjarvis.medium.com/telegram-osint-generating-a-data-backbone-for-investigation-23111b9493ac)
-* [Hatless1der: Telegram OSINT Basics: 5 Tips Anyone Can Do Right Now](https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/)
+* jakecreps.com: [Telegram photo extraction](https://web.archive.org/web/20210610091359/https://jakecreps.com/osint-workflow-wednesday-extracting-telegram-photos/)
+* owlspace.xyz: [Modifying Telegram's "People Nearby" Feature to Pinpoint People's Homes](https://owlspace.xyz/cybersec/tg-nearby/)
+* OS2INT: [Creating visual intelligence from Telegram user group data](https://os2int.com/toolbox/creating-visual-intelligence-from-telegram-user-group-data/)
+* Te.legra.ph: [How to find the owner and administrator of a Telegram channel](https://te.legra.ph/How-to-find-the-owner-and-administrator-of-a-Telegram-channel-11-02)
+* Cqcore: [Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
+* Medium: [Telegram OSINT: Generating a Data "Backbone" for Investigation](https://tompatrickjarvis.medium.com/telegram-osint-generating-a-data-backbone-for-investigation-23111b9493ac)
+* Hatless1der: [Telegram OSINT Basics: 5 Tips Anyone Can Do Right Now](https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/)
 #### Tools
 * [Telegram social network scanner](https://github.com/Aiyubi/telegram-social-network-scanner)
 * [Search public messages, channel info, and author info](https://search.buzz.im/)
@@ -273,21 +274,20 @@ Also see [[identification]].
 #### GitHub
 ![[GitHub-OSINT-Attack-Surface-v2.jpg]]
 ![[GitHub-Dorks.png]]
-
-* [https://thedatapack.com/tools/find-github-user-email/](https://thedatapack.com/tools/find-github-user-email/)
-* [Grep.app: Find code snippets across GitHub](https://grep.app/)
-* [GitHub Dorks: Find leaked secrets using GitHub search](https://github.com/techgaun/github-dorks)
-* [GitDorker: Scrape secrets from GitHub through usage of a large repository of dorks](https://github.com/obheda12/GitDorker)
-* [dxy4481/truffleHug: Find high-entropy strings in Git repositories](https://github.com/dxa4481/truffleHog)
-* [H51un6/email2github: Identify GitHub accounts associated with email address](https://github.com/h51un6/email2github)
-* [Rly0nheart/octosuite: Advanced GitHub OSINT framework](https://github.com/rly0nheart/octosuite)
+* Thedatapack: [find-github-user-email](https://thedatapack.com/tools/find-github-user-email/)
+* [Grep.app](https://grep.app/): Find code snippets across GitHub
+* Techgaun: [GitHub Dorks](https://github.com/techgaun/github-dorks): Find leaked secrets using GitHub search
+* Obheda12: [GitDorker](https://github.com/obheda12/GitDorker): Scrape secrets from GitHub through usage of a large repository of dorks
+* Dxy4481: [truffleHug](https://github.com/dxa4481/truffleHog): Find high-entropy strings in Git repositories
+* H51un6: [email2github](https://github.com/h51un6/email2github): Identify GitHub accounts associated with email address
+* Rly0nheart: [octosuite](https://github.com/rly0nheart/octosuite): a GitHub OSINT framework
 * OSS Insight: [GitHub Data Explorer](https://ossinsight.io/explore/), AI-based, searches GitHub event data
-
+* S0md3v: [Zen](https://github.com/s0md3v/Zen): Find GitHub user email addresses
 ### Gravatar
-* [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808)
+* [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808) twitter thread
 ### Minecraft
-* [Minecraft statistics: Search for past server activity of players](https://minecraft-statistic.net/en/players/)
+* [Minecraft statistics](https://minecraft-statistic.net/en/players/): Search for past server activity of players
 ### Spotify
-* [https://laptrinhx.com/osint-investigations-on-spotify-4007838654/](https://laptrinhx.com/osint-investigations-on-spotify-4007838654/)
+* laptrinhx.com: [OSINT Investigations on Spotify](https://laptrinhx.com/osint-investigations-on-spotify-4007838654/)
 ### Wikipedia
-* [WikiStalker: Analyse Wikipedia user activity](https://github.com/altilunium/wistalk)
+* Altilunium: [Wistalk](https://github.com/altilunium/wistalk): Analyse Wikipedia user activity

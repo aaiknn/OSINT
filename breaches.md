@@ -16,7 +16,6 @@
 * [https://en.wikipedia.org/wiki/List_of_data_breaches](https://en.wikipedia.org/wiki/List_of_data_breaches)
 ### Articles
 * [PRIVACY Affairs: Acer Hacked -- Private Data of Millions of Clients Sold on Hacker Forum](https://www.privacyaffairs.com/acer-data-breach/)
-
 ## Data Breaches
 * `site:pastebin.com intext:domain name`
 * [https://amibreached.com/](https://amibreached.com/)
@@ -52,6 +51,8 @@
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
 ### Visualisation
 * [LeakIX: Graph tool: edu example](https://leakix.net/graph/c7f087d1-aad0-49d4-b93d-c7d019b295a8)
+## Email Breaches
+* Khast3x: [h8mail](https://github.com/khast3x/h8mail): email OSINT & password breach hunting tool
 ## Onion Breaches
 * [https://pwndb2am4tzkvold.onion.ws/](https://pwndb2am4tzkvold.onion.ws/)
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
