@@ -20,6 +20,7 @@
 * [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned)
 * [Travisbrown/memory.lol](https://github.com/travisbrown/memory.lol): a web service that provides historical information about social media accounts. Look up 542 million historical screen names for 443 million TWITTER accounts.
 * [OSINT Combine: Alt-Tech Social Search](https://www.osintcombine.com/alt-tech-social-search), a custom Google search-engine for non-mainstream social media platforms and several paste sites
+* Alfredredbird: [alfred](https://github.com/Alfredredbird/alfred): A tool which finds social media accounts
 ### Handbooks
 * Maltego Handbook for Social Media Investigations, stored here: [[maltego-handbook-for-social-media-investigations.pdf]].
 
@@ -234,6 +235,7 @@ Also see [[identification]].
 * [TgScanRobot: A bot that shows which Telegram groups a person is a member of](https://t.me/TgScanRobot/)
 ### WhatsApp
 * [Download anyone's WhatsApp profile picture](https://whatsapptools.net/download-profile-picture)
+* Jasperan: [Whatsapp OSINT](https://github.com/jasperan/whatsapp-osint): logs online/offline events from WhatsApp users
 #### Scraper
 * [WhatsApp group link scraper and checker](https://github.com/TheSpeedX/WhatScraper)
 ## Other
@@ -279,10 +281,11 @@ Also see [[identification]].
 * Techgaun: [GitHub Dorks](https://github.com/techgaun/github-dorks): Find leaked secrets using GitHub search
 * Obheda12: [GitDorker](https://github.com/obheda12/GitDorker): Scrape secrets from GitHub through usage of a large repository of dorks
 * Dxy4481: [truffleHug](https://github.com/dxa4481/truffleHog): Find high-entropy strings in Git repositories
-* H51un6: [email2github](https://github.com/h51un6/email2github): Identify GitHub accounts associated with email address
+* H51un6: [email2github](https://github.com/h51un6/email2github): identify GitHub accounts associated with email address
 * Rly0nheart: [octosuite](https://github.com/rly0nheart/octosuite): a GitHub OSINT framework
 * OSS Insight: [GitHub Data Explorer](https://ossinsight.io/explore/), AI-based, searches GitHub event data
 * S0md3v: [Zen](https://github.com/s0md3v/Zen): Find GitHub user email addresses
+* Mxrch: [GitFive](https://github.com/mxrch/GitFive): a tool to help tracking down GitHub users
 ### Gravatar
 * [Gravatar OSINT](https://twitter.com/OsintSupport/status/1459986724902391808) twitter thread
 ### Minecraft

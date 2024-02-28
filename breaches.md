@@ -1,4 +1,6 @@
 # Breaches
+* Ekultek: [WhatBreach](https://github.com/Ekultek/WhatBreach): a tool to find breached emails, databases, pastes, and relevant information
+* Loseys: [Oblivion](https://github.com/loseys/Oblivion): a tool for real-time monitoring of data leaks
 ## Personal Exposure
 * [https://inteltechniques.com/blog/2021/07/23/personal-ransomware-exposure/](https://inteltechniques.com/blog/2021/07/23/personal-ransomware-exposure/)
 * [Ransomwhere ransomware payment tracker](https://ransomwhe.re/)
@@ -53,10 +55,11 @@
 * [LeakIX: Graph tool: edu example](https://leakix.net/graph/c7f087d1-aad0-49d4-b93d-c7d019b295a8)
 ## Email Breaches
 * Khast3x: [h8mail](https://github.com/khast3x/h8mail): email OSINT & password breach hunting tool
+* Andrew-vii: [Hookshot](https://github.com/andrew-vii/hookshot/): automated email scraping from HaveIBeenPwned API
 ## Onion Breaches
 * [https://pwndb2am4tzkvold.onion.ws/](https://pwndb2am4tzkvold.onion.ws/)
 * [http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)
-## Paste Sites
+## Paste Sites and Such
 *Remember these can be dorked.*
 * [Codepen](https://codepen.io/)
 * [Doxbin](https://doxbin.com/)
@@ -72,5 +75,3 @@
 * [Psbdmp.ws](https://psbdmp.ws/)
 * [Doxbin.org](https://doxbin.org)
 * [Leaked.wiki](https://leaked.wiki/home)
-## Breach Data Scraping
-* [Hookshot: Automated email scraping from HaveIBeenPwned API](https://github.com/andrew-vii/hookshot/)

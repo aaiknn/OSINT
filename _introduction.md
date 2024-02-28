@@ -50,6 +50,7 @@ WITPRO	- Witness Protection
 * Pentestbook: [Public Info Gathering](https://pentestbook.six2dez.com/recon/public-info-gathering)
 * Global Investigative Journalism Network: [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/).
 * Haax.fr: [OSINT methodology](https://cheatsheet.haax.fr/open-source-intelligence-osint/tools-and-methodology/methodology/)
+* OffcierCia: [Non-typical OSINT Guide](https://github.com/OffcierCia/non-typical-OSINT-guide): *the most unusual OSINT guide you've ever seen*
 ## Articles
 * Ax1al: [OSINT: The What, The Why, and The How](http://web.archive.org/web/20210508193301/https://ax1al.com/blogs/osint.html)
 * OH SHINT: [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf), stored locally [[ohshint-OSINT-WTF-Article.pdf|here]].
@@ -86,6 +87,7 @@ WITPRO	- Witness Protection
 * [Lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng): OSINT gathering tool
 * [Maltego](https://www.maltego.com/) cyber investigation platform
 * Lucksi: [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes): a *complete OSINT tool*
+* 3nock: [OTE](https://github.com/3nock/OTE): a *templating engine* for OSINT purposes. Quite smart if you're doing this for a while and want to genuinely have tweaking control over your workflows.
 * [~~IRIS-Team/IRIS~~](https://github.com/IRIS-Team/IRIS)
 ## Techniques
 * Toddington: [Cheat sheets](https://www.toddington.com/resources/cheat-sheets/): acollection of flowcharts for various techniques and processes
@@ -107,6 +109,7 @@ WITPRO	- Witness Protection
 * ADL: [H.E.A.T. Map for the US](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)
 * Internetwache: [Parse online .DS_Store files](https://labs.internetwache.org/ds_store/)
 * [Am I FLoCed](https://amifloced.org/): Google FLoCing checker
+* Tracelabs: [tlosint-live](https://github.com/tracelabs/tlosint-live): Trace Labs OSINT Linux Distribution based on Kali
 ### Articles
 * Infosecurity Magazine: [Keeping up with the Uncertainty of Shifting Global Data Protection Regulations](https://www.infosecurity-magazine.com/opinions/uncertainty-global-data-protection/), December 2020
 ### Uh...
@@ -255,6 +258,10 @@ See [[geoint]].
 See [[geoint]].
 #### FININT
 * [Blockpath Crypto Accounting Tools](https://blockpath.com/)
+* OffcierCia: [On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+* S0md3v: [Orbit](https://github.com/s0md3v/Orbit): a Blockchain transactions investigation tool
+#### SATINT
+* ANG13T: [SatIntel](https://github.com/ANG13T/SatIntel): a tool which extracts satellite telemetry, receive orbital predictions, and parse TLEs
 #### TRADINT
 * [https://tradint.io/](https://tradint.io/)
 * [Trade Map: Trade statistics for international business development](https://www.trademap.org/Index.aspx)

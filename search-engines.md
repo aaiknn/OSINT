@@ -8,6 +8,7 @@
 * Cipher387: [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
 * [DorkGenius](https://dorkgenius.com/): an AI-based, generates custom search queries for Google, Bing and DuckDuckgo.
 * [Explore AI](https://exploreai.vercel.app): an AI-based, searches for answers across YouTube videos.
+* [Open Semantic Search](https://github.com/opensemanticsearch/open-semantic-search): a research tool to search, browse, analyse and explore large document collections
 
 ![[Search-Operators-Cheatsheet-IntelTechniques.jpg]]
 ## Super Search

@@ -2,7 +2,8 @@
 ## General
 * [https://intelx.io/](https://intelx.io/), a search engine and data archive for domains, emails, URLs, IPs, CIDRs, crypto addresses, data leaks, and other.
 * [Phonebook.cz](https://phonebook.cz/): a tool that lists domains, subdomains, URLs, and email addresses for a given domain
-* Rog3rSm1th: [Profil3r](https://github.com/Rog3rSm1th/Profil3r): Find a person's accounts, and (breached) email addresses
+* Rog3rSm1th: [Profil3r](https://github.com/Rog3rSm1th/Profil3r): find a person's accounts, and (breached) email addresses
+* HunxByts: [GhostTrack](https://github.com/HunxByts/GhostTrack): track location or mobile number
 ### By Country
 #### Belgium
 * [wittegids.be](https://www.wittegids.be/) database of addresses, landlines, and names
@@ -19,6 +20,7 @@
 * [Email permutator](http://metricsparrow.com/toolkit/email-permutator/)
 * Valimail: [domain checker](https://domain-checker.valimail.com/dmarc/): check whether a domain is protected against email impersonation attacks
 * Khast3x: [h8mail](https://github.com/khast3x/h8mail): email OSINT & password breach hunting tool
+* Sham00n: [buster](https://github.com/sham00n/buster): multi-purpose tool for email-based recon
 
 ![[Email-Workflow.png]]
 
@@ -42,6 +44,7 @@ Find existing email addresses by nickname: [https://github.com/sharsil/mailcat](
 * Sundowndev: [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga): information gathering and OSINT framework for phones -- needs Firefox installed.
 * [Fone Finder](http://fonefinder.net/): a telephone search engine that returns the city, state, and country of any phone number in the world
 * AzizKpln: [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project): a tool which gives information on phone numbers
+* Megadose: [ignorant](https://github.com/megadose/ignorant): a tool which checks if a phone number is used on Amazon, Snapchat, and Instagram
 ### Payphone Directory
 Payphone locations for the USA, Canada, Germany, New Zealand, and a few other countries.
 [https://www.payphone-directory.org/](https://www.payphone-directory.org/)

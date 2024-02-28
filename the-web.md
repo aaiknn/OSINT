@@ -12,9 +12,8 @@
 * [IQWhois](https://iqwhois.com/advanced-search)
 
 ![[Short-Links-Verification-Cheatsheet.PNG]]
-
-* [Seintpl/osint/...: Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
 ## Websites
+* Devanshbatham: [FavFreak](https://github.com/devanshbatham/FavFreak): a tool to facilitate recon using favicon hashes
 ### Archives
 * [Intelligence X: Meta search IX, the Wayback Machine, and archive.is at once](https://intelx.io/dorks)
 * [Wayback Machine](https://wayback.archive.org/)
@@ -39,6 +38,7 @@
 [https://themarkup.org/blacklight](https://themarkup.org/blacklight): A free online tool that checks web pages for any privacy invading scripts, apps, session trackers, ads, etc.
 ### URL Shorteners
 * [Urlhunter](https://github.com/utkusen/urlhunter): recon tool that facilitates research on URLs that are exposed via shortener services
+* Seintpl/osint: [Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
 ## Social Media
 See [[social-media]].
 ## The Onion Network

@@ -1,5 +1,6 @@
 # Journalism
 * [Tapesearch](https://www.tapesearch.com/), a service that searches AI-generated transcriptions from podcasts.
+* Tquin: [podqueue](https://github.com/tquin/podqueue): Archive podcast feeds including notes and images
 ## By continent
 ### Africa
 * [Gazettes.africa](https://gazettes.africa/): largest digital collection of free African gazettes
